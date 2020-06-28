@@ -46,6 +46,7 @@ sass:
 
 # Plugins
 plugins:
+  - jekyll-admin
   - jekyll-paginate
   - jekyll-paginate-content
 

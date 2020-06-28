@@ -60,11 +60,11 @@ function jekyll(done) {
  * @param {*} done 
  */
 function server(done) {
-  browserSync({
-    server: {
-      baseDir: '_site'
-    }
-  });
+  notify('Serving Jekyll...');
+  let bundle = process.platform === "win32" ? "bundle.bat" : "bundle";
+  return cp
+    .spawn(bundle, ['exec', 'jekyll serve --port 8000'], { stdio: 'inherit' })
+    .on('close', done);
   done();
 }
 
