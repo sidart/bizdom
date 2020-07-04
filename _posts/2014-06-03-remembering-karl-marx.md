@@ -6,7 +6,7 @@ subtitle: 'Karl Marx: a reader'
 description: Know about the early days of Marx.
 image: https://res.cloudinary.com/thebizdom-in/image/upload/v1593861640/karl_qon7dv.jpg
 optimized_image: https://res.cloudinary.com/thebizdom-in/image/upload/v1593861640/karl_qon7dv.jpg
-category: Personality
+category: personality
 tags:
 - Personality
 - Economics
