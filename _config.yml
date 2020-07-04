@@ -1,14 +1,13 @@
 # Site Settings
 name: TheBizdom
-title: TheBizdom | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+title: TheBizdom | BIZ of the wisDOM
+description: We are in the BIZness of spreading wisDOM.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - Indian Business History
+  - Modern India
+  - Data Story
+  - Startups
+  - Fintech
 show_hero: true
 menu:
   - title: Home
@@ -17,10 +16,9 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
-email: youremail@test.com
-disqus_username: disqus_username
+  - title: Books
+    https://www.amazon.com/Bizdom-Quiz-Book-Business-ebook/dp/B07JZH8GWW
+email: bizdomonline@gmail.com
 
 
 # Social Media Settings
