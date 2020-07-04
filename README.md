@@ -97,8 +97,8 @@ Below are some properties you can change in your project `_config.yml`, check th
 
 ```
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
+name: Bizdom
+title: The Bizdom | A blog about Indian Business Past and Present
 description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
 tags:
   - blog
@@ -106,7 +106,7 @@ tags:
   - jekyll
   - theme
   - netlify
-email: youremail@xyz.com
+email: bizdomonline@gmail.com
 disqus_username: disqus_username
 show_hero: true
 menu:
@@ -126,7 +126,6 @@ facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
 linkedin_username: linkedin_username
-medium_username: medium_username
 
 # Posts Settings
 show_time_bar: true
