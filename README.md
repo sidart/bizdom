@@ -49,7 +49,7 @@ $ gulp
 
 After runnning Jekyll locally, you can manage content by opening your favourite browser at
 ```
-http:localhost:8000/admin
+http://localhost:8000/admin
 ```
 
 # GitHub Publish :repeat:
