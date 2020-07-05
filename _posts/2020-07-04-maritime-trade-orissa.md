@@ -1,5 +1,5 @@
 ---
-title: Maritime Trade Orissa
+title: Maritime Trade History of Kalinga
 layout: post
 description: Long before Ottoman and Arab did their Islamization, followed by West’s
   Globalization, there was something called Indianization. And, the Kingdom of  Kalinga
