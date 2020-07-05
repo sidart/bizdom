@@ -1,6 +1,6 @@
 # TheBizdom | BIZ of the wisDOM
 
-This repo hosts the code for [thebizdom.in](https://www.thebizdom.in/) on the master branch which builds and serves through gh-pages.
+This repo hosts the code for [thebizdom.in](https://www.thebizdom.in/) on the master branch which builds and serves through [github-pages](https://github.com/sidart/bizdom/deployments/activity_log?environment=github-pages).
 
 # Environment :repeat_one:
 
