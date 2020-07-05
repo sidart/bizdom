@@ -1,3 +1,7 @@
+# TheBizdom | BIZ of the wisDOM
+
+This repo hosts the code for [thebizdom.in](https://www.thebizdom.in/) on the master branch which builds and serves through gh-pages.
+
 # Environment :repeat_one:
 
 Before starting, make sure you have [Ruby](https://www.ruby-lang.org/en/downloads/) and [NodeJS](https://nodejs.org/) installed.
