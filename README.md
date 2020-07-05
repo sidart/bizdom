@@ -1,4 +1,4 @@
-# Environment :one:
+# Environment :repeat_one:
 
 Before starting, make sure you have [Ruby](https://www.ruby-lang.org/en/downloads/) and [NodeJS](https://nodejs.org/) installed.
 
@@ -7,7 +7,7 @@ And install Gulp client:
 $ npm install gulp-cli -g
 ```
 
-# Instalation :one:
+# Instalation :repeat_one:
 
 Clone this repo:
 ```
@@ -48,7 +48,7 @@ After runnning Jekyll locally, you can manage content by opening your favourite 
 http:localhost:8000/admin
 ```
 
-# Publish :repeat:
+# GitHub Publish :repeat:
 
 After making changes, you'll just need to run Gulp build:
 ```
