@@ -6,7 +6,7 @@ subtitle: The Original Aatm Nirbhar Bharat Abhiyan
 description: The story of Swadeshi Movement and how it shaped our trade and industries.
 image: https://res.cloudinary.com/thebizdom-in/image/upload/v1593870655/Swadeshi_ylazf9.png
 optimized_image: https://res.cloudinary.com/thebizdom-in/image/upload/v1593870651/Swadeshi_mini_rkuimk.png
-category: Indian Business History
+category: madeinindia
 tags:
 - IndianBusinessHistory
 - Economics
