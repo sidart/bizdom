@@ -7,7 +7,9 @@ subtitle: Without tea, the British Empire and British industrialism could have t
 description: A 3-letter commodity that will topple a kingdom, create a new nation,
   forced China to get out of self-imposed isolation, create a sea-ports, and will
   become a symbol of consumerism.
-tags: []
+tags:
+- Economics
+- Commodities
 author: sid-misra
 image: https://res.cloudinary.com/thebizdom-in/image/upload/v1593954977/Tea_fyqmce.png
 optimized_image: https://res.cloudinary.com/thebizdom-in/image/upload/v1593954977/Tea_mini_p9eiqv.png
