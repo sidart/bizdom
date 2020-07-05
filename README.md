@@ -11,7 +11,7 @@ And install Gulp client:
 $ npm install gulp-cli -g
 ```
 
-# Instalation :repeat_one:
+# Installation :repeat_one:
 
 Clone this repo:
 ```
