@@ -9,7 +9,7 @@ category: desibrand
 tags:
 - IndianBusinessHistory
 - DesiBrand
-author: sid-misra
+author: sidart
 ---
 
 Started way back in 1892 with an investment of Rs. 295, these biscuits were manufactured in a small house in central Kolkata. 

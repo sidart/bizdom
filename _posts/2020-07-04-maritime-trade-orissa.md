@@ -11,7 +11,7 @@ tags:
 - SeaportsofIndia
 category: locations
 date: '2020-06-20 23:11:01'
-author: sid-misra
+author: sidart
 ---
 
 Indian western coast was trading with Arabs, Greeks & Romans, the eastern coast was doing this with South East Asia & China. A good maritime trade requires (a) inland water transport (b) coastal transport (c) overseas transport. From Maurya rule in 4th century B.C. till 15th C.  

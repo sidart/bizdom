@@ -10,6 +10,7 @@ category: personality
 tags:
 - Personality
 - Economics
+author: sidart
 ---
 
 ### **Early Days**

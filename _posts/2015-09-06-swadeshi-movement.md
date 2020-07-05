@@ -10,7 +10,7 @@ category: madeinindia
 tags:
 - IndianBusinessHistory
 - Economics
-author: sid-misra
+author: sidart
 ---
 
 Swami Dayanand in 1873 made Swadeshi as an article of Faith. Post that #AtmaNirbhar Bharat campaign had three phases (Before our Indendence), each resulting in some Hits and misses. But in totality, it did shape a few things which we see today in things around us. 

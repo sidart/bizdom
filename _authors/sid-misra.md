@@ -2,7 +2,7 @@
 title: Sid Misra
 layout: author
 photo: "/assets/img/uploads/profile.png"
-name: Sidart
+name: sidart
 display_name: Siddharth Misra
 bio: A born Moron.
 twitter_username: sidart_misra

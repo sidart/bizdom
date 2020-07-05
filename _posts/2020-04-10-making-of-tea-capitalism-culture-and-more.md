@@ -10,7 +10,7 @@ description: A 3-letter commodity that will topple a kingdom, create a new natio
 tags:
 - Economics
 - Commodities
-author: sid-misra
+author: sidart
 image: https://res.cloudinary.com/thebizdom-in/image/upload/v1593954977/Tea_fyqmce.png
 optimized_image: https://res.cloudinary.com/thebizdom-in/image/upload/v1593954977/Tea_mini_p9eiqv.png
 category: commodity
