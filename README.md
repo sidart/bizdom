@@ -20,7 +20,7 @@ $ git clone https://github.com/sidart/bizdom.git
 
 Access the local project:
 ```
-$ cd path/to/bizdom
+$ cd bizdom
 ```
 
 Install npm packages:
