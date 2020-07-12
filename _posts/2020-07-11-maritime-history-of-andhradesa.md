@@ -2,6 +2,9 @@
 title: Maritime History of Andhradesa
 layout: post
 author: sidart
+description: An interlinked story of their past, their Roman connects, Kalamkari,
+  the rise of their communities as construction magnets in present India and the enigma
+  of Buddhism. All related to their maritime history.
 image: https://res.cloudinary.com/thebizdom-in/image/upload/v1594475176/Andhra_r1a52e.png
 optimized_image: https://res.cloudinary.com/thebizdom-in/image/upload/v1594475176/Andhra_r1a52e.png
 tags:
