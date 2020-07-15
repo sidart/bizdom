@@ -1,5 +1,5 @@
 ---
-title: Ramanand Sagar's EPIC
+title: The Ramanand Sagar's EPIC
 layout: post
 tags:
 - IndianBusinessHistory
