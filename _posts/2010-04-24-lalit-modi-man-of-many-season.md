@@ -2,8 +2,8 @@
 title: 'Lalit Modi: Man of Many Season'
 date: '2010-04-24 00:00:00'
 layout: post
-image: https://res.cloudinary.com/thebizdom-in/image/upload/v1594836944/Lalit_Modi_gxyad1.jpg
-optimized_image: https://res.cloudinary.com/thebizdom-in/image/upload/v1594836944/Lalit_Modi_gxyad1.jpg
+image: https://res.cloudinary.com/thebizdom-in/image/upload/v1594838481/Lalit_Modi_rzk9rf.png
+optimized_image: https://res.cloudinary.com/thebizdom-in/image/upload/v1594838481/Lalit_Modi_rzk9rf.png
 category: personality
 tags:
 - Personality
