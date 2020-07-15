@@ -2,16 +2,16 @@
 title: How well do you know about the origins of some Indian Occupational Surnames?
 layout: post
 author: sidart
-description: There are many Indian surnames that are named after the occupation. Gandhi
-  was ‘perfumer’ (derived from gandh गंध, meaning smell),  Jhaveri, the ‘jeweller’,
-  Kapadia (Dimple), Cloth (Kapada) seller.  A post on these surnames.
+description: There are many Indian surnames that were named after the occupation.
+  Gandhi was ‘perfumer’ (derived from gandh गंध, meaning smell),  Jhaveri, the ‘jeweller’,
+  Kapadia - Cloth (Kapada) seller.
 image: https://res.cloudinary.com/thebizdom-in/image/upload/v1594139561/Surname_fgezuh.png
 optimized_image: https://res.cloudinary.com/thebizdom-in/image/upload/v1594139561/Surname_fgezuh.png
 tags:
 - IndianBusinessHistory
 category: community
 date: '2020-02-22 21:46:16'
-subtitle: Know more about the Origin of some famous Indian Surnames
+subtitle: Know more about the Origin of some famous Indian Surnames.
 ---
 
 The greatest number of Indian family names were derived from Sanskrit, however few occupational family names also came from Arabic and Persian (Farsi) -Dewan, Majmudar (record keeper), Malik, Shroff, Doshi, Sarkar, and Sood.  Plus adapted from western world, like Mistry (Portuguese), from mestre ‘master, expert’.
@@ -60,10 +60,10 @@ A lot of Indian business communities picked their surname from their place of or
 
 ### Others
 Dhawan on the name of a clan in the Khatri (‘member of the warrior caste’ who later got into business) community. It is popularly believed to mean ‘runner’, ‘messenger’, from Sanskrit /dhāv-/‘to run’.  Tandan derived from the Sanskrit dandanam or punishment, as, in ancient times, men of this caste were employed to carry out the punishments that were inflicted by the authorities upon offenders. Sawhney were the commander, **Handa** were into ‘cooking pot and Badal were into water. 
-Srivastava came  from Sanskrit šrīvasta ‘abode of wealth’).
+Srivastava came  from Sanskrit šrīvasta ‘abode of wealth’). Mittal were Agarwal Bania community, probably derived from Sanskrit mitra ‘friend, ally’. 
 ### European Connects 
 Dubash (duâ’ + ‘bhash’ = translator) as an occupation got started a post-European entry, but as a surname was first used by Hormasji Pestonji Shroff who migrated in 1852 and started his business in Karachi, by calling himself as Dubash. In Goa you will find **Braganza** from the city of Bragança in Portugal.  Its the name of the royal house whose members occupied the throne of Portugal. Same way we have D’Souza minor places in Portugal or Spain named Sousa or Souza.
 Da Silva came  name from Portuguese /silva/‘wood, thicket, bramble’. 
 
 
-But remember this topic has its own complexibility and one can perhaps argue for another origin, Remember a Modi surname can be a Hindu bania (Lalit Modi) or OBC (PM Modi), Jain, Muslim (Syed Modi, the 8-time National Badminton champ) or even a Parsi (Rusi Mody).
+But remember this topic has its own complexibility and one can perhaps argue for another origin, Remember a Modi surname can be a Hindu bania (Lalit Modi) or OBC (PM Modi), Jain, Muslim (Syed Modi, the 8-time National Badminton champ) or even a Parsi (Rusi Mody). Another example is Gandhi which is also an occupational name used by  Hindu (Bania, Arora, Jat), Jain, and Parsi (they used it as Gandy).
