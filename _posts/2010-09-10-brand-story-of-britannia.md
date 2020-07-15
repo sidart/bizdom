@@ -20,3 +20,4 @@ The Mumbai factory was setup in 1924 and Peak Freans, UK acquired a controlling 
 BBCo celebrated its golden jubilee in 1968 and the company name was changed to the current Britannia Industries Limited in 1979. 
 In 1982 Nabisco Brands Inc., USA became a major foreign shareholder. Ten years later in 1992, Britannia Industries Limited celebrated its platinum jubilee. 
 The following year, the Wadia Group acquired a stake in ABIL, UK and became an equal partner with Groúpe Danone in Britannia Industries Limited.
+![](https://res.cloudinary.com/thebizdom-in/image/upload/v1594831441/0f34f1da-76e3-4972-bc04-b68cf92ecc49_cmpwkq.jpg)
