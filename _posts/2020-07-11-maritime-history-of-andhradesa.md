@@ -61,7 +61,7 @@ Cotton production on ‘dry’ soils especially driven by the spread of Telugu s
 They also benefited most from the ‘American’ crops (Tobacco, chilli, tomato, papaya) introduced by Portuguese. But it didn’t last long. 
 A major famine hit central Coromandel in 1718–19, 1728–36, 1747, 1769, 1781–83, 1789, 1792 and 1798. And, focus was back on the food. In a few decades an individual's effort would change the fortune of many in this region. 
 Sir Arthur Cotton was a British general and irrigation engineer. In 1858, he came up with an ambitious plan of connecting all major rivers of India (which was again talked by Atal Bihari Vajpayee in 2002, and interlinking of canals and rivers. Today two districts of Andhra Pradesh have about 3,000 statues of him. Transforming a dry expanse into the ‘rice bowl’ of Andhra Pradesh.
-As he encouraged/funded many irrigation projects. And, as the entrepreneur Andhra communities grabbed this opportunity. Therefore, even today one will find in the construction work, we have Kammas, Reddys and Kapus from Coastal Andhra.
+As he encouraged/funded many irrigation projects. And, as the entrepreneur Andhra communities grabbed this opportunity. Therefore, even today one will find in the construction work, we have Kammas, [Reddys](https://www.thebizdom.in/how-well-do-you-know-about-the-origins-of-some-indian-occupational-surnames/) and Kapus from Coastal Andhra.
 Already made them a rich farming community, their success in construction projects made them more rich and by the second half of the 20th century. You will find them dominating business in all the cultural capitals in the south (Madras, Hyderabad and even Bangalore.
 
 ## The Enigma of Buddhism
