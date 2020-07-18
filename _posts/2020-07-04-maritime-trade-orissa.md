@@ -9,7 +9,7 @@ optimized_image: https://res.cloudinary.com/thebizdom-in/image/upload/v159388325
 tags:
 - IndianBusinessHistory
 - SeaportsofIndia
-category: locations
+category: location
 date: '2020-06-20 23:11:01'
 author: sidart
 ---
