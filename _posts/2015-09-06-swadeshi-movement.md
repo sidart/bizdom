@@ -25,6 +25,7 @@ The first version of Swadeshi was developed in western India. Lokmanya Bal Ganga
 6.	Around same time, Laxmanrao Kirloskar had left his teaching job at Victoria Jubliee Technical Institute and was trying hard to kickstart his idea of a better variety of plough to help our farmers. 
 All these individual efforts were like Garage Startups, and were looking for their booster event/trigger.
 ![](https://pbs.twimg.com/media/EbehJGRVcAAQbko?format=png&name=small)
+
 ## Phase 2: Division of States
 Today, many in India are fighting for separate statehood. Lord Curzon’s idea of dividing Bengal was the DeMo moment of that era. Bengal during that time was too big a state Comprising today’s WB, Bangladesh, Assam, Orissa, JH & Bihar. 
 While Curzon division in 1905 was for administrative efficiency, it was treated as another divide-and-rule policy ploy. 
