@@ -6,7 +6,7 @@ permalink: "/about/"
 ---
 
 ## Who we are?
-We started it as a Quiz Blog way back in 2005. On Bizdom, initially Quiz questions asked at various quizzes held in Pune B school campuses were posted, quiz enthusiasts read it all over India and that gave us encouragement to post more such content. Expanded from a single person's timepass and at peak we were a team of 5.
+We started it as a Quiz [Blog](http://bizdom.blogspot.com/) way back in 2005. On Bizdom, initially Quiz questions asked at various quizzes held in Pune B school campuses were posted, quiz enthusiasts read it all over India and that gave us encouragement to post more such content. Expanded from a single person's timepass and at peak we were a team of 5.
 
 As we all got busy with our love lives and corporate rat life. Quizzing and Blogging almost became a mundane activity. 
 
