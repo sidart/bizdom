@@ -40,5 +40,3 @@ She also wanted to start a mathematics university–Ganitha Kshetra–in Hyderab
 
 ![](https://images.csmonitor.com/csm/2013/11/DEVI.jpg?alias=standard_900x600nc)
 On 4 November 2013, Google honoured Shakuntala Devi with a Doodle on what would have been her 84th birthday. And in a few weeks from now we will also witness what looks like a good biopic on her.
-
-{% youtube "https://www.youtube.com/watch?v=8HA1HRufYso" %}
