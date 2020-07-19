@@ -67,6 +67,7 @@ Zip pouch in bigger namkeen pack for consumer convenience
 Such packaging would revolutionize the product shelf life and freshness from 6 days to 6 month which is the biggest reason for the growth of their traditional snacks.
 
 ### Shiv Ratan Agarwal
+![](https://res.cloudinary.com/thebizdom-in/image/upload/v1595178956/about1_xa1bjh.jpg)
 Shiv Ratan Agarwal, Moolchand’s second son and Shiv Kishan’s younger brother would continue to grow the business from Bikaner and would soon set up Bikaji (derived from Bika Rao- the founder of Bikaner) in 1987.
 ## Today 
 While legal fight is still on between the Calcutta and Delhi division about the ownership of the Brand. The different divisions have their own rise and fall.
