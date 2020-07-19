@@ -73,9 +73,9 @@ Shiv Ratan Agarwal, Moolchand’s second son and Shiv Kishan’s younger brother
 While legal fight is still on between the Calcutta and Delhi division about the ownership of the Brand. The different divisions have their own rise and fall.
 
 Haldiram Delhi Group will see the biggest growth in the recent past and will opt for an aggressive organic growth. FY2016, they acquired Indore-based Aakash Namkeen followed by acquisition of controlling stake stakes in regional players like Babaji Snacks, Pragati Snacks, Ankita Agro and Food Processing and Atop Food Products.
-Nagpur business is also growing at a fast pace. While Calcutta is struggling with their own problems. All starting from [Prabhu Shankar Agarwal](https://scroll.in/article/813145/meet-the-most-notorious-member-of-the-haldiram-bhujiawala-family) and recent death of Mahesh Agarwal.
+Nagpur business is also growing at a fast pace. While Calcutta is struggling with their own problems. All starting from [Prabhu Shankar Agarwal](https://scroll.in/article/813145/meet-the-most-notorious-member-of-the-haldiram-bhujiawala-family) and recent death of [Mahesh Agarwal](http://agronfoodprocessing.com/mahesh-agarwal-the-owner-of-haldiram-bhujiawala-passes-away/).
 
-End Note:
+**End Note:**
 The story of bhujia definitely predates Haldiram, though its alleged original founder never enjoyed even a tenth of Haldiram’s fame and fortune.
 
 What to read more?
