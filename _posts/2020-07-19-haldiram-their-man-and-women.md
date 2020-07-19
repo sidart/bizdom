@@ -18,7 +18,7 @@ description: Unknowingly, Mr. Haldiram started the Indian snack food industry in
 It’s quite funny that I first heard of the name Haldiram, while watching my then action hero’s movie Arjun Pandit. This 1999 movie will have Haldiram (Ashish Vidyarthi), a hideous criminal who runs a powerful gang. Well-Well all this got changed as by 2007, I started dating my wife and given that both of us were budding business quizzers. A lot of talk was around the growth of some desi brands. She been Marwadi, started telling me many tales, and one of such amazing kissa was about the House of Haldiram.
 ## Origin
 ### Bikanerwala
-Bikaner was growing as a business city as it was in-route to the important trade route through to the ports of Gujarat, toward Delhi. The business community was also growing, so was the need for the quick, healthy and cheap snacks.  
+Bikaner was growing as a business city as it was in-route to the [important trade route](https://www.thebizdom.in/shekhawati-region-hub-of-army-traders/) through to the ports of Gujarat, toward Delhi. The business community was also growing, so was the need for the quick, healthy and cheap snacks.  
 
 Many little hole-in-the-wall shops started selling samosas and kachoris and a freshly fried bhujia.
 Around 1885, during the reign of the benevolent Maharaja Dungar Singh, the first batch of bhujia was made in Bikaner. 
