@@ -10,7 +10,7 @@ optimized_image: https://res.cloudinary.com/thebizdom-in/image/upload/v159447517
 tags:
 - SeaportsofIndia
 - IndianBusinessHistory
-category: location
+category: locations
 date: '2020-07-11 19:52:47'
 subtitle: The present-day Andhra Pradesh has about 600 km long coastline and it would
   be very hard to ignore their maritime history.

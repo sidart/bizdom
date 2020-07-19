@@ -5,7 +5,7 @@ author: sidart
 layout: post
 tags:
 - IndianBusinessHistory
-category: location
+category: locations
 optimized_image: https://res.cloudinary.com/thebizdom-in/image/upload/v1595097377/Shekhwati_hyzihk.png
 image: https://res.cloudinary.com/thebizdom-in/image/upload/v1595097377/Shekhwati_hyzihk.png
 subtitle: Army, Marwaris and their Colourful Havelis
