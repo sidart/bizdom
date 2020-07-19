@@ -15,7 +15,7 @@ description: Unknowingly, Mr. Haldiram started the Indian snack food industry in
   protagonists.
 ---
 
-It’s quite funny that I first heard of the name Haldiram, while watching my then action hero’s movie Arjun Pandit. This 1999 movie will have Haldiram (Ashish Vidyarthi), a hideous criminal who runs a powerful gang. Well-Well all this got changed as by 2007, I started dating my wife and given that both of us were budding business quizzers. A lot of talk was around the growth of some desi brands. She been Marwadi, started telling me many tales, and one of such amazing kissa was about the House of Haldiram.
+It’s funny that I first heard of the name Haldiram, while watching my then action hero’s movie Arjun Pandit. This 1999 movie will have Haldiram (Ashish Vidyarthi), a hideous criminal who runs a powerful gang. Well-Well all this got changed as by 2007, I started dating my wife and given that both of us were budding business quizzers. A lot of talk was around the growth of some desi brands. She been Marwadi, started telling me many tales, and one of such amazing kissa was about the House of Haldiram.
 ## Origin
 ### Bikanerwala
 Bikaner was growing as a business city as it was in-route to the [important trade route](https://www.thebizdom.in/shekhawati-region-hub-of-army-traders/) through to the ports of Gujarat, toward Delhi. The business community was also growing, so was the need for the quick, healthy and cheap snacks.  
@@ -31,30 +31,26 @@ Bikhi was Bhikharam's sister, and has learned the art of making fat and firm for
 Somewhere between 1908 and 1918, Bhikharam, realizing the potential of this bhujia, he began making larger quantities of ‘fat bhujia’ to sell at his shop in Bhujia Bazaar.
 
 ### Haldiram & Champa Devi
-The task of making the bhujia was mainly done by Haldiram only and he kept on improving the process. The initial sales were for a few measly paise per kilo. The bhujia was spooned into small paper funnels made from old newspapers. But living with peace in such a large family staying in a tiny home was difficult. 
-Soon, crack in the family got started. A tipping point will come when Champa Devi (Haldiram’s wife) refuses to live in the same house and demands him to separate. Haldiram, was forced to leave his joint family
+Making of the bhujia was mainly done by Haldiram only and he kept on improving the process. The initial sales were for a few measly paise per kilo. The bhujia was spooned into small paper funnels made from old newspapers. But living with peace in such a large family staying in a tiny home was difficult. Soon, crack in the family got started. A tipping point will come when Champa Devi (Haldiram’s wife) refuses to live in the same house and demands him to separate. Haldiram, was forced to leave his joint family.
 
 ## On his own
-By 1944, at age 36, Haldiram and Champa Devi with three sons, daughters-in-law and a three-year-old grandson, were on their own. They struggled for a while, until Haldiram released another masterpiece snack. 
-Champa Devi was an expert in cooking moong dal. Haldiram applied his usual understanding of customer tastes and took to the streets armed with his wife’s special. Local workers in the area were always on the lookout for a cheap, delicious meal during their workday, and Champa Devi’s moong dal was an instant hit with them. Healthy, hearty and hot, it served as the perfect meal for the working class.
+By 1944, at age 36, Haldiram and Champa Devi with three sons, daughters-in-law and a three-year-old grandson, were on their own. They struggled for a while until Haldiram released another masterpiece snack. Champa Devi was an expert in cooking moong dal. Haldiram applied his usual understanding of customer tastes and took to the streets armed with his wife’s special. Local workers in the area were always on the lookout for a cheap, delicious meal during their workday, and Champa Devi’s moong dal was an instant hit with them. Healthy and hot, it served as the perfect meal for the working labour class.
 
 ### The Calcutta Calling
-In the 1950s, Haldiram went to Calcutta for his friend's son's wedding, and was asked to make bhujia for all the wedding guests. While many had already heard of Haldiram fame. This is the first time marwadi of Calcutta will taste this. 
-Haldiram will ask his second son (Rameshwarlal) to look for a shop and start the operation in Kolkata.
-In 1967, the shop in Calcutta was doing better than anybody had ever hoped (all thanks to the growth of the Marwadi community. who were growing in power and money. The profits were higher than they were in Bikaner.
+In the 1950s, Haldiram went to Calcutta for his friend’s son’s wedding, and was asked to make bhujia for all the wedding guests. While many had already heard of Haldiram fame. This is the first time Marwadi of Calcutta will taste this. Haldiram will soon ask his second son (Rameshwarlal) to look for a shop and start the operation in Kolkata. In 1967, the shop in Calcutta was doing better than anybody had ever hoped (all thanks to the growth of the Marwadi community. who were growing in power and money). The profits were higher than what they had in Bikaner.
 
 ### Saraswati Devi
 Moolchand (Halidiram’s eldest son) was now controlling and growing the business. This is when her daughter demanded some business for her. After a lot of discussion and debate, it was agreed that She along with her husband can go to Nagpur and set up a shop there. Saraswati has also learned the art of making these snacks, but they lacked the art of selling and managing the business. As the business was failing Moolchand asked his elder son, Shiv Kishan to shift there and run the show in 1968.
 
 ## The House of Haldiram
-By 1968, the three sons of Halidram were managing the business in Bikanar and Calcutta. While, Moolchand didn’t play much active role in expanding the business his four sons will do, esp Shiv Kishan. Two of his biggest moves were: 
-(a) Kaju katli. It is usually prepared by thickening milk with sugar, dry fruits, mainly cashew nuts, and saffron. 
-(b) Getting into the restaurant business
-Around the same time the growing Calcutta business will trigger the two sons of Haldiram who broke their business and get separated from the Moolchand’s family. Rameshwarlal set up with Haldiram Bhujiawala in Kolkata and Satyanarayan managing a tiny piece of the business in the name of Haldiram & Sons.
+By 1968, the three sons of Halidram were managing the business in Bikaner and Calcutta. While, Moolchand didn’t play much active role in expanding the business his four sons will do, esp Shiv Kishan. Two of his biggest moves were: 
+(a) Kaju Katli. It was prepared by thickening milk with sugar, dry fruits, mainly cashew nuts, and saffron. 
+(b) Getting into the restaurant business 
+Around, the same time the growing Calcutta business will trigger the two sons of Haldiram who broke their business and get separated from the Moolchand’s family. Rameshwarlal set up with Haldiram Bhujiawala in Kolkata and Satyanarayan managing a tiny piece of the business in the name of Haldiram & Sons.
+
 
 ### Manoharlal Agarwal 
-If Shiv Kishan was the man of execution, Manoharlal was the man of branding. While Halidiram had  differentiated the product and given it a recall value, by calling it under its name. But what about the packing. In the ’70s, packaging had evolved from bhujia being served in a rolled-up newspaper cone to bhujia being packed in a low-quality plastic bag. Bhujia would be poured in through the open end and the packet would be sealed with a few staples. 
-This is when Manoharlal will push for the plastic bag to be ‘branded’. It was started using letterpress, with the Haldiram Bhujiawala brand name.
+If Shiv Kishan was the man of execution, Manoharlal was the man of branding. While Halidiram had differentiated the product and given it a recall value, by calling it under its name. But what about the packing? In the ’70s, packaging had evolved from bhujia being served in a rolled-up newspaper cone to bhujia being packed in a low-quality plastic bag. They would pour Bhujia in through the open end and they would seal the packet with a few staples. This is when Manoharlal will push for the plastic bag to be ‘branded’. They started  using letterpress, with the “Haldiram Bhujiawala” brand name.
 
 ### Delhi 
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1595156288/First_shop_pwxt9x.jpg)
