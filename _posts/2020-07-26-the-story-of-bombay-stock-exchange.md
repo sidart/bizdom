@@ -53,7 +53,7 @@ In 1973, BSE started the construction of the iconic BSE Tower. BSE Towers, will 
 ## SENSEX and SEBI
 There was a need for an Index, as a means to measure the overall performance of the exchange. So, a BSE Sensitive Index was started  in 1986. It was first published on 2 January 1986, as a “Market Captialisation-Weighted” Index of 30 component stocks representing a sample of large, well-established and financially sound companies. 
 It was the country’s first Equity Index (Base Year 1978-79 =100). 
-But, this Sensitive Index will have to wait till 1989, for the word we use so often. It's when Deepak Mohoni will coin the word: Sensex. To quote him, as he replied to me on Twitter on this history:
+But, this Sensitive Index will have to wait till 1989, for the word we use so often. It's when [Deepak Mohoni](https://twitter.com/deepakmohoni) will coin the word: Sensex. To quote him, as he replied to me on Twitter on this history:
 > “Started doing a column for Business Standard, checked with the editor (Jaggi) if I could shorten the index name in my column and he asked me to go ahead. I knew a few business journalists/editors and convinced them (over a few drinks) to use the word in their writings.”
 
 While presenting the Union Budget for 1987-88, Prime Minister, holding the additional charge of Finance, Rajiv Gandhi declared the establishment of a separate board for the regulation and orderly functioning of the capital market and for protection of investor interests.
