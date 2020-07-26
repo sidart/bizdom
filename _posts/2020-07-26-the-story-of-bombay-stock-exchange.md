@@ -62,6 +62,9 @@ Around the same time in August 1987 it was linked for an instant display of shar
 
 Then, historically an open-cry floor trading exchange, the Bombay Stock Exchange switched to an electronic trading system in 1995.
 
-Morarjee Goculdas Spinning and Weaving Co., Ltd. Established in 1871, it is the oldest textile unit in the country and the fifth company to be listed on the stock exchange. First acquired by Seth Piramal Chaturbhuj Makharia in 1934 it is the oldest surviving company registered on Bombay Stock Exchange
-
 One trenchant criticism that dogged BSE before it was corporatised in 2007 was that it was a club of the brokers, by the brokers and for the brokers.
+
+### Oldest Listed Company
+Morarjee Goculdas Spinning and Weaving Co., Ltd. Established in 1871, it is the oldest textile unit in the country and the fifth company to be listed on the stock exchange. First acquired by Seth Piramal Chaturbhuj Makharia in 1934 it is the oldest surviving company registered on Bombay Stock Exchange (self-claim)
+![](https://www.forbes.co.in/images/history/desktop/banner.jpg)
+But it seems Forbes & Co is the oldest company that is still trading. It was started as a Scottish agency and mercantile business in 1797. And, now is owned by Shapoorji Pallonji Group.
