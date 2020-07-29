@@ -2,7 +2,7 @@
 title: Days of Missed call
 date: '2020-07-30 00:00:00'
 layout: post
-subtitle: 'From the days of Rs. 16 mins to Free call: A 25-Year Journey'
+subtitle: 'The days of Rs. 16 mins: How it got started?'
 description: Before Data was not Oil, know more the story of how our telecom story
   got kick-started 25 years back.
 image: https://res.cloudinary.com/thebizdom-in/image/upload/v1596047451/IndiaMobile_ukoqod.png
