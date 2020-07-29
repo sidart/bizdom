@@ -30,7 +30,7 @@ Prior to the bidding, there was no ceiling on the number of circles that could b
 Market was a mix of many players, there was an upcoming Sunil Mittal. Son of a politician, from Ludhiana. He started his first business in 1976 at the age of 18, to make crankshafts for local bicycle manufacturers and made decent money when he became the exclusive dealer for Suzuki generators. 
 
 #### JV Modi
-Bhupendra Kumar Modi was the son of legendary Gujarmal Modi and  was famous as “JV Modi”. As he was known for introducing innovative new technologies via Joint Ventures with Continental’s radial tyres, Xerox copiers, and Alcatel’s electronic switching.  He will later start Spice brand with three more licences. All of which were sold to Airtel subsequently. His son Dlilp, makes and sells mobile phones under the Spice brand.
+Bhupendra Kumar [Modi](https://www.thebizdom.in/how-well-do-you-know-about-the-origins-of-some-indian-occupational-surnames/) was the son of legendary Gujarmal Modi and  was famous as “JV Modi”. As he was known for introducing innovative new technologies via Joint Ventures with Continental’s radial tyres, Xerox copiers, and Alcatel’s electronic switching.  He will later start Spice brand with three more licences. All of which were sold to Airtel subsequently. His son Dlilp, makes and sells mobile phones under the Spice brand.
 
 #### Usha Martin 
 Founded in 1961 by two brothers, Mr Basant K (or BK) Jhawar and Mr Brij K Jhawar. The Scottish company Martin-Black partnered the Jhawars by providing resources such as technology and capital and hence the name—Usha Martin 15th August 1961 in Ranchi. 
