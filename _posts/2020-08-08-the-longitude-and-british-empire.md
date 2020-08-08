@@ -29,7 +29,7 @@ Caribbean, although his results were not impressive in terms of accuracy.
 ### Before British ruled the World
  
 Spain and Portugal were the maritime superpowers of the 15th century. In 1494, Spain and Portugal partitioned the world. 
-Under the Treaty of Tordesillas, a line 370 leagues west of the Cape Verde and Azores islands split the globe from pole to pole. Lands discovered to the west of the line would belong to Spain, those to the east to Portugal. East–west position–longitude–had become territorial.  
+Under the Treaty of Tordesillas, a line west of the Cape Verde and Azores islands split the globe from pole to pole. Lands discovered to the west of the line would belong to Spain, those to the east to Portugal. 
 In the sixteenth century the Spanish monarchy prohibited the circulation of their maps and descriptions to protect their outposts in the Pacific. So it was a major coup when a British seaman took a book of sea charts and sailing directions from a captured Spanish ship. The charts were soon copied and made available by a London chart maker. 
 By the end of the 17th century, Dutch, France and England were coming to dominate the oceans. The chronology of rewards for solving the longitude solutions went together with the maritime growth of these nations. And, for that most of these nations started their State-backed schools to train and license navigators engaged in long-distance trade.
 
