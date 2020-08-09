@@ -54,7 +54,7 @@ Back in England, Newton grew impatient. He realized that any hope of settling th
 
 ### Clockmaker John Harrison
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1596911407/Screenshot_2020-08-08_at_5.51.25_PM_xamsra.png)
-English clockmaker John Harrison, learned his father’s trade of carpentry.  He will soon accomplished what Newton had feared was impossible: As, he invented a clock that would carry the accurate time from the home port, like an eternal flame, to any remote corner of the world.
+English clockmaker John Harrison, learned his father’s trade of carpentry.  He will soon accomplish what Newton had feared was impossible.  As, he invented a clock that would carry the accurate time from the home port, like an eternal flame, to any remote corner of the world.
 
 With no formal education or apprenticeship to any watchmaker, he constructed a series of virtually friction-free clocks that required no lubrication and no cleaning. These were made from materials impervious to rust, and that kept their moving parts perfectly balanced in relation to one another. 
 
@@ -63,7 +63,7 @@ He did away with the pendulum, and he combined different metals inside his works
 Most of his success, were dodged by members of the scientific elite who distrusted his magic box. The commissioners charged with awarding the longitude prize—Nevil Maskelyne among them—changed the contest rules whenever they saw fit, to favor the chances of astronomers over the likes of Harrison and his fellow mechanics.  But the utility and accuracy of Harrison’s approach would triumph. His followers shepherded Harrison’s invention through the design modifications that enabled it to be mass produced and enjoy wide use in the British Empire.
 It took decades and a king’s intervention, for him to get awarded the money. Yet even King George could not force the committee to officially acknowledge that John Harrison had solved the problem.
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1596911407/Screenshot_2020-08-08_at_11.50.31_PM_ds0vue.png)
-An aged, exhausted Harrison, ultimately claimed his rightful monetary reward in 1773—after forty struggling years of political intrigue, international warfare, academic backbiting, scientific revolution, and economic upheaval. One of the person responsible for his fame was Captain Cook.  
+An aged, exhausted Harrison, ultimately claimed his rightful monetary reward in 1773—after forty struggling years of political intrigue, international warfare, academic backbiting, scientific revolution, and economic upheaval. One of the persons responsible for his fame was Captain Cook.  
 
 ### Captain Cook
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1596911407/Screenshot_2020-08-08_at_11.55.50_PM_a0rbwq.png)
@@ -76,6 +76,7 @@ Not only does he produce numerous maps, but his ability to measure longitude giv
 
 #### Impact
 Soon with the advancement in the correct measurement of Longitude more work was done with Mapping our world. Organizing a map by the grid of longitude and latitude also creates a sense of the possibilities of place. The map includes unknown regions, which helps travellers avoid surprises, or at least makes it clear where surprises could be expected. The narrative of exploration becomes an attempt to fill in blank places rather than to move further along a line.
-Along with that Greenwich was firmly fixed as the meridian of origin for all these measurements; British dominance in submarine cables practically reinforced its astronomical and navigational importance, allowing their connection for longitude measurements to the Continent, the Americas, and across the World.
+Along with that Greenwich was firmly fixed as the meridian of origin for all these measurements.
+British dominance in submarine cables practically reinforced its astronomical and navigational importance, allowing their connection for longitude measurements to the Continent, the Americas, and across the World.
 
 Want to read more? Read this [book](https://www.amazon.in/Longitude-Dava-Sobel/dp/0007214227)
