@@ -8,8 +8,10 @@ description: How a farmer’s son once became India’s fourth-largest industria
   The Man whose Clan are today's Biggest Maker of Steel In India.
 image: https://res.cloudinary.com/thebizdom-in/image/upload/v1618507538/JindalSteel_mgreol.png
 optimized_image: https://res.cloudinary.com/thebizdom-in/image/upload/v1618507538/JindalSteel_mgreol.png
-category: indianbusinesshistory
+category: personality
 author: sidart
+tags:
+- IndianBusinessHistory
 ---
 
 Om Prakash Jindal was born on August 7, 1930, in Nalwa village of Hisar district in Haryana. 

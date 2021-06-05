@@ -9,8 +9,11 @@ description: Today's startup’s ecosystem is crowded with people talking, screa
   of patience with outcomes.
 image: https://res.cloudinary.com/thebizdom-in/image/upload/v1622879280/steelmint_pa2wd1.png
 optimized_image: https://res.cloudinary.com/thebizdom-in/image/upload/v1622879280/steelmint_pa2wd1.png
-category: indianbusinesshistory
+category: startups
 author: sidart
+tags:
+- IndianBusinessHistory
+- Capitalmarket
 ---
 
 ## The Steel Industry in India

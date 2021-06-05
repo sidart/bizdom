@@ -7,8 +7,12 @@ description: Sunshine, rains, storm, squalls—it’s all in a day’s work for 
   The monsoon brings with it more than just winds.
 image: https://res.cloudinary.com/thebizdom-in/image/upload/v1622929560/Monsoon_svhu3v.png
 optimized_image: https://res.cloudinary.com/thebizdom-in/image/upload/v1622929560/Monsoon_svhu3v.png
-category: indianbusinesshistory
+category: commodity
 author: sidart
+tags:
+- Capitalmarket
+- Economics
+- Agriculture
 ---
 
 The monsoons are a door to the past, present and future of India. It carries the convergence of culture, ideas, movements, and concepts that made up a historic era, and was also a channel for cultural exchange with other parts of the world.
