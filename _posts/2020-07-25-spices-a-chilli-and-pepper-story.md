@@ -14,7 +14,12 @@ description: Tea and Coffee laid the foundation of today’s consumerism, Cotton
   commodities in its global impact?
 ---
 
-The words species and spices come from the same roots in Latin,  which referred to kinds, forms, or appearances of items within a larger assortment. We sometimes view spices and herbs as the same thing but this is not correct. A herb is a plant that does not have a woody stem and dies at the end of each growing season. While, we usually define a spice as an aromatic part of a tropical plant, be it its root, bark, flower or seed.
+The words species and spices come from the same roots in Latin,  which referred to kinds, forms, or appearances of items within a larger assortment. 
+## Herbs and Spices
+Herbs and spices are both seasonings used to add flavor to foods but they are different in a few ways. 
+A herb is a plant that does not have a woody stem and dies at the end of each growing season. The word herb derives from the Latin herba meaning grass or straw. Before the discovery of fire, herbs provided a source of food to early humans through means other than subsistence hunting. 
+While, we usually define a spice as an aromatic part of a tropical plant, be it its root, bark, flower or seed. Spices can be added to a dish before cooking or used to enhance the taste of a finished meal. Herbs are green leaves harvested from plants and either dried or used fresh.
+
 
 Spices and its importance in human history have many layers. From mythology to history, and from history to the modern Political Economy, Spices are the first commodity one should study.  The spice trade, probably, is the most ancient trade practised by man. 
 It brought together diverse cultures of the western, and eastern worlds, and have created a harmonious but also a harmful world of today. The exchange of spices stimulated the first global age and predated the beginnings of economic globalization, wherein actions in one area of the world greatly affected people and events on another, the far-off continent. 
@@ -26,6 +31,7 @@ The literature of Ancient Asian civilisation is a treasure trove of information 
 
 ### Kingdom of Spices
 India is/was known as the Kingdom of Spices and the Pepper was the “Black gold” while cardamom was the “Queen of spices.” Pepper is called as ‘Pippali’ from the Sanskrit word and the meaning of it is ‘berry’.
+Cardamom is a spice derived from several plants in the genera "Elettaria" or "Amomum". Both genera belong to the ginger family and are native to the Indian subcontinent and Indonesia.
 For ages, Roman, followed by the Arabs kept coming to India, in their hunt for this black gold. I often joke to one of my Keralites, that it was because of them that we as a nation got enslaved by the European.  
 ### Roman Domination
 200 BC to 400 AD: For 600 years, the Romans controlled the trade. Their earnest desire for exotic foods and expensive imported spices indicated their love of luxury, especially to the upper class. Spices the Romans sought included: nutmeg, cinnamon, pepper, cloves, and ginger. Then Europe will get into their Dark era (500 to 1100 AD) The Roman Empire also set up a powerful trading centre in Alexandria, Egypt in the first century BC. During this Roman-era, they used pepper in 81% of their recipes.

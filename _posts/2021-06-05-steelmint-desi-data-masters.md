@@ -14,6 +14,9 @@ author: sidart
 ---
 
 ## The Steel Industry in India
+India is one of the fastest growing economies in the world. Steel is in everything from your car, to your bike, and to your house. Steel has emerged as the most basic requirement of the new rail network and other infrastructure projects scheduled to come up soon.
+The Steel Industry in India is on a rising curve – some small-scale producers operate; however, most of the steel factories are in the public sector. 
+
 ### Tata Connection
 Durg District was first noticed in 19th century by P. N. Bose, first Indian to join Geological Survey of India (GSI). He informed about this place to Dorabji Tata, somehow things did not materialize for the Tatas. Rather Bose’s most promising discovery came when he retired from GSI.
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1622879636/ST1_pkk1zj.png)
@@ -23,8 +26,14 @@ Since, Steel is the most basic requirement of modern manufacturing and so Indian
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1622879631/ST2_x4qivo.jpg)
 
 ### Cold War
-It was the early days of Cold War, and due to funding constraints India approached both the camps; Soviet Union was quicker to bring in their expertise for the Bhilai Steel Plant. BSP soon became sole supplier of rail tracks to the Indian Railways.
+It was the early days of Cold War, and due to funding constraints India approached both the camps; Soviet Union was quicker to bring in their expertise for the Bhilai Steel Plant. 
+The Bhilai Steel Plant almost started the economic cold war, as it was the then largest Soviet project in India.
+BSP soon became sole supplier of rail tracks to the Indian Railways.
 On a side note, you can also read about a person whose clan today dominate the [Steel business in India](https://www.thebizdom.in/how-jindals-mastered-steel/).
+
+Another intresting trivia:
+S. Narayan was a young metallurgist teaching at the Indian Institute of Science in Bangalore in April 1958 – who was soon to be sent off to the Bhilai Steel Plant, which was set up in collaboration with the USSR.
+Owing to his fluency in the Russian language, he was approached for lessons by one of his student who had just won the Lenin Prize for ‘outstanding services in the struggle for preservation and conservation of peace’. The lessons went off well, and CV Raman delivered the famous acceptance speech in Russian in Moscow.
 
 ## Shekhawati belt of Chhattisgarh
 Now, let’s jump to another industrial town. Satna is known to be one of the largest cements producing city in the world due to limestone and dolomite deposits. This is where Dhruv and Tarun Goel (brothers) were born and where they got their first experience of iron-ore trading.
@@ -43,7 +52,8 @@ Memories of the first order, is something that still brings a smile to their fac
 
 ## The Birth of SteelMint
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1622879635/St6_tepeil.jpg)
-SteelMint was, thus born in 2010. Tarun shifted his base to Raipur to look after the daily operations while Sumit and Dhruv were still exploring the depths of the industry. While their offerings of ‘Data-Services’ was critical for trading calls, it was not easily accessible.
+SteelMint was, thus born in 2010. Tarun shifted his base to Raipur to look after the daily operations while Sumit and Dhruv were still exploring the depths of the industry. While their offerings of ‘Data-Services’ was critical for trading calls, it was not easily accessible. They started aggregating real-time steel consumption data from various geographies.
+
 They felt that they can build their own MOAT around it to make the process more system driven. The Iron & sponge prices data service with an initial rate of Rs. 1.5-2k became an instant hit in a market starved of genuine spot price assessments.
 Despite getting good traction, the next few years were a struggle, with not much  of revenue surplus. Then, came the idea of doing an event on the Steel Industry. More than the paltry earnings, the event gave the company visibility and industry connections in the right places.
 
@@ -56,7 +66,9 @@ This is where SteelMint Comes into the picture. SteelMint provides real-time dat
 Today, most steel producers in India, uses their data, for ‘data-driven decision making'. Sumit feelsthat their data tools are designed to make sense of the enormous wealth of information (both structured and alternative), so that users can deriveactionable insights.
 
 ## What next?
-Most of us have heard of this: “Data is the new oil”. But how does it work? Well, having more data will allow you to tap into an abundance of workable options by gaining insights and thus ability to make informed decisions. Thus, more data you process equals to more profit.
+Most of us have heard of this: “Data is the new oil”. But how does it work? 
+Data is the new oil– and SteelMint is a modern day drilling company that provides a turnkey service to mine insights from data.
+Having more data will allow you to tap into an abundance of workable options by gaining insights. You can improve what you do, reduce the risks and costs and expand your market reach. Thus, more data you process equals to more profit.
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1622879634/st9_gzmd4b.jpg)
 > What about offering your services to Retail investors, given the recent hype around the Metal stocks? To this Dhruv replied: "We show pixels not the picture, So let the equity research firms do that".
 

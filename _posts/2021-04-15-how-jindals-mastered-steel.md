@@ -2,7 +2,8 @@
 title: The Man who talked to machines.
 date: '2020-12-10 23:05:23'
 layout: post
-subtitle: How Jindals Mastered Steel.
+subtitle: From a Family of Landlords and Farmers to Successful Manufacturers Of Iron
+  in India.
 description: How a farmer’s son once became India’s fourth-largest industrialist.
   The Man whose Clan are today's Biggest Maker of Steel In India.
 image: https://res.cloudinary.com/thebizdom-in/image/upload/v1618507538/JindalSteel_mgreol.png
