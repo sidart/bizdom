@@ -17,19 +17,21 @@ author: sidart
 ### Tata Connection
 Durg District was first noticed in 19th century by P. N. Bose, first Indian to join Geological Survey of India (GSI). He informed about this place to Dorabji Tata, somehow things did not materialize for the Tatas. Rather Bose’s most promising discovery came when he retired from GSI.
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1622879636/ST1_pkk1zj.png)
-In 1903 he was approached by Mohini Mohan Dhar, the Dewan of Mayurbhanj district in Odisha.
+In 1903 he was approached by Mohini Mohan Dhar, the Dewan of Mayurbhanj district in Odisha. Read [more](https://twitter.com/sidart_misra/status/1251164634607833088)
+
 Since, Steel is the most basic requirement of modern manufacturing and so Indian government started to setup this on their own. In the 2nd Five Year Plan, 3 steel plants of 1 million tonne capacity each were set up under the Hindustan Steel Limited (HSL) at Rourkela, Bhilai, and Durgapur.
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1622879631/ST2_x4qivo.jpg)
 
 ### Cold War
 It was the early days of Cold War, and due to funding constraints India approached both the camps; Soviet Union was quicker to bring in their expertise for the Bhilai Steel Plant. BSP soon became sole supplier of rail tracks to the Indian Railways.
+On a side note, you can also read about a person whose clan today dominate the [Steel business in India](https://www.thebizdom.in/how-jindals-mastered-steel/).
 
 ## Shekhawati belt of Chhattisgarh
 Now, let’s jump to another industrial town. Satna is known to be one of the largest cements producing city in the world due to limestone and dolomite deposits. This is where Dhruv and Tarun Goel (brothers) were born and where they got their first experience of iron-ore trading.
 
 They started working for their maternal uncle, way back in 2007. Just then came the 2008 Global crisis. This is when Dhruv decided to to be on his own and shifted base to the main hub of the action Barbil in Odisha which happens to be the largest iron-ore Mining belt.
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1622879629/St5_tslkv7.jpg)
-The last important town in this riveting story is Kharsia. This small town is to Chhattisgarh, what the Shekhawati belt is to Rajasthan or probably if one goes deeper, there might be a deeper connection between the two. Most Marwadis working in the steel industry in Chhattisgarh owe their origins to this small station located on the Tatanagar–Bilaspur section of Howrah-Mumbai line. The town is the birthplace of many leading steel manufacturers of the region. Sumit Agrawal was also born in this place. In July 2008, both Dhruv & Sumit (distant relatives) had a chance meeting at Tarun’s place in Delhi, where they exchanged ideas. Tarun was working for a logistics company in Delhi in those days. The plan was that, Dhurv will be in Barbil to source Iron Ore, which Sumit will sell in Raipur/Durg belt. The entity formed was named ‘Shri Krishna Trading Company’ (SKTC).
+The last important town in this riveting story is Kharsia. This small town is to Chhattisgarh, what the [Shekhawati belt ](https://www.thebizdom.in/shekhawati-region-hub-of-army-traders/)is to Rajasthan or probably if one goes deeper, there might be a deeper connection between the two. Most Marwadis working in the steel industry in Chhattisgarh owe their origins to this small station located on the Tatanagar–Bilaspur section of Howrah-Mumbai line. The town is the birthplace of many leading steel manufacturers of the region. Sumit Agrawal was also born in this place. In July 2008, both Dhruv & Sumit (distant relatives) had a chance meeting at Tarun’s place in Delhi, where they exchanged ideas. Tarun was working for a logistics company in Delhi in those days. The plan was that, Dhurv will be in Barbil to source Iron Ore, which Sumit will sell in Raipur/Durg belt. The entity formed was named ‘Shri Krishna Trading Company’ (SKTC).
 
 ## Early Days
 Beauty of Marwadi businesses is their strong community support, which helped in getting initial business orders. However, the orders coming in didn’t keep pace with Dhruv’s and Sumit’s expectations. Their young age became a hindrance for anyone to take them seriously as traders.
