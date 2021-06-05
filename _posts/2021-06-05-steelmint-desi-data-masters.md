@@ -29,12 +29,13 @@ Since, Steel is the most basic requirement of modern manufacturing and so Indian
 It was the early days of Cold War, and due to funding constraints India approached both the camps; Soviet Union was quicker to bring in their expertise for the Bhilai Steel Plant. 
 The Bhilai Steel Plant almost started the economic cold war, as it was the then largest Soviet project in India.
 BSP soon became sole supplier of rail tracks to the Indian Railways.
-On a side note, you can also read about a person whose clan today dominate the [Steel business in India](https://www.thebizdom.in/how-jindals-mastered-steel/).
+Speaking before the Indian Parliament in February 1960, Soviet leader Nikita Khrushchev celebrated progress at the Soviet-aided steel mill in Bhilai: “Let the friendship between our nations,” he announced with his best effort at poetry, “be as strong as metal from the Bhilai Metallurgical Factory.” 
 
 Another intresting trivia:
 S. Narayan was a young metallurgist teaching at the Indian Institute of Science in Bangalore in April 1958 – who was soon to be sent off to the Bhilai Steel Plant, which was set up in collaboration with the USSR.
 Owing to his fluency in the Russian language, he was approached for lessons by one of his student who had just won the Lenin Prize for ‘outstanding services in the struggle for preservation and conservation of peace’. The lessons went off well, and CV Raman delivered the famous acceptance speech in Russian in Moscow.
 
+On a side note, you can also read about a person whose clan today dominate the [Steel business in India] and who was getting started around the same time. (https://www.thebizdom.in/how-jindals-mastered-steel/).
 ## Shekhawati belt of Chhattisgarh
 Now, let’s jump to another industrial town. Satna is known to be one of the largest cements producing city in the world due to limestone and dolomite deposits. This is where Dhruv and Tarun Goel (brothers) were born and where they got their first experience of iron-ore trading.
 
