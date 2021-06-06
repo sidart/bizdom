@@ -38,7 +38,7 @@ Another intresting trivia:
 S. Narayan was a young metallurgist teaching at the Indian Institute of Science in Bangalore in April 1958 – who was soon to be sent off to the Bhilai Steel Plant, which was set up in collaboration with the USSR.
 Owing to his fluency in the Russian language, he was approached for lessons by one of his student who had just won the Lenin Prize for ‘outstanding services in the struggle for preservation and conservation of peace’. The lessons went off well, and CV Raman delivered the famous acceptance speech in Russian in Moscow.
 
-On a side note, you can also read about a person whose clan today dominate the [Steel business in India] and who was getting started around the same time. (https://www.thebizdom.in/how-jindals-mastered-steel/).
+On a side note, you can also read about a person whose clan today dominate the [Steel business in India](https://www.thebizdom.in/how-jindals-mastered-steel/) and who was getting started around the same time.
 ## Shekhawati belt of Chhattisgarh
 Now, let’s jump to another industrial town. Satna is known to be one of the largest cements producing city in the world due to limestone and dolomite deposits. This is where Dhruv and Tarun Goel (brothers) were born and where they got their first experience of iron-ore trading.
 
