@@ -42,7 +42,9 @@ On a side note, you can also read about a person whose clan today dominate the [
 ## Shekhawati belt of Chhattisgarh
 Now, let’s jump to another industrial town. Satna is known to be one of the largest cements producing city in the world due to limestone and dolomite deposits. This is where Dhruv and Tarun Goel (brothers) were born and where they got their first experience of iron-ore trading.
 
-They started working for their maternal uncle, way back in 2007. Just then came the 2008 Global crisis. This is when Dhruv decided to to be on his own and shifted base to the main hub of the action Barbil in Odisha which happens to be the largest iron-ore Mining belt.
+They started working for their maternal uncle, way back in 2007. Just then came the 2008 Global crisis. 
+![](https://res.cloudinary.com/thebizdom-in/image/upload/v1622879630/ST3_gszcnt.jpg)
+This is when Dhruv decided to to be on his own and shifted base to the main hub of the action Barbil in Odisha which happens to be the largest iron-ore Mining belt.
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1622879629/St5_tslkv7.jpg)
 The last important town in this riveting story is Kharsia. This small town is to Chhattisgarh, what the [Shekhawati belt ](https://www.thebizdom.in/shekhawati-region-hub-of-army-traders/)is to Rajasthan or probably if one goes deeper, there might be a deeper connection between the two. Most Marwadis working in the steel industry in Chhattisgarh owe their origins to this small station located on the Tatanagar–Bilaspur section of Howrah-Mumbai line. The town is the birthplace of many leading steel manufacturers of the region. Sumit Agrawal was also born in this place. In July 2008, both Dhruv & Sumit (distant relatives) had a chance meeting at Tarun’s place in Delhi, where they exchanged ideas. Tarun was working for a logistics company in Delhi in those days. The plan was that, Dhurv will be in Barbil to source Iron Ore, which Sumit will sell in Raipur/Durg belt. The entity formed was named ‘Shri Krishna Trading Company’ (SKTC).
 

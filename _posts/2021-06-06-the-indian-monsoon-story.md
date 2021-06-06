@@ -41,7 +41,7 @@ Kharif falls in the monsoon season. Rice was a crop of monsoon Asia. In India, a
 
 Monsoon-dependent peninsular rivers that flowed out of the uplands of central and southern India provided an uncertain source of water. Canals in Punjab had rivers fed by snowmelt and part of UP was well served by Private wells. This shaped how these places will grow their crops.
 
-## What is there for you as an Equity investor?
+## Are you an Equity investor?
 Now, let's understand how it impacts us (and equity investors). First thing first, Poor rains potentially hurt the agricultural output and lead to food inflation. Image: Food Inflation peaked in Dec-19. 
 Rainfall is normal when= 96% -104% of the average rainfall of past 50 years
 ![](https://pbs.twimg.com/media/E2PiNNqVEAEil2Q?format=png&name=small)

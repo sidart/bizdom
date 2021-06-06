@@ -9,9 +9,10 @@ image: https://res.cloudinary.com/thebizdom-in/image/upload/v1594139561/Surname_
 optimized_image: https://res.cloudinary.com/thebizdom-in/image/upload/v1594139561/Surname_fgezuh.png
 tags:
 - IndianBusinessHistory
+- BusinessHouses
 category: community
 date: '2020-02-22 21:46:16'
-subtitle: Know more about the Origin of some famous Indian Surnames.
+subtitle: Know more about the Origin of some famous Indian Mercantile Surname.
 ---
 
 The greatest number of Indian family names were derived from Sanskrit, however few occupational family names also came from Arabic and Persian (Farsi) -Dewan, Majmudar (record keeper), Malik, Shroff, Doshi, Sarkar, and Sood.  Plus adapted from western world, like Mistry (Portuguese), from mestre ‘master, expert’.
@@ -25,6 +26,7 @@ Patel and Patil derive from ‘a piece of land’ and referred to a landowner/te
 **Chowdhury** were also the head of a community or caste, from Sanskrit /čatus-/‘four- way, all-round’ + /dhurīya/‘undertaking a burden (of responsibility)’. **Deshpande** and Deshmukhs were 'district accountant/leader’, formerly a hereditary office (from Sanskrit /deša/‘country, district’ + /pandita/‘learned man’). **Mehta** was another name used for the Chief (Sanskrit mahita = great and magnify) however in Gujarati it has come to mean ‘teacher’ or ‘accountant’. 
 #### Shet, Shethi & Shetty
 The Community name of Shetty and Chettiar derived from the Sanskrit word Shresthi (‘head of a mercantile or other guild’ and literally a superior person), since they were the best in the community on whom you can Trust on the money matters. It becomes Seth/Sethia in northern India. 
+The Nattukottai Chettiar community, or Nagarathars later on became a prominent mercantile caste in Tamil Nadu. What Marwari businessmen are to the north and Parsees to the west, the Nagarathars are to the south. While they migrated to many places, it was in Burma they grew tremendously as moneylenders. 
 
 We derived Shenoy from the coastal Karnataka from the word ‘Shrenipati’ or the leader of the guild. It is also interchangeable with its Sanskrit counterpart Shanbhag or Shanbhogue which means clerk. Mahajan were moneylender named after mahā ‘great’ + janas ‘person’.
 Another related name was Lala used for bankers, merchants and tradesmen. Sindi drevied Lalani from Lala.
@@ -66,4 +68,5 @@ Dubash (duâ’ + ‘bhash’ = translator) as an occupation got started a post-
 Da Silva came  name from Portuguese /silva/‘wood, thicket, bramble’. 
 
 
-But remember this topic has its own complexibility and one can perhaps argue for another origin, Remember a Modi surname can be a Hindu bania (Lalit Modi) or OBC (PM Modi), Jain, Muslim (Syed Modi, the 8-time National Badminton champ) or even a Parsi (Rusi Mody). Another example is Gandhi which is also an occupational name used by  Hindu (Bania, Arora, Jat), Jain, and Parsi (they used it as Gandy).
+But remember this topic has its own complexibility and one can perhaps argue for another origin, Remember a Modi surname can be a Hindu bania (Lalit Modi) or OBC (PM Modi), Jain, Muslim (Syed Modi, the 8-time National Badminton champ) or even a Parsi (Rusi Mody). 
+Another example is Gandhi which is also an occupational name used by  Hindu (Bania, Arora, Jat), Jain, and Parsi (they used it as Gandy).
