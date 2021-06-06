@@ -15,7 +15,10 @@ date: '2020-02-22 21:46:16'
 subtitle: Know more about the Origin of some famous Indian Mercantile Surname.
 ---
 
+“Occupational surnames” reflect the activities or jobs associated with our ancestors. These surnames and their frequency vary by region, language and social group within India. 
 The greatest number of Indian family names were derived from Sanskrit, however few occupational family names also came from Arabic and Persian (Farsi) -Dewan, Majmudar (record keeper), Malik, Shroff, Doshi, Sarkar, and Sood.  Plus adapted from western world, like Mistry (Portuguese), from mestre ‘master, expert’.
+
+Most common occupational surnames in India provide an interesting insight into how Indian society has evolved. Occupational surnames in India reflect what individuals did for a living in order to earn an income. 
 
 ### Lord of the Land
 People were awarded titles by native or foreign rulers, by the community, or by themselves. Some titles are simply honorific terms of address that have come down as surnames.  So, we have Bhatt ‘lord’,  Nair ‘leader’,  and Sarkar ‘lord’.
