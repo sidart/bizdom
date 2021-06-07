@@ -23,3 +23,5 @@ This New version of TheBizdom will try to be a place for Past, Present and Futur
 Merchant, Market & commodity. What makes them rich, why certain communities were rich, and why certain location attracts them the most.
 
 I will try to explain these through Economic, Political, Social and geographical factor. At the same time try to be current with things related to stock markets and economic activities.
+
+> Curiosity is, in great and generous minds, the first passion and the last virtue. We should always be eager to learn more, to know more about the world around us.

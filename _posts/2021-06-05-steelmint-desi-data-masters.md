@@ -52,6 +52,8 @@ The last important town in this riveting story is Kharsia. This small town is to
 Beauty of Marwadi businesses is their strong community support, which helped in getting initial business orders. However, the orders coming in didn’t keep pace with Dhruv’s and Sumit’s expectations. Their young age became a hindrance for anyone to take them seriously as traders.
 This did not deter their spirits. Dhruv started to maintain a daily log of the prices and passing it on to Sumit, who in turn started sharing the same with his business contacts. Given most of the Plants are located in an isolated places, the information shared was as valuable as the minerals.
 
+There are many ways to think about growth. Even though it should be considered in the broader context, growth often comes down to a short-term tradeoff of time and resources that should be weighed against expected future value. 
+
 Soon they realised that such information was empowering the businesses to make informed decisions. The seeds of SteelMint were starting to germinate. Sumit’s affinity for sales ensured that the data gathered by Dhruv’s research started fetching them some extra income.
 
 Memories of the first order, is something that still brings a smile to their faces. But, given both were still deeply involved in their core business of iron-ore trading, not much was done at that time. Then came the slowdown and ban on exports of many minerals including iron-ore.

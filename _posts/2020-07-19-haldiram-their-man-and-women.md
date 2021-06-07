@@ -28,13 +28,14 @@ He was a son of Tansukhdas Agarwal, a poor and just another snack seller living 
 
 ### Bikhi Bua
 Bikhi was Bhikharam's sister, and has learned the art of making fat and firm form of bhujia from her Mother-in-law. She used to visit Bikaner during festivals and on kids demand she used to make the same. And, assisting her was a young Ganga Bhishen Agarwal, aka Haldiram. He will understand this art from her bua, unfortunately not much is known about her family.
-Somewhere between 1908 and 1918, Bhikharam, realizing the potential of this bhujia, he began making larger quantities of ‘fat bhujia’ to sell at his shop in Bhujia Bazaar.
+Somewhere between 1908 and 1918, Bhikharam, realizing the potential of this bhujia, he began making larger quantities of ‘fat bhujia’ to sell at his shop in Bhujia Bazaar. As they says "Keep your focus on customers and you’ll go a long way."
 
 ### Haldiram & Champa Devi
 Making of the bhujia was mainly done by Haldiram only and he kept on improving the process. The initial sales were for a few measly paise per kilo. The bhujia was spooned into small paper funnels made from old newspapers. But living with peace in such a large family staying in a tiny home was difficult. Soon, crack in the family got started. A tipping point will come when Champa Devi (Haldiram’s wife) refuses to live in the same house and demands him to separate. Haldiram, was forced to leave his joint family.
 
 ## On his own
 By 1944, at age 36, Haldiram and Champa Devi with three sons, daughters-in-law and a three-year-old grandson, were on their own. They struggled for a while until Haldiram released another masterpiece snack. Champa Devi was an expert in cooking moong dal. Haldiram applied his usual understanding of customer tastes and took to the streets armed with his wife’s special. Local workers in the area were always on the lookout for a cheap, delicious meal during their workday, and Champa Devi’s moong dal was an instant hit with them. Healthy and hot, it served as the perfect meal for the working labour class.
+Innovation at time is also about the process of creating efficiency. So they keep improving their acts in the comings days.
 
 ### The Calcutta Calling
 In the 1950s, Haldiram went to Calcutta for his friend’s son’s wedding, and was asked to make bhujia for all the wedding guests. While many had already heard of Haldiram fame. This is the first time Marwadi of Calcutta will taste this. Haldiram will soon ask his second son (Rameshwarlal) to look for a shop and start the operation in Kolkata. In 1967, the shop in Calcutta was doing better than anybody had ever hoped (all thanks to the growth of the Marwadi community. who were growing in power and money). The profits were higher than what they had in Bikaner.
@@ -43,6 +44,7 @@ In the 1950s, Haldiram went to Calcutta for his friend’s son’s wedding, and 
 Moolchand (Halidiram’s eldest son) was now controlling and growing the business. This is when her daughter demanded some business for her. After a lot of discussion and debate, it was agreed that She along with her husband can go to Nagpur and set up a shop there. Saraswati has also learned the art of making these snacks, but they lacked the art of selling and managing the business. As the business was failing Moolchand asked his elder son, Shiv Kishan to shift there and run the show in 1968.
 
 ## The House of Haldiram
+Your product is the outcome of a series of steps you take. The end result is what you are selling. 
 By 1968, the three sons of Halidram were managing the business in Bikaner and Calcutta. While, Moolchand didn’t play much active role in expanding the business his four sons will do, esp Shiv Kishan. Two of his biggest moves were: 
 (a) Kaju Katli. It was prepared by thickening milk with sugar, dry fruits, mainly cashew nuts, and saffron. 
 (b) Getting into the restaurant business 
