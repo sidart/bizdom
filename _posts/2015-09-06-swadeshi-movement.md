@@ -82,6 +82,8 @@ Both the two leading Desi Brand (‘Usha’ and ‘Daisy’) were named after fe
 #### Punjab	
 Let's move to Punjab: Punjab had a very strong connect with the British Army and hence were exposed to machines as used by their English Sahibs. One day an English guy will ask a local Mochi to sew his football, thus it will trigger Sport Industry in Sialkot which was later sfited to Jalandhar post 1947.
 Same way, inspired by their Sahibs Cycles and to reduce the imports. Some components, such as lamps, bells, stands, and carriers, will begin to be manufactured at Ludhiana by 1930s. 
+![](https://res.cloudinary.com/thebizdom-in/image/upload/v1623084461/atlas_khbr2b.jpg)
+In nearby Sonepat (Haryana) in 1950, Atlas Cycles, was started by Lahore-born founder, Jankidas Kapur. Followed by another Ludhiana’s based bicycle maker- Avon Cycles, in 1952 by a refugee from Sialkot, Hansraj Pahwa. 
 
 ### Others		
 Mohanlal Dayal's family were primarily traders of silk and embroidery imported from Europe. It was under the influence of the Swadeshi movement that they switched to manufacturing confectionery in 1929. And soon launched the iconic brand of Comfort Food. 
