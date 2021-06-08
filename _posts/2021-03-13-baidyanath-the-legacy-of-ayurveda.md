@@ -11,7 +11,7 @@ author: sidart
 tags:
 - IndianBusinessHistory
 - BrandsHistory
-- desibrand
+- DesiBrand
 ---
 
 ## The Name Baidyanath
