@@ -24,7 +24,7 @@ Well, they already had a business named as the Hindustan Times!!
 Then came the family division, and BM's son Ganga Prasad’s got Hindustan Motors and Orient Paper. He decided to shift base and move to Uttarpara, also known as Hindmotor in Bengal, by 1948. I decision his son will regret in the coming decade.
 ![](https://pbs.twimg.com/media/EuDjmVeVcAArid6?format=png&name=900x900)
 The first car that they made was named as 'Hindustan 14'. Post, it's failure. GP realize that they will need more alliances to make a Car in India, and started looking for the partners, a template which remains till today. Soon, they launched Landmaster with a 1489 cc engine.
-
+![](https://res.cloudinary.com/thebizdom-in/image/upload/v1623168536/Hindustan_Motors_1_laea1m.png)
 And, finally, in 1957, they had adopted Morris Oxford III (from Morris Motors). It was a Greenfield for them, as they had a TINA ("There is no alternative" ) factor advantage. The next alternative only came with 1962 Fiat design produced by Premier Automobiles.
 
 All was going quite well. So much so that they were getting the licence to manufacture iron and steel castings and forgings to take advantage of existing unutilised capacity. But then with not much competition, they preferred to go for a short-cut, i.e just import steel.
@@ -65,3 +65,7 @@ As they launched the first Chinese commercial vehicle in India. The 1-tonne-capa
 Finally, in 2017 that the company had made an agreement with the Peugeot Group on a sale of the Ambassador brand. Ambassador, including the trademarks, will be transferred to the PSA group for a consideration of Rs. 80 crore.
 ![](https://pbs.twimg.com/media/EuDz3eKVgAAXuL8?format=jpg&name=medium)
 It was the first passenger car plant in Asia, outside Japan. Only the Volkswagen Beetle had a longer run than our Ambassador. Today it's status is reduced to that of a taxi. Its success and failure is a classic case study for the role of Capitalism in India.
+
+![](https://res.cloudinary.com/thebizdom-in/image/upload/v1623168542/raghu_1_gz2qnj.jpg)
+The brand also feature on the cover of the book by the famous photographer - Raghubir Singh
+> A red Ambassador on its cover, what could be more iconic!.
