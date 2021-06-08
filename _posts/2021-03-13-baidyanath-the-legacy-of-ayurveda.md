@@ -21,11 +21,12 @@ From this aspect of Shiva, we have Baidyanath dham as one of the twelve Jyotirli
 In somewhere 1910s, two friends were visiting this Temple when they thought of doing something to spread the power of Ayurveda.
 
 ## Early Days
-It was a tough time, with many illnesses among the often diet-deprived Indians. While English companies were pushing their Pharma, folks like Dabur were doing their best to make Ayurveda as a common relief. By 1917, brothers, Pandit Ram Dayal Joshi & Vaidya Ram Narayan Sharma started their operation in Kolkata. the company was named after the place where they first convinced the idea- Baidyanath. 
+It was a tough time, with many illnesses among the often diet-deprived Indians. While English companies were pushing their Pharma, folks like Dabur were doing their best to make Ayurveda as a common relief. By 1917, brothers, Pandit Ram Dayal Joshi and Ram Narayan Sharma (himself a practicing vaidya- doctor of ayurveda medicine)started their operation in Kolkata. 
+The company was named after the place where they first convinced the idea- Baidyanath. It became an established brand with the syrup Pranda to treat malaria in the late 1930s.
 ![](https://pbs.twimg.com/media/EwVuRP-VIAMv7kP?format=png&name=small)
 There was an indigenous campaign also  ‘देश की मिट्टी, देश की हवा, देश का पानी, देश की दवा’
 ![](https://pbs.twimg.com/media/EwVfDpfUUAER0Ra?format=jpg&name=large)
-Baidyanath soon expanded to Patna, Nagpur, and Jhansi. Established Pt. Ram Dayal Joshi Memorial Ayurvedic Research Institute at Patna in 1971.  
+Baidyanath soon expanded to Patna, Nagpur, and Jhansi. Established Pt. Ram Dayal Joshi Memorial Ayurvedic Research Institute at Patna in 1971.  Integrity is like compound interest – It pays dividends when you invest it. And, they keep gaining trust of the customers.
 
 Today they awards two lakh of rupees every year for the best research paper or book on Ayurveda.
 
@@ -36,5 +37,6 @@ By 1970s the two founding families had divided regions among themselves (like [H
 
 The current MP of Jhansi is his son. Then Tania Sharma of Nagpur's division of the Baidyanath group got married to our first Poster boy of the Internet- Sabeer Bhatia, though marriage only lasted for 5 years. She now runs her own company.
 
+![](https://res.cloudinary.com/thebizdom-in/image/upload/v1623162628/allayur_yqiuvi.png)
 Anyway's not many know that the Baidyanath group started India’s first Ayurvedic and natural wellness platform in 1998 -Allayurveda.com
 Somehow when we talk about Ayurveda, the legacy of Baidyanath is not talked about much like Dabur or present-day Patanjali.
