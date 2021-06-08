@@ -12,6 +12,8 @@ category: personality
 author: sidart
 tags:
 - IndianBusinessHistory
+- Commodities
+- Capitalmarket
 ---
 
 Om Prakash Jindal was born on August 7, 1930, in Nalwa village of Hisar district in Haryana. 
