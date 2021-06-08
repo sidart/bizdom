@@ -18,6 +18,10 @@ And, in the aftermath of Covid, Sid started giving a lot of unwanted Gyan on Twi
 ## What is Bizdom?
 We coined Bizdom as an activity into The BIZness of wizDOM. Idea was always to talk about Stories and Trivia’s around business. Just that our word of Business includes Culture, Sports and Entertainment. 
 This New version of TheBizdom will try to be a place for Past, Present and Future of Business, esp. Indian Business.
+It will the intersection between business and wisdom, between knowing more and interpretation of the world around us. Thus, Connecting The Known With The Unknown.
+
+We will try to bring you the latest insights in business, technology and wisdom.
+
 
 ### Themes
 Merchant, Market & commodity. What makes them rich, why certain communities were rich, and why certain location attracts them the most.
