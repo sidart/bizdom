@@ -8,7 +8,7 @@ optimized_image: https://res.cloudinary.com/thebizdom-in/image/upload/v162316690
 subtitle: The forgotten King of Indian Roads
 description: How India's pioneering automobile manufacturing company, that become
   the most enduring icon of the Licence Raj, is now a part of our history?
-New field 8: desibrand
+category: desibrand
 tags:
 - BusinessHouses
 - DesiBrand
