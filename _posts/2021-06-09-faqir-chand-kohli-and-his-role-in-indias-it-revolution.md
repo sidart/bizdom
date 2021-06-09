@@ -21,17 +21,25 @@ They were politically as well as financially an influential family of Peshawar. 
 
 His mother came from the family of Lala Kanshi Ram Sethi who was the president of the Indian National Congress in Rawalpindi and among the wealthiest families of the city. 
 
-### Tata's
-He completed his BA and BSc (Honors) from Lahore’s Government College. After doing his masters in power engineering from the prestigious Massachusetts Institute of Technology (MIT) in US , where he worked with General Electric for some time. He came to Bombay in 1951 to join the Tata Group.
+He completed his BA and BSc (Honors) from Lahore’s Government College. After doing his masters in power engineering from the prestigious Massachusetts Institute of Technology (MIT) in US , where he worked with General Electric for some time. 
 
+### Tata's
+
+Returning to India in 1951, he joined Tata Electric Companies (now Tata Power). 
 Computers came to India in 1952. TIFRAC (Tata Institute of Fundamental Research Automatic Calculator) was the first computer developed in India, at the Tata Institute of Fundamental Research. 
 ![](https://pbs.twimg.com/media/Enze96yXcAAiF6Z?format=jpg&name=medium)
 In Pic Jawaharlal Nehru and Homi J. Bhabha at Tata Institute of Fundamental Research.
 
-FC was working with Tata Power at the time and they wanted to put some of our operations on the computer: inventory control, purchases and some employee data.
+FC was working with Tata Power at the time and they wanted to put some of our operations on the computer: inventory control, purchases and some employee data. He soon masterminds the first computer system in Asia to manage an electricity network. 
+
+He also oversaw the installation of a computer system to control the electricity network between Bombay (now Mumbai) and Pune in 1968.
+
+Around the same time , J.R.D. Tata took a fateful decision. His brother-in-law, aide and confidant Colonel Leslie Sawhney had suggested addressing the group's needs for data processing via a single business unit-and just like that, Tata Consultancy Services (TCS) was founded. Kohli was moved from Tata Electric Companies to TCS. He was appointed general manager of Tata Consultancy Services (TCS).
+
+Later, he progressed onward to become its CEO. Much of the transformation in TCS took place under Kohli. The first institution to start the department was IIT Kanpur. When Kohli came to know of it, he recruited all its graduates into TCS! 
 
 Given his master’s degree from MIT, he soon advanced to one of the top two operational positions in Tata Electric.  With his MIT connection, he played an integral role in establishing a Bombay section of the IEEE, the US-oriented professional society.
 
 In 1969, he was asked to head TCS, as they had submitted a quotation for generating bills by computer for the Bombay telephone system.
 
-He joined and TCS won the job, and the system became operational for 140,000 subscribers in 1971. This is how TCS got started!
+He joined and TCS also won the job, and the system became operational for 140,000 subscribers in 1971. This is how TCS got started!
