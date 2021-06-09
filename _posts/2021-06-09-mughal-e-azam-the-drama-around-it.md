@@ -1,5 +1,5 @@
 ---
-title: 'Mughal-E-Azam: The surrounding drama.'
+title: 'Mughal-E-Azam: The surrounding drama'
 layout: post
 author: sidart
 date: '2021-04-10 08:12:23'
