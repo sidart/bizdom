@@ -15,8 +15,11 @@ tags:
 ---
 
 ## Mistry’s
-The Mistry family came from a very modest background and lived in a chawl on Grant Road in Bombay. The construction of two buildings in particular changed the fortunes of the Mistry family. One was Framroze Edulji Dinshaw’s house and the other was Sorabji Pochkhanawala’s house. Dinshaw was from one of the oldest and wealthiest families of Bombay and was also a lawyer and advisor to the royal family of Gwalior. 
+The Mistry family came from a very modest background and lived in a chawl on Grant Road in Bombay. The construction of two buildings in particular changed the fortunes of the Mistry family. 
+
+One was Framroze Edulji Dinshaw’s house and the other was Sorabji Pochkhanawala’s house. Dinshaw was from one of the oldest and wealthiest families of Bombay and was also a lawyer and advisor to the royal family of Gwalior. 
 Later, Shapoorji Pallonji acquired the assets of financial firm F. E. Dinshaw in 1936. 
+
 Pallonji Mistry’s empire spans textiles (Gokak Mills), shipping, water purifiers, vacuum cleaners (Eureka Forbes), and light engineering. His real claim to fame, though, is in being the single largest shareholder in Tata Sons. Today, Pallonji group’s main construction concerns are Shapoorji Pallonji & Co Ltd and Afcons Infrastructure.
 
 Through the 1930s and the 1940s, Shapoorji Pallonji built some of Mumbai’s landmarks around the Fort area — the Hong Kong Bank, Grindlays Bank, Standard Chartered Bank and Reserve Bank of India building. He also built the 'Famous Studios' at Mahalaxmi for Shiraz Ali Hakim.
