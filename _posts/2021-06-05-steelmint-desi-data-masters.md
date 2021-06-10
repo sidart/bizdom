@@ -84,5 +84,7 @@ Are you doing to dig deep  into what you are doing currently, or will you expand
 > "Nail the true essence of your product and then make it better over time."
 
 Ideas start out as just a glimmer, small and seemingly meaningless.  But if they grow in a way that aligns with the needs of the market, technology lets them grow into huge companies. 
+The growth of SteelMint also explain how business information is a combination of numbers, observations, and relationships between the two.
+
 SteelMint is one such example of a Data Company coming from Raipur. 
 Profit Seeking & Making!!
