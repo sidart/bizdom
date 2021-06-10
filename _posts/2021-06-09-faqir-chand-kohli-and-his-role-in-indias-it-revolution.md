@@ -30,11 +30,15 @@ Computers came to India in 1952. TIFRAC (Tata Institute of Fundamental Research 
 ![](https://pbs.twimg.com/media/Enze96yXcAAiF6Z?format=jpg&name=medium)
 In Pic Jawaharlal Nehru and Homi J. Bhabha at Tata Institute of Fundamental Research.
 
-FC was working with Tata Power at the time and they wanted to put some of our operations on the computer: inventory control, purchases and some employee data. He soon masterminds the first computer system in Asia to manage an electricity network. 
+FC was working with Tata Power at the time and they wanted to put some of our operations on the computer: inventory control, purchases and some employee data. 
+
+He soon masterminds the first computer system in Asia to manage an electricity network. 
 
 He also oversaw the installation of a computer system to control the electricity network between Bombay (now Mumbai) and Pune in 1968.
 
 Around the same time , J.R.D. Tata took a fateful decision. His brother-in-law, aide and confidant Colonel Leslie Sawhney had suggested addressing the group's needs for data processing via a single business unit-and just like that, Tata Consultancy Services (TCS) was founded. Kohli was moved from Tata Electric Companies to TCS. He was appointed general manager of Tata Consultancy Services (TCS).
+
+TCS then entered into a joint venture (JV) with Burroughs that allowed TCS to import and distribute Burroughs computers. The stringent import restrictions of that era meant that TCS will have export twice its import value over the next five years. TCS thus began to take up outsourcing contracts for Burroughs. The very first contract involved converting a hospital accounting package called the Burroughs Hospital Information System (BHIS).
 
 Later, he progressed onward to become its CEO. Much of the transformation in TCS took place under Kohli. The first institution to start the department was IIT Kanpur. When Kohli came to know of it, he recruited all its graduates into TCS! 
 
