@@ -11,6 +11,7 @@ category: personality
 tags:
 - Personality
 - Tatas
+- TCS
 ---
 
 ## The Kohli's
@@ -38,12 +39,12 @@ He also oversaw the installation of a computer system to control the electricity
 
 Around the same time , J.R.D. Tata took a fateful decision. His brother-in-law, aide and confidant Colonel Leslie Sawhney had suggested addressing the group's needs for data processing via a single business unit-and just like that, Tata Consultancy Services (TCS) was founded. Kohli was moved from Tata Electric Companies to TCS. He was appointed general manager of Tata Consultancy Services (TCS).
 
-TCS then entered into a joint venture (JV) with Burroughs that allowed TCS to import and distribute Burroughs computers. The stringent import restrictions of that era meant that TCS will have export twice its import value over the next five years. TCS thus began to take up outsourcing contracts for Burroughs. The very first contract involved converting a hospital accounting package called the Burroughs Hospital Information System (BHIS).
-
-Later, he progressed onward to become its CEO. Much of the transformation in TCS took place under Kohli. The first institution to start the department was IIT Kanpur. When Kohli came to know of it, he recruited all its graduates into TCS! 
-
 Given his master’s degree from MIT, he soon advanced to one of the top two operational positions in Tata Electric.  With his MIT connection, he played an integral role in establishing a Bombay section of the IEEE, the US-oriented professional society.
 
 In 1969, he was asked to head TCS, as they had submitted a quotation for generating bills by computer for the Bombay telephone system.
 
 He joined and TCS also won the job, and the system became operational for 140,000 subscribers in 1971. This is how TCS got started!
+
+TCS then entered into a joint venture (JV) with Burroughs that allowed TCS to import and distribute Burroughs computers. The stringent import restrictions of that era meant that TCS will have export twice its import value over the next five years. TCS thus began to take up outsourcing contracts for Burroughs. The very first contract involved converting a hospital accounting package called the Burroughs Hospital Information System (BHIS).
+
+Later, he progressed onward to become its CEO. Much of the transformation in TCS took place under Kohli. The first institution to start the department was IIT Kanpur. When Kohli came to know of it, he recruited all its graduates into TCS!
