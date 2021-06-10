@@ -13,7 +13,7 @@ optimized_image: https://res.cloudinary.com/thebizdom-in/image/upload/v162332433
 tags:
 - BrandsHistory
 - Capitalmarket
-category: brand
+category: brands
 ---
 
 ## Early Days
