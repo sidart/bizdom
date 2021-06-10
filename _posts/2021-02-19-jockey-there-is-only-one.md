@@ -3,11 +3,11 @@ title: 'Jockey: There is ONLY one'
 date: '2021-02-19 16:56:58'
 layout: post
 author: sidart
-subtitle: Jockey - Clothing Mankind Since 1876
+subtitle: Clothing Mankind Since 1876. But then there is much more about this brand
+  and company running the show.
 description: In the Indian Investment circle, an often told JOKE is, "If you have
   forgone your love for Jockey's UG and instead opted for its stock" <2 decades back>,
-  how much more money you would have today. But then there is much more about this
-  brand and company running the show.
+  how much more money you would have today.
 image: https://res.cloudinary.com/thebizdom-in/image/upload/v1623324336/Jockey_uzwge7.png
 optimized_image: https://res.cloudinary.com/thebizdom-in/image/upload/v1623324336/Jockey_uzwge7.png
 tags:
