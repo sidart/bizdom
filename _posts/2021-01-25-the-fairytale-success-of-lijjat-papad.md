@@ -1,4 +1,5 @@
 ---
+title: The fairytale success of Lijjat Papad
 category: desibrand
 layout: post
 date: '2021-01-25 06:55:50'
@@ -9,7 +10,6 @@ image: https://pbs.twimg.com/media/EslyvS9UcAAn2aJ?format=jpg&name=medium
 tags:
 - IndianBusinessHistory
 - DesiBrand
-title: The fairytale success of Lijjat Papad
 ---
 
 ### Foundation
@@ -31,8 +31,8 @@ Ramdas Padhye, a ventriloquist, created the iconic rabbit mascot in 1979 for a L
 As the word about the papad spread and the production capacity kept increasing. They ran the business on a shoestring budget, with annual sales in 1959 amounting to just over ₹6,000.
 
 By 1966, Lijjat was registered as a society. 
-![](http://)
+![](https://pbs.twimg.com/media/Esl1r5HVkAIqneN?format=png&name=small)
 ‘Shadi utsav ya tyohaar, Lijjat papad ho har baar, karramkurram,
 kurram-karram, mazedaar lazzatdaar saat swaad mein Lijjat Lijjat papad…’
 
-Today, Jaswantiben Jamnadas Popat is the sole survivor of the 'seven sisters'. It's very encouraging that she is been give #Padmashri Other were:
+Today, Jaswantiben Jamnadas Popat is the sole survivor of the 'seven sisters'. They employs 45,000 women across India, offering them a job for life as "co-owners" of the enterprise.
