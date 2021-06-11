@@ -32,7 +32,7 @@ One of the early bets for them was SBI and the big moment came with DLF in 1994.
 > “Though SBI was one of the stocks we liked at that time, it was Cipla that became our first multi-multi-bagger. Fortunately, we are still holding some part of the initial holding.”
 
 Then, by the time he passed 10th grade, Ayush had already been introduced to the rule of Stock picking.
-He was given the task of identifying the low PE companies, 52 weeks low, etc fliverom magazines or business newspapers. Sometimes, making a decision you didn’t think you had in you is all it takes to live the life of your dreams. 
+He was given the task of identifying the low PE companies, 52 weeks low, etc from magazines or business newspapers. Sometimes, making a decision you didn’t think you had in you is all it takes to live the life of your dreams. 
 Ayush, was not very keen on picking those as his future trade and even went to Kota to be part of the Factory educational system, in his aim to become an engineer.
 
 As they say: “Make one great decision today and it will compound over hours, days, weeks, months and years to eventually create a significant and positive impact on your life.”
