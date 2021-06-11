@@ -39,7 +39,7 @@ Burger King Fans can see the return of McD:
 
 “A great company is not necessarily a great stock.” No matter how good or bad a company’s management, no matter how large or small a company’s profits, no matter how bright or bleak a company’s prospects—the attractiveness of a company’s stock depends on its price.
 
-“Obviously the problem was not with the companies but with the temporary insanity of institutional money managers—proving again that stupidity well-packaged can sound like wisdom. 
+> “Obviously the problem was not with the companies but with the temporary insanity of institutional money managers—proving again that stupidity well-packaged can sound like wisdom. "
 
 Every generation of investors seems to have to relearn this lesson. Nifty Fifty of the early 1970s. Sky high valuations in the late 1990s. And the price of many excellent businesses right now. As Aswath Damodaran says 
 > “We have all these people telling you to buy a quality company. That's really bad advice. If you buy a quality company that everybody else recognizes as a quality company, you're going to pay through the roof. Good companies can be bad investments….”
