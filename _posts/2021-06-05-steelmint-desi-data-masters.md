@@ -14,6 +14,8 @@ author: sidart
 tags:
 - IndianBusinessHistory
 - Capitalmarket
+- Startups
+- Raipur
 ---
 
 ## The Steel Industry in India
