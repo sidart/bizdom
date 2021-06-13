@@ -53,7 +53,10 @@ Valuepickr got started, today is the best place for quality research. Contributo
 
 As ‘Value Investors’, they are geared towards picking stocks that are currently undervalued, in other words, a stock trading at less than what it's worth. They also try to assess the competitive strengths and weaknesses of the company to forecast whether it's going through short-term turmoil. As they say:
 “Investing is not just about the past but the future.The money is made in the future and depends upon how management handles growth opportunities, not what the market price does today.”
-A doctor spotted Ajanta Pharma, which went on to be a multibagger. Avanti & Shilpa Medicare were other such picks.
+Dr Onkar Singh Ji, their mentor and a fabulous doctor, spotted Ajanta Pharma doing some very good work, which went on to be a multibagger.  Mittals describe more about him 
+> "He has been our mentor, and one of our oldest clients. He is also a wonderful doctor. "
+
+Avanti & Shilpa Medicare were other such picks from the ValuePickr family.
 
 #### Innovation is just a numbers game.
 It’s easy to think that innovation is the product of a few great minds, and it happens in a flash of lightning. But the reality is that innovation is just a numbers game, the more of it you do, the better your chances of reaping the benefits.
@@ -111,3 +114,4 @@ As Ayush Concluded :
 
 Bonus: Companies been invested via MITTAL ANALYTICS PRIVATE LIMITED
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1623409011/sc1_f3kjei.jpg)
+Note: This is just for illustration and is more than a year only information and they might NOT own any of these stocks as of now.  It's just to give an idea of their thought process.
