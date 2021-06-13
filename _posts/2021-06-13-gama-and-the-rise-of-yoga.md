@@ -8,6 +8,9 @@ description: How the Great Gama is related to the rise of Yoga in India (acciden
   and through his brother).
 image: https://pbs.twimg.com/media/Eqy--OzU0AEBmp4?format=png&name=small
 category: culture
+tags:
+- Birlas
+- Personality
 ---
 
 ## The Great Gama
