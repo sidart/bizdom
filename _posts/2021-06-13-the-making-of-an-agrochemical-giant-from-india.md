@@ -17,10 +17,10 @@ tags:
 
 ## Shroffs & Swadeshi movement
 ![](https://pbs.twimg.com/media/EqJE1IvU0AAbP2d?format=jpg&name=small)
-Phase 3 of the Swadeshi movement was going on in India. It is when Mr. C.C Shroff started Excel Industries in a cowshed in 1942 at Jogeshwari, Bombay. The idea was to develop their own desi chemical products. 
+Phase 3 of the [Swadeshi movement](https://www.thebizdom.in/swadeshi-movement/) was going on in India. It is when Mr. C.C Shroff started Excel Industries in a cowshed in 1942 at Jogeshwari, Bombay. The idea was to develop their own desi chemical products. 
 
 
-Shroffs (an occupational surname) were not the only Gujrathi to get into Chemicals. Many started in 1940s and continued till 1970s.  Choksi, Dani and Vakil started Asian Paints, Chimanlal Mehta Deepak Group, Lalbhais-Atul, Amins-Alembic, Parekh’s Pidilite.
+Shroffs (an [occupational surname](https://www.thebizdom.in/how-well-do-you-know-about-the-origins-of-some-indian-occupational-surnames/)) were not the only Gujrathi to get into Chemicals. Many started in 1940s and continued till 1970s.  Choksi, Dani and Vakil started Asian Paints, Chimanlal Mehta Deepak Group, Lalbhais-Atul, Amins-Alembic, Parekh’s Pidilite.
 ![](https://pbs.twimg.com/media/EqJLtS6UcAE9Jn2?format=jpg&name=small)
 All was going well with the Shroffs- started with mercuric chloride, used in battery dry cells. By 1950s they had a factory in England and they then expanded into other chemicals also and were soon a leading player of Agrochemicals.
 
