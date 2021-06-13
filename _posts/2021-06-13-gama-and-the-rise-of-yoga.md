@@ -35,7 +35,7 @@ Entered Bellur Krishnamachar Sundararaja Iyengar, better known as B.K.S. Iyengar
 ### Coming back to Gama. 
 Though he had amassed a good fortune, by Indian Royal families, in 1947. He decided to move to Pakistan, for some years it went normal, but then without any income, as no one wanted to fight against him. He was suffering from asthma and heart disease, and hence need more money to survive.
 
-All this along with his declining income and making it tough for him. Hearing about this, GD Birla decided to give Rs. 2500 as a monthly pension and as a reaction of this Govt of Pakitan also increased the pension.
+All this along with his declining income and making it tough for him. Hearing about this, GD Birla decided to give Rs 2,000 as a monthly pension. In comparison, his pension from the Government of Pakitan was Rs 300. 
 ![](https://pbs.twimg.com/media/EqzMOv7UUAEUYgH?format=png&name=small)
 However, on 23rd May 1960, he lost his life battle. Today doughnut-shaped exercise disc called Hasli ~95 kg, used by him for squats, is housed at the National Institute of Sports (NIS) Museum at Patiala. 
 ![](https://pbs.twimg.com/media/EqzNW-1UcAADIeV?format=jpg&name=900x900)
