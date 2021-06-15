@@ -14,7 +14,9 @@ tags:
 subtitle: After the Raj
 ---
 
-British India Corporation (BIC) was the product of a collaboration between five Kanpur merchants (George Allen, W.E. Cooper, Bevan Petman, J. Condon and Gavin S. Jones), who, between 1876 and 1894, started woollen mills, cotton mills, leather factories in the city.
+Cawnpore as it was known at that time , was the supply base for the British Army in India. Elgin Mill was founded in 1864, for making khaki uniforms for the Army and police, they were also making tents and blankets. Nearby was Cooper Allen, where leather was fashioned into army boots and saddlery. All this lead to the name of Manchester of the East.
+
+British India Corporation (BIC) was the product of a collaboration between five Kanpur merchants (George Allen, W.E. Cooper, Bevan Petman, J. Condon and Gavin S. Jones), who, between 1876 and 1894, started woollen mills, cotton mills, leather factories in the city. The South African War meant boom time for army supplies. For every 100,000 pairs of boots, 60,000 were made in Cawnpore.
 
 By early 1920s, Sir Alexander MacRobert, a self-made millionaire acquired these mills in Kanpur and established British India Corporation as a public limited company, at that time he was also called as "The King of Cawnpore".
 
@@ -28,7 +30,7 @@ In the late 1940s and mid-1950s, Ramkrishna Dalmia, made several attempts to acq
 But another Calcutta adventurer had already played his card. Then at its annual session at Madras, the Indian National Congress passed its resolution declaring its aim to take India towards a socialist pattern of society. All the raiders were now pushing their last leg of action.
 
 ## Mundhra Affair
-Haridas Mundhra had already obtained control of a few of the tea companies and engineering firms such as Jessop. While rest went unnoticed. His action at BIC got the attention of few. As he was buying shares from the British shareholders at ₹13 against the market price of ~ ₹6.
+Haridas Mundhra had already obtained control of a few of the tea companies and engineering firms such as Jessop. While rest went unnoticed. His action at BIC got the attention of few. As he was buying shares from the British shareholders at ₹13 against the market price of ~ ₹6. Robert Menzies (previous Chairman) was also seems to be in hurry to get back to England.
 
 His large scale acquisitions had reached the stage where they had attracted the attention of the US newsmagazine “Time.” Born into a trading family, Mundhra started life as a light-bulb salesman.
 
