@@ -8,6 +8,11 @@ description: How we define an iconic brand? One which outlives their creators. A
 image: https://res.cloudinary.com/thebizdom-in/image/upload/v1623771189/oldMonk_ck78zi.png
 category: desibrand
 author: sidart
+tags:
+- BusinessHouses
+- Lucknow
+- Personality
+- DesiBrand
 ---
 
 ## Mohan's
