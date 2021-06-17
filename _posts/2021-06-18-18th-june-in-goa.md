@@ -50,8 +50,9 @@ But, for the next few days there were massive demonstrations all over Goa. All t
 Today, A road is named after this date in Panjim.
 ### Saat Hindustani
 As a screenwriter, Khwaja Ahmad Abbas is considered one of pioneers of Indian parallel or neo-realistic cinema. His grandfather Khwaja Gulam Abbas was one of the chief rebels of the 1857 Rebellion movement, and the first martyr of Panipat to be blown from the mouth of a cannon. So, when he decided to narrate the story of Goa under Portuguese rule, he brought his own idea.
-Amitabh Bachchan won the National Award for the Most Promising Newcomer for Saat Hindustani. While his character was named after his friend and co-star Anwar Ali, this is what he once said.
-“It was the story of the fight for liberation of Goa from the Portuguese. Abbas Saheb believed in the secular tenets of our country and Constitution, so he deliberately gave all his artists opposite roles of their belief and region, to play. Utpal Dutt a Bengali played a Punjabi ; Jalal a Muslim played a Hindu Maharashtrian ; Anwar Ali a Muslim played a Hindu ; Madhu (originally Madhavan Nair) from the South played the Bengali commando, Pushi a Muslim, played a Christian and gave me the role of a Muslim to enact!”
+
+Amitabh Bachchan won the National Award for the Most Promising Newcomer for Saat Hindustani. While his character was named after his friend and co-star Anwar Ali, this is what he once said about this film:
+> “It was the story of the fight for liberation of Goa from the Portuguese. Abbas Saheb believed in the secular tenets of our country and Constitution, so he deliberately gave all his artists opposite roles of their belief and region, to play. Utpal Dutt a Bengali played a Punjabi ; Jalal a Muslim played a Hindu Maharashtrian ; Anwar Ali a Muslim played a Hindu ; Madhu (originally Madhavan Nair) from the South played the Bengali commando, Pushi a Muslim, played a Christian and gave me the role of a Muslim to enact!”.
  
 ### Lohia in the independent India
 After Independence, it became his dream to dismantle the Congress hold on Indian politics, he also dismissed Indira Gandhi in disgust asgungi gudiya—a dumb doll. But, Like Ambedkar, he never gained much traction in his lifetime.
