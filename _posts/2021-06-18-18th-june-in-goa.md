@@ -37,7 +37,7 @@ He joined the Indian National Congress after his return to India. He was also at
 As his status grew in Congress, so did the regular struggles related to it. He was arrested at Bombay in May 1944 and transferred to Lahore Fort Jail and released only in 1946. A long term in jail had led to the decline of his health and thus his Old Goan friend invited him to Goa, for recuperation. 
 
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1623953285/Goa_History1_rrgojb.jpg)
-*Dr Juliao hosted Dr Lohia at his “Menezes Mansion” at Assolna from June 10, 1946. *
+*Dr Juliao hosted Dr Lohia at his “Menezes Mansion” at Assolna from June 10, 1946.*
 
 The news of his arrival spread in no time, and he had streams of visitors and delegations. They narrated the depressing accounts of Portuguese imperialism and medieval barbarism.
 There was a complete absence of civil liberties. Even wedding invitations could not be printed without prior approval of the police. They requested Dr Lohia to lead the movement for the liberation of Goa. Dr Lohia realised quickly that the Congress had committed a blunder by ignoring the liberation of Goa. Though Goa National Congress was formed in 1928 by a Goan called Tristao B Cunha, it had not much support from the Congress of India.
