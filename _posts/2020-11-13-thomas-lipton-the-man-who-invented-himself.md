@@ -21,7 +21,10 @@ East India Company’s monopoly on Tea imports from China and India, had got ove
 shops and agents managed to sell 4 million lbs that year. Then, in 1890, on the way to Australia, He stopped off at Ceylon.
 For him this proved as a great timing, since most tea estates were going through a financial crisis. Hence, there were several Ceylon tea estates for sale. Lipton, whose motto was ‘cut out the middleman’, seized the opportunity and bought many of these tea estates. Soon, he improved the accessibility of tea for the lower and middle classes by packaging tea in various weights.
 
+### Anonymous Gift
+In 1897, the year of Queen Victoria's Diamond Jubilee. The Princess of Wales had launched a £30,000 fund to provide a Jubilee dinner for the poor, but, with only weeks to go, no more than £5,000 had been subscribed. Lipton saved the day by writing a cheque for £25,000. The anonymous gift created massive press speculation and even greater publicity when the identity of the donor leaked out two days later. Lipton's generosity earned him a knighthood and propelled him into society at the highest level, a personal friend of the future King and Queen.
+In 1898 his company went public in one of the most successful share issues in stock market history of that time.
 ### World Cup
 Thomas Lipton  suggested the idea of a football world cup as early as 1909 and even donated the international football cup played in Turin. He sponsored the Sir Thomas Lipton Trophy, the Lipton Challenge Cup and the Copa Lipton.
 ### Fall of the great business
-Lipton’s major mistake was to concentrate on his own retail shops. While he kept on expanding his retail business,  but other shopkeepers saw this as competition and opted to stock other brands. Sales withered away, His own shops also began to close because of bad management, and finally he sold his business to the Lever Brothers.
+Lipton’s major mistake was to concentrate on his own retail shops. While he kept on expanding his retail business,  but other shopkeepers saw this as competition and opted to stock other brands. Sales withered away, His own shops also began to close because of bad management, and finally he sold his business to the Lever Brothers/Unilever in 1927.
