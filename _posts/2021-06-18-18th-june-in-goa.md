@@ -20,8 +20,9 @@ There were about 40 revolts against the Portuguese during their first 400 years 
 A republican government was established in Portugal in 1910 in place of the constitutional monarchy. And it did bring some HOPE for their Goan Subjects.
 As they say, Hope helps us to believe that something better awaits us even if we have no idea what that might be.
 ### Hiralal Lohia
-Hiralal Lohia was a Marwari from the Akbarpur village in the Faizabad district of UP. Hiralal will soon spend more time with fellow Marwaris nationalist in Bombay than running the business in his town. With his mother passing away when he was small, Ram Manohar Lohia was brought up by his grandmother.
-By the time he was 8-year-old, he also joined his father in Bombay, and thus started working with him side-by-side. When Bal Gangadhar Tilak passed away in August 1920, at the age of 10 years he had organised the condolence meeting in his school in Bombay.
+Hiralal Lohia was a Marwari from the Akbarpur village in the Faizabad district of UP. Hiralal will soon spend more time with fellow Marwaris nationalist in Bombay than running the business in his town. When his wife passed away his kid(Ram Manohar Lohia) was small and was brought up by his grandmother at Akbarpur.
+
+By the time the kid was 8-year-old, he joined his father in Bombay, and thus started working with Hirala side-by-side. When Bal Gangadhar Tilak passed away in August 1920, at the age of 10 years Ram Manohar Lohia had organised the condolence meeting in his school in Bombay.
  
 ### When they met in Germany
 Germany, like Britain, attracted Indian students in the early 20th century. Ram Manohar Lohia soon headed to the University of Berlin to do his doctorate in economics with an interesting topic ‘Salt and Satyagraha’. Soon, a friend suggested he meet with someone who was doing his Medical studies (Dermatology) in the same University. Reason for the meeting was that this Doctor will give him some context on the Salt trade.
@@ -48,6 +49,8 @@ So he obliged and addressed a meeting at the residence of Jagganlal Shah in Pana
 But, for the next few days there were massive demonstrations all over Goa. All this led to the freedom struggle in Goa commenced with the launching of the Civil Disobedience Movement under Dr. Ram Manohar Lohia.
 [](https://res.cloudinary.com/thebizdom-in/image/upload/v1623954008/18june_mcgemm.jpg)
 Today, A road is named after this date in Panjim.
+
+There is an interesting bollywood connection with this story.
 ### Saat Hindustani
 As a screenwriter, Khwaja Ahmad Abbas is considered one of pioneers of Indian parallel or neo-realistic cinema. His grandfather Khwaja Gulam Abbas was one of the chief rebels of the 1857 Rebellion movement, and the first martyr of Panipat to be blown from the mouth of a cannon. So, when he decided to narrate the story of Goa under Portuguese rule, he brought his own idea.
 
