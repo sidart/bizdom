@@ -56,8 +56,11 @@ The Murugappa group was founded in 1900, when Dewan Bahadur AM Murugappa Chettia
 > The collapse of paddy prices in the Great Depression, coupled with the Nagarathars' insistence on land as collateral, transferred a substantial part of Burma's cultivatable land into their hands. Discontent against them ran high. Finally, the community was expelled from there during World War II. [Link](https://www.business-standard.com/article/economy-policy/chettiars-struggle-to-bring-family-into-business-113122601013_1.html).
 
 After the anti-Indian riots in Burma, A.M.M. Murugappa Chettiar, decided to be back to their roots.
-Murugappa Chettiar felt that the bicycle had a future in India and after very quick and amicable negotiations with Tube Investments Ltd., UK (makers of the famous BSA brand of cycles)—then the world’s largest manufacturers of bicycles—the TI Cycles of India factory was established in 1949 itself at Ambattur, near Madras. This was the beginning and the TI Group later renamed the Murugappa Group 
+Murugappa Chettiar felt that the bicycle had a future in India and after very quick and amicable negotiations with Tube Investments Ltd., UK (makers of the famous BSA brand of cycles)—then the world’s largest manufacturers of bicycles—the TI Cycles of India factory was established in 1949 itself at Ambattur, near Madras. This was the beginning and the TI Group later renamed the Murugappa Group.  
 
+In the 1950s, they set up Carborundum Universal, which was into abrasives and refractories and then, later on, electro-minerals. Over the years, the group kept adding companies like Shanthi Gears, Wendt India and got into metal forming and twisting business.
+
+Their agri-business was built through acquisition of EID Parry and Coromandel International, originally started by the US-based Chevron Corporation. Some of the group’s acquisitions in the agri-business were earliest examples of hostile takeovers in Indian corporate history.
 ## Today
 ![](https://pbs.twimg.com/media/Eqt7wDWUYAACHDc?format=jpg&name=large)
 Today, their Agrobusiness is the most important pillar in their business empire, contributing about 50% of the group revenue. They are indeed the able successor of the Man in whose name many companies are still run. 
