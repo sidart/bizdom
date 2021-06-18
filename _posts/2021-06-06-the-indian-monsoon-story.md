@@ -2,7 +2,8 @@
 title: The Indian Monsoon Story
 date: '2021-05-25 03:18:57'
 layout: post
-subtitle: A bit of history and a bit of its importance to our agriculture.
+subtitle: The monsoon delivers nearly 70% of the rain needed by farms, besides replenishing
+  reservoirs and aquifers.
 description: Sunshine, rains, storm, squalls—it’s all in a day’s work for the monsoons.
   The monsoon brings with it more than just winds.
 image: https://res.cloudinary.com/thebizdom-in/image/upload/v1622929560/Monsoon_svhu3v.png
@@ -74,6 +75,7 @@ Good monsoons can lower milk price inflation (milk constitutes 45% of Nestle's r
 By 1780s that Bombay began to replace Surat, and for that, a lot of migrants workers were needed at Dock. Most of these came from Coastal belt of Ratnagiri. Then, almost all of these used to returned to sow rice in time for the monsoon. They also used to spend their earning on the repairs to their homes in their native villages. This created the trends of expenditures on building materials and other discretionary expenses. In modern time, such expenses have to wait when Farmers get their payouts. But remember, all is well till its end well. 
 Since, heavy rains towards the end of the monsoon (late September) will have a detrimental impact on low rainfed crops like coarse cereals, vegetables and fruits.
 ![](https://pbs.twimg.com/media/E2PvEzlUYAMM0_A?format=jpg&name=large)
+
 Monsoons are thus a rainbow of hope for Indian agriculture and economy. The rural economy was a saving grace for India’s 2020 gross domestic product numbers, which saw a rare recession not led by an agricultural shock. So, again a to is expected from Our Monsoon this time again. 
 
 Let's pray for another good season of Barsaat!!
