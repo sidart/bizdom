@@ -31,7 +31,9 @@ Reliance Textiles Industry went public in 1977 with an offer of 2.8 million equi
 Dhirubhai managed to convince a large number of first-time retail investors (about 58,000) to invest in Reliance. The rest, as they say, will become history.
 
 ### The Twin Events
-In the first year of listing, 1978, the price reached Rs. 50, in 1980, it was Rs. 104 and by 1982 it was going smoothly when two main events happened. 
+Dhirubhai firmly believed in keeping shareholders in a state of ecstasy – he was generous with dividends, their first dividend was of Rs. 1.50. The prices of the shares too kept pace. What had been issued at Rs 10 in 1977, grew to Rs 50 within a year of listing and by 1982 had reached a high of Rs 186.  
+
+It was going smoothly when two main events happened. 
 
 First, Pranab  Mukherjee’s (then FM) allowed NRIs to invest directly into  Indian equities. 
 
