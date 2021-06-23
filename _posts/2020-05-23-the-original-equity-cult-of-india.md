@@ -56,6 +56,6 @@ The crisis created a legend out of Ambani. The man who coined the term 'the mega
 ![](https://pbs.twimg.com/media/EYpaGSTUcAA3ChW?format=jpg&name=small)
 > “Manage the environment you’re in”
 
-### The Growth of CAMS
+### The Growth of Computer Age Management Services Limited
 Dhirubhai once said, “between 1981 and 1985 the number of Indians owning shares increased from less than a million to four million and one in four investors was a shareholder of Reliance.” 
 Such a large investor base – over 1.2 million by 1986, entailed plenty of paperwork. This necessitated a dedicated registrar and transfer agency. Named Reliance Consultancy Services Limited (RCS). But then RCS could barely cope. Later, when a year later, several of the debentures were converted to equity, the new shares took time to be issued and also to get listed in the various stock exchanges. This caused considerable irritation among the investor community. The time had therefore come for RCS to broad base its operations. It chose to do this by hiring agents in various cities who could handle the local requirements of investors. It was thus that CAMS was contacted, for taking care of the Madras operations. This was the beginning of CAMS!!
