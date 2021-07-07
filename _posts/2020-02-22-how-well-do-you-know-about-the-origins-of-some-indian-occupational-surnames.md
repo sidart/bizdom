@@ -15,7 +15,8 @@ date: '2020-02-22 21:46:16'
 subtitle: Know more about the Origin of some famous Indian Mercantile Surname.
 ---
 
-“Occupational surnames” reflect the activities or jobs associated with our ancestors. These surnames and their frequency vary by region, language and social group within India. 
+“Occupational surnames” reflect the activities or jobs associated with our ancestors. These surnames and their frequency vary by region, language and social group within India. It all got started with the formation of the Kayastha caste in early medieval times wherein the professionals were drawn from different varnas/castes and crystallized into a caste of scribes. Soon these occupational specialization converted into hereditary and thus as the surnames.
+
 The greatest number of Indian family names were derived from Sanskrit, however few occupational family names also came from Arabic and Persian (Farsi) -Dewan, Majmudar (record keeper), Malik, Shroff, Doshi, Sarkar, and Sood.  Plus adapted from western world, like Mistry (Portuguese), from mestre ‘master, expert’.
 
 Most common occupational surnames in India provide an interesting insight into how Indian society has evolved. Occupational surnames in India reflect what individuals did for a living in order to earn an income. 
@@ -31,7 +32,8 @@ Patel and Patil derive from ‘a piece of land’ and referred to a landowner/te
 The Community name of Shetty and Chettiar derived from the Sanskrit word Shresthi (‘head of a mercantile or other guild’ and literally a superior person), since they were the best in the community on whom you can Trust on the money matters. It becomes Seth/Sethia in northern India. 
 The Nattukottai Chettiar community, or Nagarathars later on became a prominent mercantile caste in Tamil Nadu. What Marwari businessmen are to the north and Parsees to the west, the Nagarathars are to the south. While they migrated to many places, it was in Burma they grew tremendously as moneylenders. 
 
-We derived Shenoy from the coastal Karnataka from the word ‘Shrenipati’ or the leader of the guild. It is also interchangeable with its Sanskrit counterpart Shanbhag or Shanbhogue which means clerk. Mahajan were moneylender named after mahā ‘great’ + janas ‘person’.
+We derived Shenoy from the coastal Karnataka from the word ‘Shrenipati’ or the leader of the guild. It is also interchangeable with its Sanskrit counterpart Shanbhag or Shanbhogue which means clerk. Mahajan were moneylender named after mahā ‘great’ + janas ‘person’. Many caste had their own Mahajan to administer caste affairs and to also serve as an informal link between the merchants and the state.
+
 Another related name was Lala used for bankers, merchants and tradesmen. Sindi drevied Lalani from Lala.
 
 
@@ -64,8 +66,16 @@ A lot of Indian business communities picked their surname from their place of or
 **Aggarwal** came ‘from Agar or Agroha’, Ahluwalia ‘from Ahlu’, Irani ‘from Iran’, Lad ‘from southern Gujarat’, and Mathur ‘from Mathura’.  Many of the Marwadis picked their name based on this like Jhunjhunwala, Singhania, etc. So did the Khatris, Arora came from Aror (now Rohri, in Sind, Pakistan). 
 
 ### Others
-Dhawan on the name of a clan in the Khatri (‘member of the warrior caste’ who later got into business) community. It is popularly believed to mean ‘runner’, ‘messenger’, from Sanskrit /dhāv-/‘to run’.  Tandan derived from the Sanskrit dandanam or punishment, as, in ancient times, men of this caste were employed to carry out the punishments that were inflicted by the authorities upon offenders. Sawhney were the commander, **Handa** were into ‘cooking pot and Badal were into water. 
-Srivastava came  from Sanskrit šrīvasta ‘abode of wealth’). Mittal were Agarwal Bania community, probably derived from Sanskrit mitra ‘friend, ally’. 
+Dhawan on the name of a clan in the Khatri (‘member of the warrior caste’ who later got into business) community. It is popularly believed to mean ‘runner’, ‘messenger’, from Sanskrit /dhāv-/‘to run’.  
+
+Tandan derived from the Sanskrit dandanam or punishment, as, in ancient times, men of this caste were employed to carry out the punishments that were inflicted by the authorities upon offenders. Sawhney were the commander, **Handa** were into ‘cooking pot and Badal were into water.  Srivastava came  from Sanskrit šrīvasta ‘abode of wealth’). 
+
+Mittal were Agarwal Bania community, probably derived from Sanskrit mitra ‘friend, ally’. 
+
+Tanti, Tantuvaya the word means thread - wearer. It is an occupational name used by various weaving castes. Tunnaran were tailor, Uppu were the salt traders.
+
+### Muslim Names
+Muslim Khojas were another group of successful merchants. The name Khoja, or Khwajah, meant a rich and respectable gentleman, an opulent merchant. Bohras, also spelled Bohara or Vohra, is derived from the Gujarati word vohorvu meaning ‘trade’ and records the occupation of the first converters to Islam. The Memons another mercantile community, were known as maumins or believers. The word maumin was distorted to Memon.
 ### European Connects 
 Dubash (duâ’ + ‘bhash’ = translator) as an occupation got started a post-European entry, but as a surname was first used by Hormasji Pestonji Shroff who migrated in 1852 and started his business in Karachi, by calling himself as Dubash. In Goa you will find **Braganza** from the city of Bragança in Portugal.  Its the name of the royal house whose members occupied the throne of Portugal. Same way we have D’Souza minor places in Portugal or Spain named Sousa or Souza.
 Da Silva came  name from Portuguese /silva/‘wood, thicket, bramble’. 
