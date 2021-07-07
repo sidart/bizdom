@@ -71,5 +71,5 @@ Dubash (duâ’ + ‘bhash’ = translator) as an occupation got started a post-
 Da Silva came  name from Portuguese /silva/‘wood, thicket, bramble’. 
 
 
-But remember this topic has its own complexibility and one can perhaps argue for another origin, Remember a Modi surname can be a Hindu bania (Lalit Modi) or OBC (PM Modi), Jain, Muslim (Syed Modi, the 8-time National Badminton champ) or even a Parsi (Rusi Mody). 
+But remember this topic has its own complexibility and one can perhaps argue for another origin, Remember a Modi surname can be a Hindu bania (Lalit Modi) or OBC (PM Modi), Jain, Muslim (Syed Modi, the 8-time National Badminton champ, but for him it was a mistake done by his school teacher) or even a Parsi (Rusi Mody). 
 Another example is Gandhi which is also an occupational name used by  Hindu (Bania, Arora, Jat), Jain, and Parsi (they used it as Gandy).

@@ -49,3 +49,5 @@ These warriors remained at the front line right from the Kargil war till the rec
 Today the entire Shekhawati is known for 3 things (Army, Marwaris and their Colourful Havelis). The richness brought by their traders and the protection provided by their Brother-in-Arms, have now made these Colorful Havellies a delight to watch and experience
 These are now a topic of discussion and further exploration in Popular Culture, esp after Hindi Films started showing them recently (Like PK). 
 Let me conclude all these array of facts that I have laid in this thread with a Quote that will summarise this : “We don’t have power, but we have money. With Money, we can get power”.
+
+PS: Marwari is also a dialects, along with the Harauti, Mewari, Mewati, etc, all under the 'Rajasthani'.
