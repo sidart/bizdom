@@ -16,7 +16,7 @@ tags:
 ---
 
 ## Mohan's
-Mohan's are Mohyals, a Brahmin sect from Punjab with a martial past, like Bali, and Dutt. Narendra Nath Mohan’s story is also similar to another brahmin (of South), as both of them got hold of 2 famous Alcoholic business when British firms were leaving India post-1947.
+Mohan's (name is derived from another name for Krishna, meaning infatuating or charming) are Mohyals, a Brahmin sect from Punjab with a martial past, like Bali, and Dutt. Narendra Nath Mohan’s story is also similar to another Brahmin (of South), as both of them got hold of Two famous Alcoholic business when British firms were leaving India post-1947.
 
 While, Vittal Mallya bought United Breweries in 1947, after 2 years NN Mohan, bought a company where he once used to work: Dyer Meakin Breweries. Traceable to Edward Dyer, father of the notorious Brigadier-General Reginald Dyer—the man behind the Jallianwala Bagh.
 
@@ -39,7 +39,7 @@ After DCM group said NO and KK Birla also did the same, he was standing alongsid
 
 ## Old Monk
 
-Many claimed Brigadier Kapil Mohan as the originator of OLD MONK. This is another false claim. OLD MONK was a creation of VR Mohan. He launched it in 1954 after a visit to Europe, where he was very much impressed by the Benedictine monks and the liqueurs they produced.
+Many claimed Brigadier Kapil (the name means sun or fire) Mohan as the originator of OLD MONK. This is another false claim. OLD MONK was a creation of VR Mohan. He launched it in 1954 after a visit to Europe, where he was very much impressed by the Benedictine monks and the liqueurs they produced.
 
 The name Old Monk was his tribute to them, though the jolly face of a tubby man that you see on the bottle is believed to be that of HG Meakin.
 
