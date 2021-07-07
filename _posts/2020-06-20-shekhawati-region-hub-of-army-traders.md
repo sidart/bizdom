@@ -35,6 +35,7 @@ With the success of their relationships with Parsis in Bombay, now they started 
 Surajmal Jhunjhunwala will set up a charitable mess for Marwaris working in Calcutta where a lot of business networking will take place in the next century. G.D. Birla’s grandfather, Shiv Narain will stay there for a very long time.
 Bajaj brothers from Churu will land up in Bombay to take up printing as a business. By 1871, they started the Shri Venkateshwar Press to bring out Hindu religious works from the Moti Bazar. Then in 1899 a young lad from Churu will get inspired by Nath Sampradaya.
 With the help of his Calcutta based friend, together they will create something in 1923 at Urdu Bazaar of Gorakhpur that will change the course of our Nation. His name was Jaydayal Goyandka.
+> During the period 1901—14 and during World War I, people such as Birla, Hukumchand, Mungeeram Bangur, Nagarmull, Goenka, Bajoria Bajoria, and On- karmull Jatia had made fortunes in raw jute trade, share trading, and fatka—fortunes that were now available for investing in industries.
 
 ### The Catchment Area
 Britisher loved the twin power of Arms and Financial power of Shekhawati and soon this region became the Hub sourcing for their Army. And, it continued post independence as well. As per a 2018 data, Jhunjhunu had ⅓ of all martyrs (from Rajasthan) 
