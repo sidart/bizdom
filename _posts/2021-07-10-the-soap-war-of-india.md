@@ -39,9 +39,10 @@ Anyways, around the same time, Tata Oil Mills, who were already in the business 
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1625855611/Soap_war_mqn5gs.jpg)
 Given that brand was not long lived, but let me share another interesting trivia on a phrase that is commonly painted on commercial vehicles like trucks, and is related to Tatas.
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1625855611/ok1_fm8il9.jpg)
-In the early days, most of the trucks in India were manufactured by the TATA Group. During these times, Tata Oil Mills Ltd. Co (TOMCO) came up with a new brand called “OK”. And in order to market their product they used the motor medium very effectively by painting OK. This brand had a symbol in the shape of a lotus flower. Thus it became “Horn OK Please”. This carried on for a few years and as times went by the OK sort of became a part of the initial paint itself by the lorry drivers and is still being used by people without knowing its origin.
+In the early days, most of the trucks in India were manufactured by the TATA Group. During these times, Tata Oil Mills Ltd. Co (TOMCO) came up with a new brand called “OK”. And in order to market their product they used the motor medium very effectively by painting OK. 
+This brand had a symbol in the shape of a lotus flower. Thus it became “Horn OK Please”. This carried on for a few years and as times went by the OK sort of became a part of the initial paint itself by the lorry drivers and is still being used by people without knowing its origin.
 
-All of these players were still fighting the marketplace for elites, as the common Indian man was still not using either of these products due to the cost factor.
+But then, all of these players were still fighting the marketplace for elites, as the common Indian man was still not using either of these products due to the cost factor.
 
 ## Another Gujju Bhai
 1966 While awaiting final year results in college, Karsanbhai got a call from the Kasturbhai Lalbhai group’s New Cotton Mills to work as a chemist in their laboratory. After putting in three years, he joined the Gujarat government’s geology and mining department as a senior chemist in 1969. But, the passion for working more than just that, led him into a side business of making synthetic detergents.
