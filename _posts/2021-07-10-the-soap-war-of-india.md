@@ -43,9 +43,9 @@ In the early days, most of the trucks in India were manufactured by the TATA Gro
 This brand had a symbol in the shape of a lotus flower. Thus it became “Horn OK Please”. This carried on for a few years and as times went by the OK sort of became a part of the initial paint itself by the lorry drivers and is still being used by people without knowing its origin.
 
 But then, all of these players were still fighting the marketplace for elites, as the common Indian man was still not using either of these products due to the cost factor.
-
 ## Another Gujju Bhai
 1966 While awaiting final year results in college, Karsanbhai got a call from the Kasturbhai Lalbhai group’s New Cotton Mills to work as a chemist in their laboratory. After putting in three years, he joined the Gujarat government’s geology and mining department as a senior chemist in 1969. But, the passion for working more than just that, led him into a side business of making synthetic detergents.
+
 On weekends, and after office hours, he would bicycle through the neighbourhoods selling the handmade packets of his product door to door which soon became an instant success owing to its word-of-mouth publicity among satisfied housewives. 
 
 The House of Nirma was shaping up quite nicely. 
