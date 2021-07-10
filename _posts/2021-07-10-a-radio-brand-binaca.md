@@ -31,4 +31,4 @@ By late 1980s, the consumer products division of CIBA-Geigy of Switzerland, to t
 Binaca was then sold to Dabur in 1966 by Reckitt Benckiser. Later Cibaca was sold to Colgate.
 
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1625909035/bina_ktg2hr.jpg) 
-Dr. Fresh owns the brand right for the breath spray.
+Dr. Fresh owns the brand right for the breath spray, and market it as "Binaca – A Blast That Lasts".
