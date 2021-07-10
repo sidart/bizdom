@@ -20,9 +20,10 @@ Parvatiben Ramdas Thodani, Ujamben Narandas Kundalia, Banuben. N. Tanna, Laguben
 They were gaining fame in their art and given how Businesses grows in the Gujju blood. Someone identified the business opportunity and asked them to start selling it others.
 
 ### Capital
-But they need startup capital, so they decided to raise it. Chaganlal Karamsi Parekh, a member of the Servants of India Society and a social worker, agreed to give the capital: Rs 80
+But they need startup capital, so they decided to raise it. Chaganlal Karamsi Parekh, a member of the Servants of India Society and a social worker, agreed to give the capital: Rs 80. He also introduced essential book-keeping and accounting. 
+
 ![](https://pbs.twimg.com/media/Esl0A1WU4AACriG?format=png&name=360x360)
-As the group enlarged (within a year, the group had grown to about 100 women, with a turnover of about 6,200), and soon became a symbol of women’s economic enfranchisement.
+As the group enlarged (within a year, the group had grown to about 100 women, with a turnover of about 6,200), and soon became a symbol of women’s economic enfranchisement. They named their product as Lijjat (meaning ‘tasty’ in Gujarati).
 
 ### The Brand
 ![](https://pbs.twimg.com/media/Esl0uCMUYAAPw5A?format=jpg&name=medium)
@@ -35,4 +36,4 @@ By 1966, Lijjat was registered as a society.
 ‘Shadi utsav ya tyohaar, Lijjat papad ho har baar, karramkurram,
 kurram-karram, mazedaar lazzatdaar saat swaad mein Lijjat Lijjat papad…’
 
-Today, Jaswantiben Jamnadas Popat is the sole survivor of the 'seven sisters'. They employs 45,000 women across India, offering them a job for life as "co-owners" of the enterprise.
+Today, Jaswantiben Jamnadas Popat is the sole survivor of the 'seven sisters'. They employs 45,000 women across India, offering them a job for life as "co-owners" of the enterprise. They have also added more products in its basket, including khakhra, masalas, vadi, wheat atta and bakery products.
