@@ -10,6 +10,7 @@ image: https://pbs.twimg.com/media/EslyvS9UcAAn2aJ?format=jpg&name=medium
 tags:
 - IndianBusinessHistory
 - DesiBrand
+author: sidart
 ---
 
 ### Foundation
