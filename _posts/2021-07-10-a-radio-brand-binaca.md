@@ -5,8 +5,8 @@ layout: post
 image: https://res.cloudinary.com/thebizdom-in/image/upload/v1625908694/bina1_gsypvm.jpg
 category: desibrand
 tags:
-- desibrand
-subtitle: Binaca got changed to Cibaca,but still lost.
+- DesiBrand
+subtitle: Binaca got changed to Cibaca, but still lost.
 description: In the 1970s, Hindi music lovers would tune in every week to listen to
   Binaca Geetmala, a popular countdown show of Hindi film songs.
 date: '2021-06-08 15:00:19'
