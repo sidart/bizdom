@@ -29,7 +29,7 @@ Unilever’s competitors Henkel in Germany and Procter & Gamble in the United St
 Soon Procter & Gamble, launched "Dreft" by 1933.
 
 ## Made in India
-In 1931, Ambalal Sarabhaihad opened the Swastik Oil Mills in Bombay. Soon, as part of the Swadeshi movements, many Gurjartis were entering into Chemical industries. Thus,  in 1943, Ambalal opened Sarabhai Chemicals, then a small undertaking in Baroda. 
+In 1931, Ambalal Sarabhaihad opened the Swastik Oil Mills in Bombay. Soon, as part of the [Swadeshi movements](https://www.thebizdom.in/swadeshi-movement/), many Gurjartis were entering into Chemical industries. Thus,  in 1943, Ambalal opened Sarabhai Chemicals, then a small undertaking in Baroda. 
 The Sarabhai group’s Swastik Oil Mills was the first to market the ‘Det’ as a synthetic detergents brand in 1957, they were soon followed by Hindustan Lever’s (HLL) ‘Surf‘.
 HUL launched Surf as a NSD (non-soapy detergent) powder made from petrochemicals. Until then Indians had washed their clothes with HUL’s Sunlight laundry bar, which was made from vegetable oil. HUL initiated a gigantic effort to knock on doors and demonstrate to sceptical housewives that solution washing with the NSD product would lead to far superior results. These women were used to direct application, but saw that the Surf powder required much less work: no scrubbing. 
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1625855611/Chamko_bpkar5.jpg)
