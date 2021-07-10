@@ -17,14 +17,14 @@ tags:
 ---
 
 Om Prakash Jindal was born on August 7, 1930, in Nalwa village of Hisar district in Haryana. 
+![](https://www.jindal.com/img/group-history-banner-1.jpg)
+Om Prakash’s father, Netram Jindal, was a landlord and a large-scale farmer.  If you’re not comfortable with where you are, then perhaps you need to start being uncomfortable. Given he was least interested in studies as well as into farming, so as an 18-year-old he decided to joined his elder brother in Calcutta, to explore more opportunities. Tatas were the Industry leader during that time.
 ## Tata Connection
-Om Prakash’s father, Netram Jindal, was a landlord and a large-scale farmer. Given he was least interested in studies so as an 18-year-old he joined his elder brother in Calcutta, to explore more opportunities. Tatas were the leader during that time.
-
 Tata's had recently created another company, named as the Indian Tube Company Limited (ITC) to focus on the growing business of tubes. They used to sell rejected scrap material. Om Prakash and his brother began to buy the scrap material, repair the tubes manually and market them.
 
 The brothers began to make a lot of money. Soon they caught the attention of the Top Management of ITC, who stopped giving them the pipe. OP decide to visit the Tata's den -Jamshedpur and put up a machine shop to cut the pipes into small pieces.
 
-He literally started his career in the Tatas’ backyard.’ But again Tata's didn't like it and forced others to stop doing business with Jindals. Having understood the business and its demand, it was OP's turn to create his own DEN.
+He literally started his career in the Tatas’ backyard.’ But again Tata's didn't like it and forced others to stop doing business with Jindals. Some of the best adventures in life are unplanned. We just see an opportunity that presents itself and we go for it. Having understood the business and its demand, it was OP's turn to create his own DEN.
 
 ## Back to Hissar
 He returned to Hissar and designed the factory himself. In 1964, he commissioned a pipe unit, Jindal India Limited followed by a large factory in 1969 under the name of Jindal Strips Limited. The Jindal story had begun. ‘The tubes became so popular that people were willing to pay the premium in Punjab, Haryana, Western Uttar Pradesh and Rajasthan. He then got into Steel buckets-another big win for him. 
