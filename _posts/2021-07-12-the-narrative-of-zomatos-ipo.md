@@ -85,7 +85,7 @@ A $110 billion  OR Rs. 7.7 lakh crore opportunity in next five years . According
 Zomato and Swiggy, combined, employ ~420k delivery partners, while our The Department of Posts,  employs ~418k personnel.
 
 ## The Narratives
-Narratives are made up of stories. It's a way to bring both information and experience together. The word narrative derives from the Latin verb narrare (to tell or to narrate'); in this sense, narrative is the process of narration or storytelling. A narrative gives shape to the unfolding events in a story, with the goal of making them clear and compelling to an audience.
+Narratives are made up of stories. It's a way to bring both information and experience together.  A narrative gives shape to the unfolding events in a story, with the goal of making them clear and compelling to an audience.
 
 #### A Win-Win Business Models 
 The restaurant market in India is highly fragmented with only 6-7% of the value being driven by chain restaurants and the balance being standalone restaurants. This makes Zomato’s role as an aggregator even more important as they help the growth of the industry by giving restaurant partners. Also, Restaurateurs (likely) tend to think on a marginal sale basis. Given that fixed costs (e.g. real estate) are already incurred by the restaurants for the dine-in channel, most restaurateurs tend to think of delivery on marginal cost / marginal profit basis.
