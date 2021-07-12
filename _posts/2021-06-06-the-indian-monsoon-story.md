@@ -43,7 +43,10 @@ Kharif falls in the monsoon season. Rice was a crop of monsoon Asia. In India, a
 Monsoon-dependent peninsular rivers that flowed out of the uplands of central and southern India provided an uncertain source of water. Canals in Punjab had rivers fed by snowmelt and part of UP was well served by Private wells. This shaped how these places will grow their crops.
 
 ## Are you an Equity investor?
-Now, let's understand how it impacts us (and equity investors). First thing first, Poor rains potentially hurt the agricultural output and lead to food inflation. Image: Food Inflation peaked in Dec-19. 
+Now, let's understand how it impacts us (and equity investors). First thing first, Poor rains potentially hurt the agricultural output and lead to food inflation. 
+In India most of the agricultural activity starts just before the monsoon. So early June to the end of July is the initial planting season for most crops. Then August and September would be the growing time and probably early October might be the harvest for some crops. 
+What this means for fertilizers, pesticides and insecticides companies is that a bulk of their revenues comes from June to September. So, in a good monsoon Q2 and Q3 can be good. Then Q4 and Q1 are not so good. 
+
 Rainfall is normal when= 96% -104% of the average rainfall of past 50 years
 ![](https://pbs.twimg.com/media/E2PiNNqVEAEil2Q?format=png&name=small)
 If rainfall is NOT way off, then it also helps Fertilisers sales. As, fertilisers help plants to overcome Uneven distribution of rainfall by increasing their capacity to hold more water and improve the rooting depth. 
