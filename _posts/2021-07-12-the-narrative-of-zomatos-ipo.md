@@ -62,9 +62,13 @@ Everyone loves a good story. We love to read them and spend time thinking about 
 
 #### Strong consumer brand equity with widespread network
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1626110808/IndFood02_gryomn.jpg)
+Strong network effects driven by their unique content and transaction flywheels
+They are the Yelp, DoorDash and OpenTable of India and all that in a single mobile app. They had 389,932 Active Restaurant Listings across 525 cities in India, as of March 31, 2021. They collect and curate all Structured Content using a feet-on-street approach.
 #### Focused on India
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1626110813/IndFood7_gmsxmd.jpg)
-Zomato has an average monthly transacting user base of...10 million users. Netflix has about 3 million subscribers in India.
+Zomato has an average monthly transacting user base of...10 million users. Netflix has about 3 million subscribers in India. 
+![](https://res.cloudinary.com/thebizdom-in/image/upload/v1626118562/Clsa1_ipettp.jpg)
+And, in India we are now into our Fifth Wave of Out-Of-Home Food Consumption.
 #### Underpenetrated Market
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1626110810/IndFood0_xmeaox.jpg)
 
@@ -109,14 +113,9 @@ As per Jefferies also, the online delivery estimated at c.US$4bn, penetration ou
 #### Zomato vs Swiggy
 Zomato wanting to be 'everything food' vs Swiggy wanting to be 'anything delivery'. 
 Convenience buying/delivery, which aims to leverage its logistics network to solve use cases like daily grocery needs and delivery services. Swiggy has developed two private label, internet-only, food brands: The Bowl Company and Homely
-Strong network effects driven by their unique content and transaction flywheels
-They are the Yelp, DoorDash and OpenTable of India and all that in a single mobile app. They had 389,932 Active Restaurant Listings across 525 cities in India, as of March 31, 2021. They collect and curate all Structured Content using a feet-on-street approach
-#### Why it's NOT an another Amazon story?
-Remember Amazon had their own Cash-cow- AWS, can Zomato do the same with their Ad network, or Suite of business support services’? Zomato Pro has given them Rs. 56.2 crore, Rs. 87.9 crore and Rs. 57.5 crore, as revenue in last three years, respectively.
-#### Is market share actually growing?
 
-Their Market share data is a bit confusing as it is indexed to 2018 sales why? 
-My guess is given their low base in 2018, they have grown more than the industry, but will it be the same case in future also?
+#### Why is it NOT another Amazon story?
+Remember Amazon had their own Cash-cow- AWS, can Zomato do the same with their Ad network, or Suite of business support services’? Zomato Pro has given them Rs. 56.2 crore, Rs. 87.9 crore and Rs. 57.5 crore, as revenue in last three years, respectively.
 
 #### Unit economics - sustainable?
 Zomato had a negative per-order contribution of (-) Rs30 in FY20 which turned into (+) Rs23 in 9mFY21, led by an increase in AOV, lower discounts, higher delivery charge to customer etc. However, with a gradual normalisation, 3QFY21 went down to Rs19. The improvement in unit economics in 9MFY21 was partly driven by external and potentially temporary tailwinds. Some of these tailwinds could reverse in the future impacting unit economics. 
@@ -147,6 +146,6 @@ The average cost of acquisition of equity share by the selling shareholder is Rs
 Today, a huge amount of plastic waste is generated each month as a byproduct of online food deliveries in India. The lion’s share comes from Swiggy and Zomato.
 
 
-Over the last 3 years, Zomato has lost >Rs4000 crores. I feel zomato still has decent competition and with no cash cow.  This IPO can give money to burn for the next couple of years. 
+Over the last 3 years, Zomato has lost >Rs4000 crores. But the excitement of having a rising star in your portfolio can make you ignore this. 
 
-It is said that the public market values companies on numbers rather than narratives. This will be a testing time for this saying, esp in this bull market, since despite of whatever I have put together, this will be a watershed moment!
+It is said that the public market values companies on numbers rather than narratives. This will be a testing time for this saying, esp in this bull market, since despite of whatever I have put together, **this will be a watershed moment!**
