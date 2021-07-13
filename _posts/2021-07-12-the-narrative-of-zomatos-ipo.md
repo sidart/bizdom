@@ -18,9 +18,9 @@ tags:
 
 Like always, let's start with a little bit of History!
 
-## History of Food delivery in India
+## A Short History of Food delivery in India
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1626110808/IndFood01_r6mi2l.jpg)
-It all started in 2007-08, Tasty Khana and few other city based players. By late 2013, Rocket Internet’s Foodpanda started Acquiring few of them, including Tastykhana and Just Eat. Due to the overall failure of Rocket Internet’s business in India , Foodpanda was acquired by Ola in 2017 and shut down in 2019.  The first wave of Food delivery was during 2014-15, but it didn’t last long, Tiny owl was shut down in 2016, Scootsy started in 2014 and was acquired by Swiggy, OlaCafe started in 2015, acquired Holachef's  and then shut in 2016. Other so-called foodtech companies were also getting closed, like Eazymeals, BiteClub, Dazo, Yumist, and MonkeyBox. Around 2017, we had Uber Eats which was later acquired by Zomato in 2020.
+The first player that i remember was Tasty Khana 2007-08. By late 2013, Rocket Internet’s Foodpanda started Acquiring few of them, including Tastykhana and Just Eat. Due to the overall failure of Rocket Internet’s business in India , Foodpanda was acquired by Ola in 2017 and shut down in 2019.  The first wave of Food delivery was during 2014-15, but it didn’t last long, Tiny owl was shut down in 2016, Scootsy started in 2014 and was acquired by Swiggy, OlaCafe started in 2015, acquired Holachef's  and then shut in 2016. Other so-called foodtech companies were also getting closed, like Eazymeals, BiteClub, Dazo, Yumist, and MonkeyBox. Around 2017, we had Uber Eats which was later acquired by Zomato in 2020.
 #### How it got started?
 Swiggy and Zomato had a late start, yet due to their strong funding, particularly in 2018, led to significant expansion in their operations in terms of geographical presence and rider and restaurant partnerships.
 Zomato started off as a platform to discover restaurants, read and write customer generated reviews, view / upload photos and book tables, etc. in restaurants. Through a series of acquisitions, the company expanded into 23 countries within this business line. 
@@ -110,10 +110,9 @@ Last year, both Swiggy as well as Zomato were fighting to get SoftBank on their 
 #### A $110 billion opportunity
 India’s food services market  is expected to grow at a CAGR of 7.2% to Rs6.04 tn in FY2025E from Rs4.25 tn in FY2020. Within the food services market, the organized market will grow at 10.5% CAGR to Rs2.8 tn and the organized chain market to grow at a CAGR of 13.3% to Rs716 bn. Within the organized chain segment, we expect QSR chains to grow faster, and hence the TAM of $110 billion is not for Zomato.
 As per Jefferies also, the online delivery estimated at c.US$4bn, penetration out of the relevant foodservices market will be at around 16-17%.
+Another issue is that the restaurant market in the top cities (at rented space) has seen a large churn. Since, most don't sustain operations due to high rent and low business.
 #### Zomato vs Swiggy
-Zomato wanting to be 'everything food' vs Swiggy wanting to be 'anything delivery'. 
-Convenience buying/delivery, which aims to leverage its logistics network to solve use cases like daily grocery needs and delivery services. Swiggy has developed two private label, internet-only, food brands: The Bowl Company and Homely
-
+Zomato wanting to be 'everything food' vs Swiggy wanting to be 'anything delivery' (like daily grocery needs), along with trying to sell their own food. Swiggy has developed two private label, internet-only, food brands: The Bowl Company and Homely.
 #### Why is it NOT another Amazon story?
 Remember Amazon had their own Cash-cow- AWS, can Zomato do the same with their Ad network, or Suite of business support services’? Zomato Pro has given them Rs. 56.2 crore, Rs. 87.9 crore and Rs. 57.5 crore, as revenue in last three years, respectively.
 
@@ -144,7 +143,6 @@ The average cost of acquisition of equity share by the selling shareholder is Rs
 
 #### What about ESG investing?
 Today, a huge amount of plastic waste is generated each month as a byproduct of online food deliveries in India. The lion’s share comes from Swiggy and Zomato.
-
 
 Over the last 3 years, Zomato has lost >Rs4000 crores. But the excitement of having a rising star in your portfolio can make you ignore this. 
 
