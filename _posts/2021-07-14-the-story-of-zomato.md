@@ -40,6 +40,8 @@ Some of their viral campaigns during this phase were
 
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1626285413/290374_323295481029874_1423848064_o_bee8lg.jpg)
 
+![](https://res.cloudinary.com/thebizdom-in/image/upload/v1626285414/843064_614764161883003_990822968_o_jxv5fo.jpg)
+
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1626285413/665503_562726367086783_890846013_o_zf3zml.jpg)
 ### Global Expansion
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1626285414/1421084_10153986356825468_4379415319105052298_o_oyw0bo.jpg)
