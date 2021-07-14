@@ -108,8 +108,12 @@ Last year, both Swiggy as well as Zomato were fighting to get SoftBank on their 
 #### How big is the Pie?
 ~30 mn Indian consumers now order food online, which is around the range of the working population in the Urban Middle (US$15k average annual income) cohort in India. It seems like online food delivery is already well penetrated in customer cohorts that can order food online. Remember how Pepsi and coke used to put this narrative, Indian Market is so-so under served, well, at times, your offering will have a limited reach. One can’t go with the base of a large and growing Indian population. 
 #### A $110 billion opportunity
-India’s food services market  is expected to grow at a CAGR of 7.2% to Rs6.04 tn in FY2025E from Rs4.25 tn in FY2020. Within the food services market, the organized market will grow at 10.5% CAGR to Rs2.8 tn and the organized chain market to grow at a CAGR of 13.3% to Rs716 bn. Within the organized chain segment, we expect QSR chains to grow faster, and hence the TAM of $110 billion is not for Zomato.
+India’s food services market  is expected to grow at a CAGR of 7.2% to Rs6.04 tn in FY2025E from Rs4.25 tn in FY2020. Within the food services market, the organized market will grow at 10.5% CAGR to Rs2.8 tn and the organized chain market to grow at a CAGR of 13.3% to Rs716 bn. 
+
+Within the organized chain segment, we expect QSR chains to grow faster, and hence the TAM of $110 billion is not for Zomato.
+
 As per Jefferies also, the online delivery estimated at c.US$4bn, penetration out of the relevant foodservices market will be at around 16-17%.
+
 Another issue is that the restaurant market in the top cities (at rented space) has seen a large churn. Since, most don't sustain operations due to high rent and low business.
 #### Zomato vs Swiggy
 Zomato wanting to be 'everything food' vs Swiggy wanting to be 'anything delivery' (like daily grocery needs), along with trying to sell their own food. Swiggy has developed two private label, internet-only, food brands: The Bowl Company and Homely.
@@ -120,7 +124,9 @@ Remember Amazon had their own Cash-cow- AWS, can Zomato do the same with their A
 Zomato had a negative per-order contribution of (-) Rs30 in FY20 which turned into (+) Rs23 in 9mFY21, led by an increase in AOV, lower discounts, higher delivery charge to customer etc. However, with a gradual normalisation, 3QFY21 went down to Rs19. The improvement in unit economics in 9MFY21 was partly driven by external and potentially temporary tailwinds. Some of these tailwinds could reverse in the future impacting unit economics. 
 
 #### Competition may emerge
-As mentioned in the beginning, none of these two players were the original player of this game, they survived and grew, because of their ability to burn the cash. So, future competition can’t be ruled out, just that the new players should be either ready for cash-burn or just focused on their own niche. Let’s see what path will be adopted by Amazon, DotPe & Dunzo+Google. Since, for the food outlet, the cost of switching between offerings is quite low only. Infact two of the unexpected Competition could come from Google and Facebook.
+As mentioned in the beginning, none of these two players were the original player of this game, they survived and grew, because of their ability to burn the cash. So, future competition can’t be ruled out, just that the new players should be either ready for cash-burn or just focused on their own niche. 
+
+Let’s see what path will be adopted by Amazon, DotPe & Dunzo+Google. Since, for the food outlet, the cost of switching between offerings is quite low only. Infact two of the unexpected Competition could come from Google and Facebook.
 ![](https://www.asiatechdaily.com/wp-content/uploads/2019/03/Screen-Shot-2020-02-17-at-2.22.17-AM.png)
 Google already has a decent stake in Dunzo- the hyperlocal delivery platform, their combo can provide a good alternative to Food outlets.
 Similarly, WhatsApp+Reliance can allow restaurants to create a business account on the platform, which can be used to share menu information and engage with customers.
