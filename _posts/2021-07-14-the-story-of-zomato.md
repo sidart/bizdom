@@ -27,7 +27,7 @@ The core idea was to bring new orders for restaurants and replace their age old 
 
 Zomato.com soon attracted a lot of attention as it received Rs 4.7 crore from Info Edge for a significant minority stake. Around the same time, Burrp.com (a key rival in this space) was acquired by Network18 for Rs. 4 crore. 
 
-Now, the key difference was that Burrp.com was an outright sale and the promoters have moved on, while in the case of Zomato core team remained with them, and Infoedge just played as a strategic investor. 
+Now, the key difference was that Burrp.com was an outright sale and the promoters moved on, while in the case of Zomato core team remained with them, and Infoedge just played as a strategic investor. 
 
 ### Name Change
 By Nov 2010, Foodiebay metamorphosed into Zomato. As it contained the words “ebay”, so as to avoid a possible future conflict with eBay. The name Zomato is just a word that rhymes with tomato!
