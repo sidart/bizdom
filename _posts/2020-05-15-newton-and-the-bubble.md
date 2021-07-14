@@ -35,7 +35,7 @@ Britons were unwilling to exchange their silver for gold at an unfavourable rate
 
 Anyways, Britain was still vying with France for military leadership and with the Dutch for economic power. So, no one followed on Gold Standard at the time. And, the silver crisis did help them and made London as the primary market for Gold Trading.
 
-In between, he was appointed by Parliament to lead a committee seeking the best way to “Discover Longitude at Sea”. He spent a few years dealing with a flood of cranky proposals. In the end, it was John Harrison (won the Cash Prize) for his chronometer, used by Captain Cook.
+In between, he was appointed by Parliament to lead a committee seeking the best way to “[Discover Longitude at Sea](https://www.thebizdom.in/the-longitude-and-british-empire/)”. He spent a few years dealing with a flood of cranky proposals. In the end, it was John Harrison (won the Cash Prize) for his chronometer, used by Captain Cook.
 
 ## The battle at South sea
 This was the same time when Britain was fighting with Spain, Portuguese and Dutch for the supremacy over Sea. Ambition in the Malay Archipelago had begun to shift eastwards, towards the South Seas. Britain was involved in the War of the Spanish Succession (1701–1714) and Spain controlled South America. 
