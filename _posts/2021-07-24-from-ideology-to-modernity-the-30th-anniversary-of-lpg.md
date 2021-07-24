@@ -16,14 +16,23 @@ description: In 1991, a tumultuous year of failing monsoons, chaotic politics, a
 category: economy
 ---
 
-In May 1991, India had airlifted 20 tonnes of confiscated gold to Zurich to raise $240 million, but somehow news didn’t get its attention, but it did prepare the News reporters to follow the event. Later, on 4 July 1991 the Reserve Bank of India was again given the task of transporting 47 tonnes of gold to the Bank of England. Commercial airlines had excused themselves from the operation due to its excessive risk, which meant that Heavy Lifting Cargo Airlines had to be chartered to take the load to England in four stages. A high security convoy was first needed to transport the gold from the RBI’s vaults in South Bombay to Sahar Airport in the north of the city. Since this was a second act, details of the gold lift, including a large picture of the plane being loaded with the precious metal, promptly made their way onto the pages of the Indian Express. 
+In May 1991, India had airlifted 20 tonnes of confiscated gold to Zurich to raise $240 million, but somehow news didn’t get its attention, but it did prepare the News reporters to follow the event. 
+Later, on 4 July 1991 the Reserve Bank of India was again given the task of transporting 47 tonnes of gold to the Bank of England. Commercial airlines had excused themselves from the operation due to its excessive risk, which meant that Heavy Lifting Cargo Airlines had to be chartered to take the load to England in four stages. A high security convoy was first needed to transport the gold from the RBI’s vaults in South Bombay to Sahar Airport in the north of the city. 
+
+Since this was a second act, details of the gold lift, including a large picture of the plane being loaded with the precious metal, promptly made their way onto the pages of the Indian Express. 
 
 ### But Why are we sending these Gold?
 
-It was Prime Minister Chandra Shekhar and Finance Minister Yashwant Sinha—on the advice of the RBI Governor S. Venkitaramanan—who first decided to use our gold reserves to raise foreign loans to keep the wheels of the economy moving. Under Nehruvian socialism, the economy had suffered for quite a long time. The decade 1980–1 to 1990–1 was marked by the low growth syndrome of the Indian economy on the brink of defaulting on its debt in 1991, while the world around us was changing: Soviet Union was in perceptible economic decline, China had turned to the market and East Asia’s economic success was widely attributed to its free market policies.
+It was Prime Minister Chandra Shekhar and Finance Minister Yashwant Sinha—on the advice of the RBI Governor S. Venkitaramanan—who first decided to use our gold reserves to raise foreign loans to keep the wheels of the economy moving. Under Nehruvian socialism, the economy had suffered for quite a long time. 
 
-However, the recent pressure on the reserves had come from the trebling of oil prices following the Gulf War of August 1990. To make matters worse, India had to repatriate thousands of workers from Kuwait back home. Other issues were Political instability (by October 1990, the V.P. Singh government was tottering), that prompted non-resident Indians (NRIs)—whose deposits were a valuable source of dollar support to the economy—to start withdrawing their money from Indian banks.
-So, by June 21, 1991, when PV Narasimha Rao took over as Prime Minister, we had run out of our foreign reserves. We only had $1.2 billion in reserves—just about enough to meet three weeks of imports. Monies were needed desperately, and the Indian government pledged 67 tonnes of gold to the Bank of England and the Union Bank of Switzerland to raise $605 million.
+The decade 1980–1 to 1990–1 was marked by the low growth syndrome of the Indian economy on the brink of defaulting on its debt in 1991, while the world around us was changing: Soviet Union was in perceptible economic decline, China had turned to the market and East Asia’s economic success was widely attributed to its free market policies.
+
+However, the recent pressure on the reserves had come from the trebling of oil prices following the Gulf War of August 1990. 
+
+To make matters worse, India had to repatriate thousands of workers from Kuwait back home. Other issues were Political instability (by October 1990, the V.P. Singh government was tottering), that prompted non-resident Indians (NRIs)—whose deposits were a valuable source of dollar support to the economy—to start withdrawing their money from Indian banks.
+So, by June 21, 1991, when PV Narasimha Rao took over as Prime Minister, we had run out of our foreign reserves. 
+
+We only had $1.2 billion in reserves—just about enough to meet three weeks of imports. Monies were needed desperately, and the Indian government pledged 67 tonnes of gold to the Bank of England and the Union Bank of Switzerland to raise $605 million.
 
 ### Those two months of 1991
 21 May 1991 when Rajiv Gandhi was assassinated, and Congress needed a new leader. And, as a rarity Congress held an election to choose their leader. In which P V Narasimha Rao easily beat Sharad Pawar. Congress (I)  had won 226 seats, 30 short of an overall majority, and formed a minority government.
@@ -38,7 +47,7 @@ So, by June 21, 1991, when PV Narasimha Rao took over as Prime Minister, we had 
 
 9th July, Rao addressed the nation again on Doordarshan and over All India Radio on 9 July. He wanted to send political signals regarding his overall approach.
 
-On 12 July, Kalyani Shankar published a story in The Hindustan Times titled “Industrial Licensing to Go”. The note on industrial policy was presented to Cabinet on 15 July 1991.
+12th July, Kalyani Shankar published a story in The Hindustan Times titled “Industrial Licensing to Go”. The note on industrial policy was presented to Cabinet on 15 July 1991.
 
 15 July 1991, the motion of confidence—moved three days earlier. was at his philosophical best
 > What have I done? What had the government done? We know that there are no alternatives to what we have done. We have only salvaged the prestige of this country. Sarvanashe samutpanne ardham tyajati panditah. This is precisely what we have done. I do not say that the economy has been booming or is going to boom immediately. What I am saying is sarvanashe samputpanne.
@@ -56,10 +65,12 @@ The Union Budget was to be presented on 24 July, yet before Manmohan Singh rose 
 
 ### Post Events of LPG- Liberalization, Privatization, and Globalization
 The Law of Laissez-faire is a term used by economists to describe a regulatory policy by which the government does not interfere with business and the free market system.
+
 In the late 17th century, French minister under Louis XIV (the “Sun King”), Jean-Baptiste Colbert, once asked a group of businessmen what he could do for them. One of them, Legendre, replied, “Laissez nous faire”—leave us alone. Thus, rules were changed under Laissez faire, to leave things alone, and let goods pass through.
 
 In the same manner, Manmohan Singh Union Budget overhauled India's trading economy, doing away with import licences, announcing measures for export promotion and reducing tariffs. Capital markets were liberalised and subsidies were reduced on fertilisers, cooking gas and sugar. A $220 million loan had been received from the International Monetary Fund two days earlier. More loans were arranged in September and November, and January, February and March of 1992. 
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1627147020/4_vxtu2j.png)
+
 It was aimed for three possible after events
 1. The growth of private-sector participation and export orientation in the processing industries following delicensing, control over the source of feedstock to ensure quality and traceability became desirable. 
 2. Consumpition growth: the emergence of supermarkets and modern retail chains necessitated a steady supply of fresh produce of consistently good quality
@@ -68,11 +79,11 @@ It was aimed for three possible after events
 But then cheaper rupee meant that Indian exports would become more competitive, making one of the export subsidies, the Cash Compensatory Scheme redundant. As mentioned on [Twitter](https://twitter.com/Tijori1/status/1417847074159091714)
 
 To put Indian IT Services exports in perspective - at ~$170B it exceeds Saudi Arabia's oil exports in value
-
 All in a matter of 30 years starting from scratch!
 
 ### Economic Reform and Stock market Development
 Liberalisation measures have included the repeal of the Capital Issues Control Act 1947 by which the government controlled new share issues and determined the issue price. Externally, liberalisation has allowed foreign institutional investors to directly purchase Indian corporate shares. The flagship of the government's new regulations to ensure transparency and above board functioning of stock markets has been the Securities and Exchange Board of India Act which came into force in January 1992.
+
 In 1980, the total market capitalisation on the Indian stock markets as a proportion of GDP was only 5%. By 1990, following the liberalisation measures initiated during the 1980s, the ratio rose to 13%. With the accelerated pace of liberalisation under Dr Singh's reforms the stock market growth has been explosive. By end-1993, total market capitalisation reached 60% of GDP.
 
 ### A lot more needs to change
