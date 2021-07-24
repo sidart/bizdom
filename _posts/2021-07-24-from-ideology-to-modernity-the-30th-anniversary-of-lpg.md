@@ -75,6 +75,5 @@ All in a matter of 30 years starting from scratch!
 Liberalisation measures have included the repeal of the Capital Issues Control Act 1947 by which the government controlled new share issues and determined the issue price. Externally, liberalisation has allowed foreign institutional investors to directly purchase Indian corporate shares. The flagship of the government's new regulations to ensure transparency and above board functioning of stock markets has been the Securities and Exchange Board of India Act which came into force in January 1992.
 In 1980, the total market capitalisation on the Indian stock markets as a proportion of GDP was only 5%. By 1990, following the liberalisation measures initiated during the 1980s, the ratio rose to 13%. With the accelerated pace of liberalisation under Dr Singh's reforms the stock market growth has been explosive. By end-1993, total market capitalisation reached 60% of GDP.
 
-
-A lot more needs to change
+### A lot more needs to change
 The second wave of the pandemic may have receded a bit, but it is still upon us. We are on the brink of breakthroughs that will profoundly change the way we live, work, and relate to one another. India needs critical reforms in health, labor, land, skills and agriculture.
