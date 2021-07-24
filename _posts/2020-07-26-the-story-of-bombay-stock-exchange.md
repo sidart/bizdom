@@ -7,7 +7,7 @@ description: Another Parsi contribution in Bombay Story. Scams. And, Who coined 
   Sensex?
 image: https://res.cloudinary.com/thebizdom-in/image/upload/v1595685377/BSE_rxkiow.png
 optimized_image: https://res.cloudinary.com/thebizdom-in/image/upload/v1595685377/BSE_rxkiow.png
-category: institutions
+category: economy
 author: sidart
 tags:
 - BombayStockExchange
