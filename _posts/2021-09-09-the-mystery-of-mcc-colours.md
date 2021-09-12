@@ -25,7 +25,7 @@ According to the club’s historian, Glenys Williams, until the 1860s the club p
 According to the club’s own admission, the change remains a mystery. The “common consensus leans to the club taking on its colours as a personal thank you to William Nicholson who assisted in purchasing the freehold of Lord’s Ground,” MCC states.  
 
 Nicholson owned the Nicholson’s Gin Company, whose brand colours were yellow and red. J&W Nicholson & Co was a London-based wine and spirits company founded by two brothers, they have been making gin since 1736. 
-[](https://res.cloudinary.com/thebizdom-in/image/upload/v1631434843/gin-pom-glass_rsefbw.jpg)
+![](https://res.cloudinary.com/thebizdom-in/image/upload/v1631434843/gin-pom-glass_rsefbw.jpg)
 
 William Nicholson became one of the first five Trustees of the MCC in May 1864 and he would use his fortune to help the MCC secure the site that is today Lord's "The Home of Cricket" in St John's Wood.
 
