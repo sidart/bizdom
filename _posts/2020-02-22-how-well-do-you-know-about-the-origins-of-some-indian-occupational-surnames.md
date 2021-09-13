@@ -29,12 +29,17 @@ People were awarded titles by native or foreign rulers, by the community, or by 
 Patel and Patil derive from ‘a piece of land’ and referred to a landowner/tenant farmer. Taluqdar = Taluk (depend) + dar (holder). Desai = lord of the Desa (land). All of them were responsible for collecting taxes for the kings. Reddy was another such title. 
 **Chowdhury** were also the head of a community or caste, from Sanskrit /čatus-/‘four- way, all-round’ + /dhurīya/‘undertaking a burden (of responsibility)’. **Deshpande** and Deshmukhs were 'district accountant/leader’, formerly a hereditary office (from Sanskrit /deša/‘country, district’ + /pandita/‘learned man’). **Mehta** was another name used for the Chief (Sanskrit mahita = great and magnify) however in Gujarati it has come to mean ‘teacher’ or ‘accountant’. 
 #### Shet, Shethi & Shetty
-The Community name of Shetty and Chettiar derived from the Sanskrit word Shresthi (‘head of a mercantile or other guild’ and literally a superior person), since they were the best in the community on whom you can Trust on the money matters. It becomes Seth/Sethia in northern India. 
-The Nattukottai Chettiar community, or Nagarathars later on became a prominent mercantile caste in Tamil Nadu. What Marwari businessmen are to the north and Parsees to the west, the Nagarathars are to the south. While they migrated to many places, it was in Burma they grew tremendously as moneylenders. 
+The Community name of Shetty and Chettiar derived from the Sanskrit word Shresthi (‘head of a mercantile or other guild’ and literally a superior person), since they were the best in the community on whom you can Trust on the money matters. 
+Ramesh Chandra Majumdar, in his book Corporate Life in Ancient India said
+> Sreni is defined as a corporation of people, belonging to the same or different caste but following the same trade and industry. This organisation corresponds to that of the "Guilds" in mediaeval Europa.
+
+The term will becomes Seth/Sethia in northern India. 
+
+While, the Nattukottai Chettiar community, or Nagarathars became a prominent mercantile caste in Tamil Nadu. What Marwari businessmen are to the north and Parsees to the west, the Nagarathars are to the south. While they migrated to many places, it was in Burma they grew tremendously as moneylenders. 
 
 We derived Shenoy from the coastal Karnataka from the word ‘Shrenipati’ or the leader of the guild. It is also interchangeable with its Sanskrit counterpart Shanbhag or Shanbhogue which means clerk. Mahajan were moneylender named after mahā ‘great’ + janas ‘person’. Many caste had their own Mahajan to administer caste affairs and to also serve as an informal link between the merchants and the state.
 
-Another related name was Lala used for bankers, merchants and tradesmen. Sindi drevied Lalani from Lala.
+Another related name was Lala used for bankers, merchants and tradesmen. Sindi drevied Lalani from Lala, simply meaning meaning 'descended from Lala'. Today it is used as both Muslim and Hindu surname. 
 
 
 ### Gyan
