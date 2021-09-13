@@ -51,20 +51,25 @@ Inamdar were given the land as Inam (prize).
 
 Revenue collection of the Maratha State. The assignment of revenue rights to a rent collector (ijardar), who were accountable to a group of Sahukar/moneylenders (Potedars, Poddars). When the state needed money, it would issue a money warrant accompanied by letter of credit to them, were known as Varat.
 
-**Bajaj** were ‘dealer in clothes’ (from Arabic bazzāz),  **Chawla** were the dealer of Chwal/Rice and **Doshi** from Persian /dush/‘shoulder’, denoting a hawker selling cloth (because the cloth was carried over the shoulder). 
+ **Chawla** were the dealer of Chwal/Rice and **Doshi** from Persian /dush/‘shoulder’, denoting a hawker selling cloth (because the cloth was carried over the shoulder). 
 
 **Dewan** In Mughal India the dewan was usually the highest official in a state after the king.  **Amin** were government official concerned with investigation of land claims and revenue claims and ’.
 **Bakshi** came from Persian /bakhshī/‘paymaster’,  was the title of an official who distributed wages in the Muslim armies. Dalal ‘broker’, Majmudar ‘record-keeper’,  Shah ‘merchant’. 
 
 **Dar** (Kashmir Muslim name) probably came from the Persian dār meaning ‘holder, possessor, master’.
 
-### Marwadis
-Kothari were the treasurer and caretaker of “Kotha” (godown or treasure). Bhandari were the manager of the treasure house or keeper of a storehouse, taking care of the Bhandar. Both are a surname in Marwadi communities.
-Parekh or Parikh were the assayer of metals and got derived from Sanskrit word pariksaka = 'examiner'. Related surname was Soni who acted as Sunar (goldsmiths)
-Lunia were the salt makers. 
-Sanghvi used to offers hospitality to groups and arrange such trips (Sanskrit sangha = Group)
+### Marwadis & Maheshwari
+**Bajaj** were ‘dealer in clothes’ (from Arabic bazzāz), and was one of the 72 Khanp of Maheshwari communities. 
+
+Kothari were the treasurer and caretaker of “Kotha” (godown or treasure). Bhandari were the manager of the treasure house or keeper of a storehouse, taking care of the Bhandar. Both are also a surname in Marwadi communities.
+
+Parekh or Parikh were the assayer of metals and got derived from Sanskrit word pariksaka = 'examiner'. Related surname was Soni who acted as Sunar (goldsmiths).
+
+Lunia were the salt makers. Sanghvi used to offers hospitality to groups and arrange such trips (Sanskrit sangha = Group)
 
 Nahata were Rajput who later converted to Jain, got their name from a battle were they remain stood. Na + hata
+
+
 
 ### Ancestral place
 A lot of Indian business communities picked their surname from their place of origin. While its not based on the occupational but still should be part of this list. 
