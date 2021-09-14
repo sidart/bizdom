@@ -2,8 +2,11 @@
 title: Remembering Karl Marx
 date: '2014-06-03 17:56:40'
 layout: post
-subtitle: 'Karl Marx: a reader'
-description: Know about the early days of Marx.
+subtitle: Karl Marx's work drew on many ideas of political philosophy, economic theory,
+  and socialism
+description: His theories on dialectical materialism and historical materialism –
+  have inspired Marxist revolutionaries in different countries to cause popular uprisings
+  and revolutions and social changes.
 image: https://res.cloudinary.com/thebizdom-in/image/upload/v1593861640/karl_qon7dv.jpg
 optimized_image: https://res.cloudinary.com/thebizdom-in/image/upload/v1593861640/karl_qon7dv.jpg
 category: personality
@@ -13,6 +16,9 @@ tags:
 author: sidart
 ---
 
+Karl Marx was a German philosopher, political economist, and socialist activist. He is often described as the most influential scholar of modern times. His theories had inspired revolutionists of different schools of thoughts in their struggle for social change. 
+
+While his works have been extensively criticized by free-market economists, political scientists, and philosophers who believe that there are no structural barriers to equality, still many believe that his concepts of class struggle offer a brilliant analysis of oppression in modern society.
 ### **Early Days**
 
 Karl Marx was born on May 5, 1818 in Trier (Rhenish Prussia). His father was a lawyer, a Jew who was converted to Protestantism in 1824. The family was wealthy, educated, but not revolutionary as he will end up. After completion of the Gymnasium in Trier, Marx entered the university, first at Bonn, then in Berlin, and studied law, after that history and philosophy.
@@ -27,10 +33,16 @@ In 1847 Marx and Engels joined a secret society, ‘the Communist League’, too
  
 On the outbreak of the Revolution of February 1848, Marx was banished from Belgium. He returned to Paris, whence, after the March Revolution, he went to Cologne, Germany, where Neue Rheinische Zeitung was published from June 1, 1848, to May 19, 1849, with Marx as editor-in-chief. The course of the revolutionary events of 1848-49 splendidly confirmed the alternative theory, just as it has been subsequently confirmed by all proletarian and democratic movements in all countries of the world. The victorious counter-revolution first instigated court proceedings against Marx (it acquitted him on February 9, 1849), and then banished him from Germany (May 16, 1849). First Marx went to Paris, was again banished after the demonstration of June 13, 1849.
 
-### **Philips Connection**
+### Atahuallpa’s gold
+Karl Marx was among the first economists to see that, financially, the Industrial Revolution begins with Atahuallpa’s gold. What Marx meant was that the machinery used in early British factories — powered by horses — could be made significantly more efficient if it were powered by steam. The horses had to be fed and watered and cared for: the steam only needed coal and water. What he did not know is that large amounts of gold, taken from Spanish mines in Latin America, were financing steam technology in England.
+
+The high-value minerals extracted from Atahuallpa’s treasure were the nascent capital of the world economy. The Industrial Revolution took off in Britain because it was a superb place to make a profit from trading the wealth pouring out of its American, West Indian and African possessions over the course of the eighteenth century. 
+
+
+### Philips Connection
 Benjamin Philips built a fortune selling tobacco. His son, Lion (1794-1866) was married to Sophie Pressburg, an aunt of Karl Marx. Lion's son Frederik Philips was a merchant banker who financed the setting up of the Philips lighting company. Though Marx had nothing to do with the company, it was founded 8 years after he died.
 
-### **London Days**
+### London Days
 He then immigrated to London and settled there in 1849, till his death. In London, Marx required financial support from his collaborator and friend Engles, for, just as it addicts some men to gambling, Marx was addicted to reading and writing, and these activities did not produce much of an income.
 In 1867 the first volume of Das Kapital was published, a work which analysed the capitalist process of production. Here Marx elaborated his labour theory of value, which had been influenced by Thomas Hodgskin.
  
