@@ -99,7 +99,7 @@ Ghosh is an occupational name for those who were cowherd (ghosa). Related one is
 
 Natarajan were the ‘king of dancers’ (from nata ‘dancer’ + rāja ‘king’, an epithet of the god Shiva). 
 
-Parmar ‘one that strikes the enemy’, from Sanskrit para ‘alien, enemy’ + māra ‘strike, kill’. Purohit from purohita ‘one placed foremost’ (from puras ‘front’ + hita ‘placed’). Rawat from a much altered form of Sanskrit rājapatra ‘king’s son, prince’.
+Parmar ‘one that strikes the enemy’, from Sanskrit para ‘alien, enemy’ + māra ‘strike, kill’. Purohit from purohita ‘one placed foremost’ (from puras ‘front’ + hita ‘placed’). Rawat from a much altered form of Sanskrit rājapatra ‘king’s son, prince’. Ghataks (literally, one who makes things happen) were matchmakers who established links between the two families in a marriage.
 ### Muslim Names
 Muslim Khojas were another group of successful merchants. The name Khoja, or Khwajah, meant a rich and respectable gentleman, an opulent merchant. Bohras, also spelled Bohara or Vohra, is derived from the Gujarati word vohorvu meaning ‘trade’ and records the occupation of the first converters to Islam. The Memons another mercantile community, were known as maumins or believers. The word maumin was distorted to Memon.
 
