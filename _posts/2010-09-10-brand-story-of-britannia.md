@@ -18,7 +18,7 @@ Later, the business was acquired by the Gupta brothers and operated under the na
 
 In 1918, C H Holmes, an English businessman in Kolkata was taken as a partner and ‘The Britannia Biscuit Company Limited (BBCo)’ was launched. 
 
-In 1924, the factory and business was sold to Peek, Frean, one of the largest biscuit companies in Britain, which, along with Huntley and Palmers, were a subsidiary  of Associated Biscuit Manufacturers. In the same year, the Mumbai factory was also setup. 
+In the early 1920s, there was an amalgamation of the two most successful biscuit manufacturers in the UK- Peek Freans and Huntley & Palmers. They created Associated Biscuit Manufacturer’s Ltd as the holding company in 1921. It soon transformed into an economically powerful unit which prompted worldwide expansion. Soon, they manufactories were created in India as part of a merger with Britannia Biscuits in 1924. In the same year, the Mumbai factory for their business was also setup. 
 
 Biscuits were in big demand during World War II, which gave a fillip to the company’s sales. 
 
