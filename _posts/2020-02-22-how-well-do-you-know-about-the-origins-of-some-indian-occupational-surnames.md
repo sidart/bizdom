@@ -29,6 +29,8 @@ People were awarded titles by native or foreign rulers, by the community, or by 
 #### Village headman
 Patel and Patil derive from ‘a piece of land’ and referred to a landowner/tenant farmer. Taluqdar = Taluk (depend) + dar (holder). Desai = lord of the Desa (land). All of them were responsible for collecting taxes for the kings. Reddy was another such title. 
 **Chowdhury** were also the head of a community or caste, from Sanskrit /čatus-/‘four- way, all-round’ + /dhurīya/‘undertaking a burden (of responsibility)’. **Deshpande** and Deshmukhs were 'district accountant/leader’, formerly a hereditary office (from Sanskrit /deša/‘country, district’ + /pandita/‘learned man’). **Mehta** was another name used for the Chief (Sanskrit mahita = great and magnify) however in Gujarati it has come to mean ‘teacher’ or ‘accountant’. 
+
+**Gowda** derived from a Dravidian word meaning “mountain”, so is a one who owns land and holds political and social power in the village. 
 #### Shet, Shethi & Shetty
 The Community name of Shetty and Chettiar derived from the Sanskrit word Shresthi (‘head of a mercantile or other guild’ and literally a superior person), since they were the best in the community on whom you can Trust on the money matters. 
 Ramesh Chandra Majumdar, in his book Corporate Life in Ancient India said
@@ -56,13 +58,20 @@ Mukherjee is a teacher from a place called Mukhati. Mukhyopadhyaya, is composed 
 Bhargava from Sanskrit bhārgava ‘(descendant) of Bhrigu’. Bhrigu is the name of one of the great sages. Jani is from jñānī ‘knowing, learned’. 
 
 Jha (Ojha in Uttar Pradesh) is said to be a much reduced form of Sanskrit upādhyāya ‘teacher’. Joshi was a title for jyotisī , i.e ‘astrologer’.  Pathak is from pāthaka ‘teacher’.
+
+Grover, came from Guruvara/Gorovare, which in turn derives from a Sanskrit word of (“guru/a” /गुरु”) “teacher/mentor” hence meaning “the great teacher”.
 ### Mughals Era
 Mughals followed a system of free minting under which anyone was free to bring metal to an imperial mint and get it converted into coins. Mints working under this were provided by a professional dealer in money = Sarraf, derived from Arabic meaning ‘treasurer’, ‘paymaster’ and money changer.
-Inamdar were given the land as Inam (prize). 
+
 
 Revenue collection of the Maratha State. The assignment of revenue rights to a rent collector (ijardar), who were accountable to a group of Sahukar/moneylenders (Potedars, Poddars). When the state needed money, it would issue a money warrant accompanied by letter of credit to them, were known as Varat.
 
+**Fadnavis**, came from two Persian words, Fad and navis, and literally translated from Persian to English as ‘Maker of the Lists’. The powers of Phadnavis in Maratha administration was that of a Finance Minister. Inamdar were given the land as Inam (prize). 
+
+Faujdar, was a title awarded by Mughal to garrison commanders.
+
  **Chawla** were the dealer of Chwal/Rice and **Doshi** from Persian /dush/‘shoulder’, denoting a hawker selling cloth (because the cloth was carried over the shoulder). 
+ 
 
 **Dewan** In Mughal India the dewan was usually the highest official in a state after the king.  **Amin** were government official concerned with investigation of land claims and revenue claims and ’.
 **Bakshi** came from Persian /bakhshī/‘paymaster’,  was the title of an official who distributed wages in the Muslim armies. Dalal ‘broker’, Majmudar ‘record-keeper’,  Shah ‘merchant’. 
