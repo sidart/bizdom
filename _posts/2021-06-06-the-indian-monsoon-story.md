@@ -82,7 +82,7 @@ Since, heavy rains towards the end of the monsoon (late September) will have a d
 Monsoons are thus a rainbow of hope for Indian agriculture and economy. The rural economy was a saving grace for India’s 2020 gross domestic product numbers, which saw a rare recession not led by an agricultural shock. So, again a to is expected from Our Monsoon this time again. 
 
 ### Pakora
-Oh wait! let's talk about the things that are the most favorite when it rains in India and Pakistan.  What better way to celebrate the monsoon than with a cup of hot tea and a plateful of spicy pakoras!
+The monsoon season is upon us. Rain, rain. Rain. What else is new? Oh wait! let's talk about the things that are the most favorite when it rains in India and Pakistan.  What better way to celebrate the monsoon than with a cup of hot tea and a plateful of spicy pakoras!
 Pakora is a savoury deep-fried cake containing bits of onion, potato, cauliflower, eggplant, or for that matter just any other vegetables. Chickpea is used to make flour, and as a batter to coat various vegetables. 
 In north India, pakoras are sold standing in front of shops in plastic bags which you can hold with two hands while standing in rain, eating it.
 

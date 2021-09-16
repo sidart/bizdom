@@ -55,7 +55,7 @@ During the 1980s, Williamson Magor took control of Mcnally Bharat Engineering Co
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1630097387/mcd_ny9aag.jpg)
 The Khaitan felt the same as they started borrowing heavily on the strength of their two fundamentally strong companies-McLeod Russel and Eveready — to support their engineering misadventure.
 
-Soon this bet on the infrastructure business would go totally wrong.
+Leverage makes you vulnerable to the small change in the environment your business depends on, since it magnifies both gains and losses. It can lead to bankruptcy where commitments or obligations become untenable because of an adverse outcome that changes the business environment. And, soon this bet on their infrastructure business would go totally wrong.
 
 While the stress started becoming big from 2015s onward, the strength of their other business was saving them some off. Then in 2017, Promoter trust sold 9.1% stake in McLeod Russel resulting in reduction in stake to ~40%; the fund raised through stake sale (of ~Rs200 crore) that was to be utilized for reduction in debt on the consolidated books. 
 
