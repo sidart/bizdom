@@ -34,8 +34,9 @@ In 1590 at Middleburg in the Netherlands, father and son spectacle makers Hans a
 Robert Hooke, a British scientist used this microscope to identify the cell as the basic unit of life. 
 Microscopes would later reveal the invisible colonies of bacteria and viruses that both sustain and threaten human life, which led to modern vaccines and antibiotics.
 
-A Dutch eyeglass maker Hans Lippershey in 1608, invented a device that can magnify objects 3x. Galileo modified it to reach 10x. And, in Jan of 1610, just two years after Lippershey had filed for his patent, Galileo used the telescope to observe that moons were orbiting Jupiter.
-
+### The Astronomy
+Galileo didn't invent the telescope. It was Dutch, and he simply improved its design.  A Dutch eyeglass maker Hans Lippershey in 1608, invented a device that can magnify objects 3x. Galileo modified it to reach 10x. And, in Jan of 1610, just two years after Lippershey had filed for his patent, Galileo used the telescope to observe  Jupiter's four large moons (Io, Europa, Ganymede and Callisto) in 1610 with his telescope.  A lot changes because of this observation. His evidence later caused the Catholic Church to reverse its position on whether Earth really is the center of the universe. 
+ 
 ### The Internet
 Charles Vernon Boys, a British physicist, developed a slender glass fiber in 1887. This strong type of glass, now known as fiberglass. Fiberglass is a composite material made up of a fine woven glass fiber reinforced with a resin, making it lighter and more durable than conventional glass. It was soon used as a balance arm, but is now today applied in computer circuitry, planes, and insulation.
 
