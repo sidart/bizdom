@@ -13,6 +13,7 @@ description: 'Hummingbird effect: An innovation, or cluster of innovations, in o
 category: technology
 ---
 
+Once you realize that the modern world has been shaped by a simple object that has been around for more than 1000 years, you can't help but marvel at it.  The discovery of glassmaking, probably the most important invention made by humans.
 ### The Glass
 The story of glass started in the desert around a few million years ago. The grains of sand—made up of silicon dioxide—melted under the heat, when cooled, could not get itself back to its original shape,  it left behind what we now recognize as glass.
 
@@ -38,6 +39,7 @@ Microscopes would later reveal the invisible colonies of bacteria and viruses th
 Galileo didn't invent the telescope. It was Dutch, and he simply improved its design.  A Dutch eyeglass maker Hans Lippershey in 1608, invented a device that can magnify objects 3x. Galileo modified it to reach 10x. And, in Jan of 1610, just two years after Lippershey had filed for his patent, Galileo used the telescope to observe  Jupiter's four large moons (Io, Europa, Ganymede and Callisto) in 1610 with his telescope.  A lot changes because of this observation. His evidence later caused the Catholic Church to reverse its position on whether Earth really is the center of the universe. 
  
 ### The Internet
+There's no one inventor of the modern web, just like there's no one inventor of agriculture or wheels, and Glass played a good role in this history. 
 Charles Vernon Boys, a British physicist, developed a slender glass fiber in 1887. This strong type of glass, now known as fiberglass. Fiberglass is a composite material made up of a fine woven glass fiber reinforced with a resin, making it lighter and more durable than conventional glass. It was soon used as a balance arm, but is now today applied in computer circuitry, planes, and insulation.
 
 We used transparent glass fibers and lasers to produce fiber optics, which led to the availability of the internet. Now, selfie photos are taken using Glass lenses, stored in fiberglass circuitry, sent via ultrathin Glass cables, and viewed on Glass screens. 
