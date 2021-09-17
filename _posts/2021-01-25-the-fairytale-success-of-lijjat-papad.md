@@ -37,4 +37,6 @@ By 1966, Lijjat was registered as a society.
 ‘Shadi utsav ya tyohaar, Lijjat papad ho har baar, karramkurram,
 kurram-karram, mazedaar lazzatdaar saat swaad mein Lijjat Lijjat papad…’
 
-Today, Jaswantiben Jamnadas Popat is the sole survivor of the 'seven sisters'. They employs 45,000 women across India, offering them a job for life as "co-owners" of the enterprise. They have also added more products in its basket, including khakhra, masalas, vadi, wheat atta and bakery products.
+Today, Jaswantiben Jamnadas Popat is the sole survivor of the 'seven sisters'. They employs 45,000 women across India, offering them a job for life as "co-owners" of the enterprise.  
+
+Once you start accumulating advantages in one place, other opportunities open up that wouldn't otherwise be there. So, now they have also added more products in their basket, including khakhra, masalas, vadi, wheat atta and bakery products.
