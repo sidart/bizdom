@@ -41,7 +41,7 @@ It all took him just a week to realize that it was better to work with PE, Price
 In the Small-cap boom Of 2003- 2007, they made good money. Pratyush soon joined his BHAI and PAPA, having got this Equity Trading as his True North, soon after passing his 10th grade. To their pleasant surprise, his introduction brought some big disruptions!
 
 ### Being an Outlier.
-Being an outlier means being different from those around you. It starts by working within your own natural abilities and gradually develops into discovering your hidden strengths. 
+Outliers thrive not by seeking advantage at someone else's expense but by creating value for themselves and others. Being an outlier also means being different from those around you. You, starts by working within your own natural abilities and gradually develops into discovering your hidden strengths. 
 Internet is not just a place to get your daily dose of information/entertainment. While most of his friends were busy downloading nudes (on dial-up internet), he was busy hunting for multi-bagger scripts. He soon got excited about the possibilities of the tech-play in this business. 
 
 #### Donald Francis and the Gangs of ValuePickr
