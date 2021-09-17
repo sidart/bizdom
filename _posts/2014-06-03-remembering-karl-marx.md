@@ -46,4 +46,4 @@ Benjamin Philips built a fortune selling tobacco. His son, Lion (1794-1866) was 
 He then immigrated to London and settled there in 1849, till his death. In London, Marx required financial support from his collaborator and friend Engles, for, just as it addicts some men to gambling, Marx was addicted to reading and writing, and these activities did not produce much of an income.
 In 1867 the first volume of Das Kapital was published, a work which analysed the capitalist process of production. Here Marx elaborated his labour theory of value, which had been influenced by Thomas Hodgskin.
  
-Throughout the 1850s and 1860s, when not confined to bed by illness, Marx regularly spent ten hours in the library of the British museum studying and writing.
+Throughout the 1850s and 1860s, when not confined to bed by illness, Marx regularly spent ten hours in the library of the British museum studying and writing. He was also a fellow of the Royal Society for the Encouragement of Arts, Manufactures and Commerce.
