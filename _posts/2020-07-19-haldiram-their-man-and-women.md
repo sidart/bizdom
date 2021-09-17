@@ -21,7 +21,8 @@ It’s funny that I first heard of the name Haldiram, while watching my then act
 Bikaner was growing as a business city as it was in-route to the [important trade route](https://www.thebizdom.in/shekhawati-region-hub-of-army-traders/) through to the ports of Gujarat, toward Delhi. The business community was also growing, so was the need for the quick, healthy and cheap snacks.  
 
 Many little hole-in-the-wall shops started selling samosas and kachoris and a freshly fried bhujia.
-Around 1885, during the reign of the benevolent Maharaja Dungar Singh, the first batch of bhujia was made in Bikaner. 
+Dungar Singh (1872–87), was a forward-looking maharaja for those times, and was known for his desire for a modern administration. He was the first Indian king to introduce a police force, establish the state’s first hospital, and it was he who ensured that Bikaner was the first Indian princely state to introduce electricity in 1886. 
+Around 1885, it was during the reign of Maharaja Dungar Singh, that the first batch of bhujia was made in Bikaner, hence you will find ‘Dungar sev’ as a name. 
 
 ### Bhikharam Agarwal
 He was a son of Tansukhdas Agarwal, a poor and just another snack seller living in the Bachaut Ka Mohalla area in Bikaner. He just somehow managed to live a decent life with his growing family and a normal going business. 
@@ -34,11 +35,15 @@ Somewhere between 1908 and 1918, Bhikharam, realizing the potential of this bhuj
 Making of the bhujia was mainly done by Haldiram only and he kept on improving the process. The initial sales were for a few measly paise per kilo. The bhujia was spooned into small paper funnels made from old newspapers. But living with peace in such a large family staying in a tiny home was difficult. Soon, crack in the family got started. A tipping point will come when Champa Devi (Haldiram’s wife) refuses to live in the same house and demands him to separate. Haldiram, was forced to leave his joint family.
 
 ## On his own
-By 1944, at age 36, Haldiram and Champa Devi with three sons, daughters-in-law and a three-year-old grandson, were on their own. They struggled for a while until Haldiram released another masterpiece snack. Champa Devi was an expert in cooking moong dal. Haldiram applied his usual understanding of customer tastes and took to the streets armed with his wife’s special. Local workers in the area were always on the lookout for a cheap, delicious meal during their workday, and Champa Devi’s moong dal was an instant hit with them. Healthy and hot, it served as the perfect meal for the working labour class.
+By 1944, at age 36, Haldiram and Champa Devi with three sons, daughters-in-law and a three-year-old grandson, were on their own. They struggled for a while until Haldiram released another masterpiece snack. Champa Devi was an expert in cooking moong dal. Haldiram applied his usual understanding of customer tastes and took to the streets armed with his wife’s special. 
+
+Local workers in the area were always on the lookout for a cheap, delicious meal during their workday, and Champa Devi’s moong dal was an instant hit with them. Healthy and hot, it served as the perfect meal for the working labour class.
 Innovation at time is also about the process of creating efficiency. So they keep improving their acts in the comings days.
 
 ### The Calcutta Calling
-In the 1950s, Haldiram went to Calcutta for his friend’s son’s wedding, and was asked to make bhujia for all the wedding guests. While many had already heard of Haldiram fame. This is the first time Marwadi of Calcutta will taste this. Haldiram will soon ask his second son (Rameshwarlal) to look for a shop and start the operation in Kolkata. In 1967, the shop in Calcutta was doing better than anybody had ever hoped (all thanks to the growth of the Marwadi community. who were growing in power and money). The profits were higher than what they had in Bikaner.
+In the 1950s, Haldiram went to Calcutta for his friend’s son’s wedding, and was asked to make bhujia for all the wedding guests. While many had already heard of Haldiram fame. This is the first time Marwadi of Calcutta will taste this. 
+
+Haldiram will soon ask his second son (Rameshwarlal) to look for a shop and start the operation in Kolkata. In 1967, the shop in Calcutta was doing better than anybody had ever hoped (all thanks to the growth of the Marwadi community. who were growing in power and money). The profits were higher than what they had in Bikaner.
 
 ### Saraswati Devi
 Moolchand (Halidiram’s eldest son) was now controlling and growing the business. This is when her daughter demanded some business for her. After a lot of discussion and debate, it was agreed that She along with her husband can go to Nagpur and set up a shop there. Saraswati has also learned the art of making these snacks, but they lacked the art of selling and managing the business. As the business was failing Moolchand asked his elder son, Shiv Kishan to shift there and run the show in 1968.
