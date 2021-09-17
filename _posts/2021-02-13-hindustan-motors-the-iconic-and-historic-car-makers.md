@@ -36,7 +36,9 @@ Hindustan Motors was our pioneering automobile co. making Cars and Truck. Ambass
 And, the company was part of the Original 30 stocks of Sensex.
 
 ## Mad Prince
-Then came a Mad Prince. Determined to have a People's car. He started building a Car factory in the cowshed, but it was all in vain. The bumpy Indian Road was just not ready to accept any western world's prototype. Then in a sudden event, Prince died.
+Then came a Mad Prince. Determined to have a People's car. He started building a Car factory in the cowshed, but it was all in vain. 
+Sanjay Gandhi was the only recipient of a licence to produce 50,000 cars out of many applicants, and Bansi Lal as Haryana chief minister provided 300 acres of prime land in Gurgaon for the project.
+The bumpy Indian Road was just not ready to accept any western world's prototype. Then in a sudden event, Prince died.
 ![](https://pbs.twimg.com/media/EtemEJDXIAISKjn?format=png&name=small)
 Now, the mother in her grief decides to nationalise her son's dream project. Thus, born Maruti Udyog, funded by Govt of India in 1981. Backed by the latest technologies and govt backing, it was a HUGE success. So much so that in 1985-86, in its second year of production, they produced 52,000 vehicles, which was more than the combined production of Hindustan Motors and Premier Automobiles.  
 
