@@ -8,6 +8,9 @@ image: https://res.cloudinary.com/thebizdom-in/image/upload/v1631897416/diamond_
 subtitle: Diamond is a precious gemstone that has been prized for thousands of years.
 description: '" Diamond " is a recent loanword that replaces the earlier traditional
   term " adamantine ."'
+tags:
+- WordOrigin
+- Trivia
 ---
 
 A diamond is a solid form of the element carbon with its atoms arranged in a rigid crystalline structure, forming one of the hardest substances known. A diamond is a pure crystal of carbon with no skeletons, no imperfections. But there something more intresting about it.
