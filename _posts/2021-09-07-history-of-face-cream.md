@@ -1,4 +1,5 @@
 ---
+title: History of face cream
 author: sidart
 category: curiosity
 layout: post
@@ -8,7 +9,8 @@ subtitle: The invention of cold cream is credited to a physician in second-centu
   Greece.
 description: One of the first people who used cold cream was Galen, a physician working
   in second century Greece. He made it by mixing white wax and olive oil.
-title: History of face cream
+tags:
+- Trivia
 ---
 
 History of face cream goes back to ancient Egyptians. They discovered early on that animal fat soothed irritated skin, and tried mixing it with olive oil or other plants to make it spread more easily. 
