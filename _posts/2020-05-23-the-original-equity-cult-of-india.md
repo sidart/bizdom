@@ -28,7 +28,7 @@ The company started as an integrated modern Synthetic Yarn Processing and Synthe
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1624483856/1977_1_q0fpir.png)
 Reliance Textiles Industry went public in 1977 with an offer of 2.8 million equity shares, at Rs 10, the rules then permitting only issues at par value. With that, the company was listed in the Bombay and Ahmedabad Stock Exchanges. 
 
-Dhirubhai managed to convince a large number of first-time retail investors (about 58,000) to invest in Reliance. The rest, as they say, will become history.
+Dhirubhai managed to convince a large number of first-time retail investors (about 58,000) to invest in Reliance. The rest, as they say, will become history. Afterall, success is not random; it comes to those who put themselves in the right place at the right time.
 
 ### The Twin Events
 Dhirubhai firmly believed in keeping shareholders in a state of ecstasy – he was generous with dividends, their first dividend was of Rs. 1.50. The prices of the shares too kept pace. What had been issued at Rs 10 in 1977, grew to Rs 50 within a year of listing and by 1982 had reached a high of Rs 186.  
