@@ -39,4 +39,7 @@ The current MP of Jhansi is his son. Then Tania Sharma of Nagpur's division of t
 
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1623162628/allayur_yqiuvi.png)
 Anyway's not many know that the Baidyanath group started India’s first Ayurvedic and natural wellness platform in 1998 -Allayurveda.com
+
+The business was further divided into 4 groups: [Kolkata Group](https://www.baidyanath.com/), [Nagpur Group](https://www.baidyanath.co/), [Jhansi Group](https://www.baidyanath.co.in/) and [Patna Group](https://baidyanath.net.in/) . However, the brand and the visual identity of all these four groups remain same.  
+
 Somehow when we talk about Ayurveda, the legacy of Baidyanath is not talked about much like Dabur or present-day Patanjali.
