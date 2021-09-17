@@ -8,9 +8,10 @@ permalink: "/about/"
 ## What is Bizdom?
 We coined Bizdom as an activity into The BIZness of wizDOM. Idea was always to talk about Stories and Trivia’s around business. Just that our word of Business includes Culture, Sports and Entertainment. 
 This New version of TheBizdom will try to be a place for Past, Present and Future of Business, esp. Indian Business.
-It will the intersection between business and wisdom, between knowing more and interpretation of the world around us. Thus, Connecting The Known With The Unknown.
+It will the intersection between business and wisdom, between knowing more and interpretation of the world around us. Thus, Connecting The Known With The Unknown. As they say, Wisdom is what connects the known with the unknown, the real with the imagined.
 
-We will try to bring you the latest insights in business, technology and wisdom.
+We will try to bring you the Past/Latest insights in business, technology and wisdom. Since at time future has it's own past and like all things, it began somewhere in time.
+
 
 ## Who we are?
 We started it as a Quiz [Blog](http://bizdom.blogspot.com/) way back in 2005. On Bizdom, initially Quiz questions asked at various quizzes held in Pune B school campuses were posted, quiz enthusiasts read it all over India and that gave us encouragement to post more such content. Expanded from a single person's timepass and at peak we were a team of 5.
