@@ -6,7 +6,7 @@ layout: post
 image: https://res.cloudinary.com/thebizdom-in/image/upload/v1631429639/MCC_yfxgjx.png
 optimized_image: https://res.cloudinary.com/thebizdom-in/image/upload/v1631429639/MCC_yfxgjx.png
 subtitle: The original colour was blue, and it changed during Victorian times.
-category: culture
+category: curiosity
 ---
 
 By the 1780s, cricket was a game for ‘gentlemen’, played by the upper classes. The Gentlemen went one step further in 1787, creating a private cricket ground where they could play without being disturbed by noisy, vulgar crowds of commoners, setting a trend for elitist cricket clubs. 

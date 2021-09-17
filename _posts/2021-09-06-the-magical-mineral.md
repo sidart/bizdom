@@ -1,7 +1,7 @@
 ---
 title: The magical mineral
 author: sidart
-category: commodity
+category: curiosity
 layout: post
 date: '2021-09-06 22:19:25'
 image: https://res.cloudinary.com/thebizdom-in/image/upload/v1631897416/diamond_hheybr.png
