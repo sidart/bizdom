@@ -1,7 +1,7 @@
 ---
-title: Commodity
+title: Curiosity
 layout: category
-slug: commodity
-description: A category for commodity-related posts.
+slug: curiosity
+description: Are you a curious person? Then this is a category for you.
 ---
 
