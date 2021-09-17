@@ -4,7 +4,8 @@ layout: post
 date: '2021-09-03 23:06:59'
 author: sidart
 image: https://res.cloudinary.com/thebizdom-in/image/upload/v1631900158/Brandy_xosrsv.png
-subtitle: Brandies vary with the base product and distillation techniques.
+subtitle: History of brandy, brandy 'aqua vitae' or the water of life, Arnaldus de
+  Villanova
 description: The spirit distilled from the fermented juice of fruit, called brandy,
   is among the most important beverages in the world.
 category: curiosity
