@@ -12,6 +12,8 @@ description: In the 1970s, Hindi music lovers would tune in every week to listen
 date: '2021-06-08 15:00:19'
 ---
 
+When India attained independence, there were six radio stations in India, at Delhi, Bombay, Calcutta, Madras, Tiruchirapalli and Lucknow. AIR then had a coverage of just 2.5 % of the area and 11% of the population.  All India Radio has made it one of the largest media organisations in the world, and also made some iconic brands.
+
 As a Popular ‘light green coloured’ oral hygiene brand Binaca was launched in India in early 1950s by Ciba-Geigy. 
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1625908694/bina_qhnqyi.jpg)
 By the 1970s, it was among India’s favourite toothpaste – others in the market were foreigner brands like Colgate, Forhans and Macleans, and domestic players are Promise (Balsara hygiene) and Prudent (Parle).
