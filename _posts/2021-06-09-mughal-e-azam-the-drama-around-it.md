@@ -25,9 +25,13 @@ Pallonji Mistry’s empire spans textiles (Gokak Mills), shipping, water purifie
 Through the 1930s and the 1940s, Shapoorji Pallonji built some of Mumbai’s landmarks around the Fort area — the Hong Kong Bank, Grindlays Bank, Standard Chartered Bank and Reserve Bank of India building. He also built the 'Famous Studios' at Mahalaxmi for Shiraz Ali Hakim.
 
 ## Magnum opus
+
 Mr. Hakim was in talks with K Asif and had agreed to produce his magnum opus. But then Partition happened and Mr. Hakim decides to leave for Pakistan. But he did match up Shapoorji with Asif and the film got started. The cast members went through significant changes.
 
-The original hero Chandramohan passed away after a heart attack when the film was underway. With the hero gone, the leading lady, Nargis was changed too after some 10 reels had been shot, as Raj Kapoor wouldn’t allow his lady love to shoot with his rival Dilip Kumar, who had been roped in to step into the shoes of Chandramohan. 
+### Salim and Anarkali
+The earliest Western stories about the love affair between Salim and Anarkali were written by two British travellers, William Finch and Edward Terry. William Finch was in Lahore in 1611 (only 11 years after the supposed death of Anarkali), to sell indigo he had purchased at Bayana on behalf of the East India Company. His account, written in early 17th-century English, talk about them. However, the earliest and most celebrated historical play about Anarkali, was only been written by 1920s by Imtiaz Ali Taj (in Urdu).
+
+Coming back to our own Mughal-e Azam. The original hero Chandramohan passed away after a heart attack when the film was underway. With the hero gone, the leading lady, Nargis was changed too after some 10 reels had been shot, as Raj Kapoor wouldn’t allow his lady love to shoot with his rival Dilip Kumar, who had been roped in to step into the shoes of Chandramohan. 
 K Asif and Shapoorji Pallonji had major issues as did Dilip Kumar and Asif when the director married his sister Akhtar. And, above all the real-world drama of Madhubala, Attaullah Khan, Dilip Kumar.
 ![](https://pbs.twimg.com/media/Eyjk5EdWUAgG5Ej?format=jpg&name=medium)
 > “Asif’s second wife Nigar Sultana played Bahar in the film. The role was initially conceived for Sitara Devi, the Kathak dancer, who happened to be Asif’s first wife. Interestingly, Sitara Devi happened to be the wife of Nazir, Asif’s uncle, before she became close to Asif during the making of Phool, Asif’s directorial debut in the early 1940s. And before the film was wrapped up the director had married Akhtar, Dilip Kumar’s sister, much to the heartburn of the hero!”.
