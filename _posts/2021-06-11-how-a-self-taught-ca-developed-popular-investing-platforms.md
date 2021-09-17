@@ -40,8 +40,9 @@ It all took him just a week to realize that it was better to work with PE, Price
 
 In the Small-cap boom Of 2003- 2007, they made good money. Pratyush soon joined his BHAI and PAPA, having got this Equity Trading as his True North, soon after passing his 10th grade. To their pleasant surprise, his introduction brought some big disruptions!
 
-### The internet is a curious place.
-It’s not just a place to get your daily dose of information/entertainment. While most of his friends were busy downloading nudes (on dial-up internet), he was busy hunting for multi-bagger scripts. He soon got excited about the possibilities of the tech-play in this business.
+### Being an Outlier.
+Being an outlier means being different from those around you. It starts by working within your own natural abilities and gradually develops into discovering your hidden strengths. 
+Internet is not just a place to get your daily dose of information/entertainment. While most of his friends were busy downloading nudes (on dial-up internet), he was busy hunting for multi-bagger scripts. He soon got excited about the possibilities of the tech-play in this business. 
 
 #### Donald Francis and the Gangs of ValuePickr
 Ayush was also using the internet to meet with other stock enthusiasts. It was via such a medium, that he ended up getting connected to a gentleman named Donald Francis. He jokes, “I thought I was calling some firangi, but was surprised to hear a Hindi filmi song as the ringtone”.
