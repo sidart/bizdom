@@ -9,6 +9,9 @@ tags:
 category: desibrand
 image: https://res.cloudinary.com/thebizdom-in/image/upload/v1631943457/Stag_iqslxb.png
 subtitle: India's pioneering umbrella maker, Stag.
+description: This is the story of how India’s first umbrella brand came to be. The
+  journey started when the Mumbai-based Ebrahim Currim who chose to make a living
+  from repairing umbrellas in 1860.
 ---
 
 ### Origin of the umbrella
@@ -17,6 +20,6 @@ The word ''umbrella'' comes from the Latin ''umbra'' meaning shade or shadow. Th
 
 Two centuries ago, there were no umbrellas in India—people mostly used palm leaves as protection from the sun or [monsoon rain](https://www.thebizdom.in/the-indian-monsoon-story/). By the end of the 1800s, the making of steel-wire umbrella frames had become a major industry in Britain. 
 
-Around the same time, in 1860, Ebrahim Currim started a small workshop at Bazar Gate in Mumbai’s Fort area to deal in umbrellas imported from England. Over time, he learnt the art of making an umbrella. 
+Around the same time, in 1860, Ebrahim Currim started a small workshop at Bazar Gate in Mumbai’s Fort area to deal in umbrellas imported from England. Over time, he learnt the art of mending the umbrellas. As Ebrahim mended umbrellas, he also learnt to make them. He started making the black umbrellas that could be also be used as walking sticks. He named it Stag and after becoming popular in Mumbai, it slowly made its way to Madras and Calicut. 
 
-The umbrellas made by M/s Ebrahim Currim & Sons, initially, were all in black colour and doubled as walking sticks. That’s how the famous ‘Stag Umbrellas’ began. Today, theu claim, no matter what umbrella you buy, you'll be buying into something that has been carefully designed to make it easy for you.
+Today, they claim, no matter what umbrella you buy, you'll be buying into something that has been carefully designed to make it easy for you.
