@@ -18,3 +18,7 @@ A galaxy of stars, from Leela Chitnis to Katrina Kaif, have promoted Unilever’
 Amazingly, Lux did not start as a toilet soap. The Brand got started as a laundry soap in 1916 and took a little under a decade for the bathroom soap to make an appearance. Lux began as a mid-priced soap. In the early to mid-1920s, it moved upmarket and was widely advertised as a high-priced soap. 
 
 The Lever Brothers, whose company in England merged with the Dutch Margarine Union in 1929 to form Unilever, started Sunlight Flakes, a laundry soap in the 1890s. The soap came to be known as Lux Flakes before evolving as a toilet bar. While many of us recognise the iconic brand the moment we hear ‘lux’, we often forget that the word is the SI unit of illuminance and luminous emittance (symbol: lx). In photometry, this is used as a measure of the intensity of light that passes through a surface.
+![](https://res.cloudinary.com/thebizdom-in/image/upload/v1631970231/Lux-Logo-history-454x500_h5h77l.jpg)
+The brand's typography has seen more than one complete overhaul.
+
+The brand had used male actors only twice in its advertisements – Shahrukh Khan was featured on the completion of the 75th years of Lux soap brand in 2005.
