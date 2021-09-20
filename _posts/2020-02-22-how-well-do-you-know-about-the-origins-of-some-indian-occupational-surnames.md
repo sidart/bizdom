@@ -101,7 +101,7 @@ Nahata were Rajput who later converted to Jain, got their name from a battle wer
 A lot of Indian business communities picked their surname from their place of origin. While its not based on the occupational but still should be part of this list. 
 **Aggarwal** came ‘from Agar or Agroha’, Ahluwalia ‘from Ahlu’, Irani ‘from Iran’, Lad ‘from southern Gujarat’, and Mathur ‘from Mathura’.  Many of the Marwadis picked their name based on this like Jhunjhunwala, Singhania, etc. So did the Khatris, Arora came from Aror (now Rohri, in Sind, Pakistan). 
 
-Pancholi, is a community who came from the Panchal region. 
+Pancholi, is a community who came from the Panchal region. Khambhata is from Gulf of Khambhat, or Khambaj. 
 ### Others
 Dhawan on the name of a clan in the Khatri (‘member of the warrior caste’ who later got into business) community. It is popularly believed to mean ‘runner’, ‘messenger’, from Sanskrit /dhāv-/‘to run’.  
 
@@ -119,10 +119,13 @@ Natarajan were the ‘king of dancers’ (from nata ‘dancer’ + rāja ‘kin
 
 **Ghataks** (literally, one who makes things happen) were matchmakers who established links between the two families in a marriage.
 
-Barot, is about the community would usually work as genealogists (one who studies and makes a pedigree).  **Choksi** come from the Gujarati word ‘Coksi,’ which means ‘assayer of gold and silver.’ Dholakia were the one who were into ‘Dhodka,’ an unprocessed grey cloth. **Popat**, someone who took care of parrots. 
+Barot, is about the community would usually work as genealogists (one who studies and makes a pedigree).  **Choksi** come from the Gujarati word ‘Coksi,’ which means ‘assayer of gold and silver.’ Dholakia were the one who were into ‘Dhodka,’ an unprocessed grey cloth. **Popat**, someone who took care of parrots. **Patawari** were the village accountant and surveyor, and Vakil were the Lawyer.
 
-Zariwala refers to someone who produces and sells jari/zari (shining gold and silver threads). Munim, were the head accountant.
+Lokhandwala were the 'iron-merchant'. Zariwala refers to someone who produces and sells jari/zari (shining gold and silver threads). Munim, were the head accountant.
 
+### Caste Names
+The rise in the status of the members of the low castes as a result of education awakening has led them to discard old traditional names of their castes. 
+Dhobi (washerman) became Prajàpati, Bhangi (scavenger) as Vàlmïki, Luhar (blacksmith) Vishvakarmâ, and Kalvar (one who deals in liquor) Jàisaval. In Panjab and in the nearby states, the surnames Khatri and Aurora are used by Hindu and Sikh trading castes. 
 
 ### Muslim Names
 Muslim Khojas were another group of successful merchants. The name Khoja, or Khwajah, meant a rich and respectable gentleman, an opulent merchant. Bohras, also spelled Bohara or Vohra, is derived from the Gujarati word vohorvu meaning ‘trade’ and records the occupation of the first converters to Islam. The Memons another mercantile community, were known as maumins or believers. The word maumin was distorted to Memon.
@@ -131,7 +134,9 @@ Muslim Khojas were another group of successful merchants. The name Khoja, or Khw
 ### European Connects 
 Given our recent knowlegde about English langauge, their occupational surnames are way easy to identify. So, it can be  a trade Clark (cleric who went out to houses to administer the services), Thatcher (tanner’s helper; one who worked with leather) other e.g., Baker, Cooper, Butcher, Shoe Maker or a general profession (e.g., Gardner, Sheppard).  So, we will now touch upon some of the lesser known and with Indian connections.
 
-Dubash (duâ’ + ‘bhash’ = translator) as an occupation got started a post-European entry, but as a surname was first used by Hormasji Pestonji Shroff who migrated in 1852 and started his business in Karachi, by calling himself as Dubash. In Goa you will find **Braganza** from the city of Bragança in Portugal.  Its the name of the royal house whose members occupied the throne of Portugal. Same way we have D’Souza minor places in Portugal or Spain named Sousa or Souza.
+Dubash (duâ’ + ‘bhash’ = translator) as an occupation got started a post-European entry, but as a surname was first used by Hormasji Pestonji Shroff who migrated in 1852 and started his business in Karachi, by calling himself as Dubash. Inginear were the Engineer.
+
+In Goa you will find **Braganza** from the city of Bragança in Portugal.  Its the name of the royal house whose members occupied the throne of Portugal. Same way we have D’Souza minor places in Portugal or Spain named Sousa or Souza.
 Da Silva came  name from Portuguese /silva/‘wood, thicket, bramble’. 
 
 Chapman, or Chipman were the trader who bought and sold articles. It also led to the words ‘chap,’ ‘cheap’ and ‘chop’. 
