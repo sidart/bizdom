@@ -33,6 +33,8 @@ Patel and Patil derive from ‘a piece of land’ and referred to a landowner/te
 Nath, has its origins in a Sanskrit word “natha” meaning lord. Dhar was also village chief, a warlord, or the head accountant.
 
 **Gowda** derived from a Dravidian word meaning “mountain”, so is a one who owns land and holds political and social power in the village.  Hegde, derived from the Old Kannada element “pergade,” meaning “chief.”
+
+Samanta came from Sanskrit word “Saamant,” meaning “rich” or “chief.” It was also used as the title for a leader or head of a province.
 #### Shet, Shethi & Shetty
 The Community name of Shetty and Chettiar derived from the Sanskrit word Shresthi (‘head of a mercantile or other guild’ and literally a superior person), since they were the best in the community on whom you can Trust on the money matters. 
 Ramesh Chandra Majumdar, in his book Corporate Life in Ancient India said
@@ -78,7 +80,8 @@ Faujdar, was a title awarded by Mughal to garrison commanders.
  
 Razdan came from Persian word “Raz,” meaning “secret” with the suffix “Dan,” meaning “keeper.” 
 
-**Dewan** In Mughal India the dewan was usually the highest official in a state after the king.  **Amin** were government official concerned with investigation of land claims and revenue claims and ’.
+**Dewan** In Mughal India the dewan was usually the highest official in a state after the king.  **Amin** were government official concerned with investigation of land claims and revenue claims (but the title was in the Gujarat state only).
+
 **Bakshi** came from Persian /bakhshī/‘paymaster’,  was the title of an official who distributed wages in the Muslim armies. Dalal ‘broker’, Majmudar ‘record-keeper’,  Shah ‘merchant’. 
 
 **Dar** (Kashmir Muslim name) probably came from the Persian dār meaning ‘holder, possessor, master’.
@@ -88,18 +91,17 @@ Razdan came from Persian word “Raz,” meaning “secret” with the suffix �
 
 Kothari were the treasurer and caretaker of “Kotha” (godown or treasure). Bhandari were the manager of the treasure house or keeper of a storehouse, taking care of the Bhandar. Both are also a surname in Marwadi communities.
 
-Parekh or Parikh were the assayer of metals and got derived from Sanskrit word pariksaka = 'examiner'. Related surname was Soni who acted as Sunar (goldsmiths).
+Parekh or Parikh were the assayer of metals and got derived from Sanskrit word pariksaka = 'examiner'. Related surname was Soni who acted as Sunar (goldsmiths). 
 
 Lunia were the salt makers. Sanghvi used to offers hospitality to groups and arrange such trips (Sanskrit sangha = Group)
 
 Nahata were Rajput who later converted to Jain, got their name from a battle were they remain stood. Na + hata
 
-
-
 ### Ancestral place
 A lot of Indian business communities picked their surname from their place of origin. While its not based on the occupational but still should be part of this list. 
 **Aggarwal** came ‘from Agar or Agroha’, Ahluwalia ‘from Ahlu’, Irani ‘from Iran’, Lad ‘from southern Gujarat’, and Mathur ‘from Mathura’.  Many of the Marwadis picked their name based on this like Jhunjhunwala, Singhania, etc. So did the Khatris, Arora came from Aror (now Rohri, in Sind, Pakistan). 
 
+Pancholi, is a community who came from the Panchal region. 
 ### Others
 Dhawan on the name of a clan in the Khatri (‘member of the warrior caste’ who later got into business) community. It is popularly believed to mean ‘runner’, ‘messenger’, from Sanskrit /dhāv-/‘to run’.  
 
@@ -113,7 +115,15 @@ Ghosh is an occupational name for those who were cowherd (ghosa). Related one is
 
 Natarajan were the ‘king of dancers’ (from nata ‘dancer’ + rāja ‘king’, an epithet of the god Shiva). 
 
-Parmar ‘one that strikes the enemy’, from Sanskrit para ‘alien, enemy’ + māra ‘strike, kill’. Purohit from purohita ‘one placed foremost’ (from puras ‘front’ + hita ‘placed’). Rawat from a much altered form of Sanskrit rājapatra ‘king’s son, prince’. Ghataks (literally, one who makes things happen) were matchmakers who established links between the two families in a marriage.
+**Parmar** ‘one that strikes the enemy’, from Sanskrit para ‘alien, enemy’ + māra ‘strike, kill’. Purohit from purohita ‘one placed foremost’ (from puras ‘front’ + hita ‘placed’). Rawat from a much altered form of Sanskrit rājapatra ‘king’s son, prince’. 
+
+**Ghataks** (literally, one who makes things happen) were matchmakers who established links between the two families in a marriage.
+
+Barot, is about the community would usually work as genealogists (one who studies and makes a pedigree).  **Choksi** come from the Gujarati word ‘Coksi,’ which means ‘assayer of gold and silver.’ Dholakia were the one who were into ‘Dhodka,’ an unprocessed grey cloth. **Popat**, someone who took care of parrots. 
+
+Zariwala refers to someone who produces and sells jari/zari (shining gold and silver threads). Munim, were the head accountant.
+
+
 ### Muslim Names
 Muslim Khojas were another group of successful merchants. The name Khoja, or Khwajah, meant a rich and respectable gentleman, an opulent merchant. Bohras, also spelled Bohara or Vohra, is derived from the Gujarati word vohorvu meaning ‘trade’ and records the occupation of the first converters to Islam. The Memons another mercantile community, were known as maumins or believers. The word maumin was distorted to Memon.
 
@@ -128,5 +138,5 @@ Chapman, or Chipman were the trader who bought and sold articles. It also led to
 
 
 #### End
-But remember this topic has its own complexibility and one can perhaps argue for another origin, Remember a Modi surname can be a Hindu bania (Lalit Modi) or OBC (PM Modi), Jain, Muslim (Syed Modi, the 8-time National Badminton champ, but for him it was a mistake done by his school teacher) or even a Parsi (Rusi Mody). 
+But remember this topic has its own complexibility and one can perhaps argue for another origin, Remember a Modi surname can be a Hindu bania (Lalit Modi) or OBC (PM Modi), Jain, Muslim (Syed Modi, the 8-time National Badminton champ, but for him it was a mistake done by his school teacher) or even a Parsi (Rusi Mody). So, Modi can be a merchants, traders, or shopkeepers.
 Another example is Gandhi which is also an occupational name used by  Hindu (Bania, Arora, Jat), Jain, and Parsi (they used it as Gandy).
