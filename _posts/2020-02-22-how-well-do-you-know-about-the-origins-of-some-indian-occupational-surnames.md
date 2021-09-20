@@ -30,7 +30,9 @@ People were awarded titles by native or foreign rulers, by the community, or by 
 Patel and Patil derive from ‘a piece of land’ and referred to a landowner/tenant farmer. Taluqdar = Taluk (depend) + dar (holder). Desai = lord of the Desa (land). All of them were responsible for collecting taxes for the kings. Reddy was another such title. 
 **Chowdhury** were also the head of a community or caste, from Sanskrit /čatus-/‘four- way, all-round’ + /dhurīya/‘undertaking a burden (of responsibility)’. **Deshpande** and Deshmukhs were 'district accountant/leader’, formerly a hereditary office (from Sanskrit /deša/‘country, district’ + /pandita/‘learned man’). **Mehta** was another name used for the Chief (Sanskrit mahita = great and magnify) however in Gujarati it has come to mean ‘teacher’ or ‘accountant’. 
 
-**Gowda** derived from a Dravidian word meaning “mountain”, so is a one who owns land and holds political and social power in the village. 
+Nath, has its origins in a Sanskrit word “natha” meaning lord.
+
+**Gowda** derived from a Dravidian word meaning “mountain”, so is a one who owns land and holds political and social power in the village.  Hegde, derived from the Old Kannada element “pergade,” meaning “chief.”
 #### Shet, Shethi & Shetty
 The Community name of Shetty and Chettiar derived from the Sanskrit word Shresthi (‘head of a mercantile or other guild’ and literally a superior person), since they were the best in the community on whom you can Trust on the money matters. 
 Ramesh Chandra Majumdar, in his book Corporate Life in Ancient India said
@@ -49,7 +51,9 @@ Another related name was Lala used for bankers, merchants and tradesmen. Sindi d
 
 ### Gyan
 Sanskrit epithet āchārya ‘spiritual guide, learned man’. Another set of surname came from the folks who were ‘scholar’, ‘expert’ and ‘teacher’. So we have  Pathak and Upadhyay were ‘teacher’, Jani ‘learned one’,  and Vaidya ‘physician. The equivalent Muslim name was Afzal (learned man). 
-**Chatterjee** /Chatta/, the name of a village,  /jhā/‘teacher’, hence ‘teacher from Chatta’. Bhattacharya were ‘learned instructor’. **Bedi** were the 'one who knows the Vedas’.  **Dave** and **Dubey/Dvivedī** were the ‘one who has studied two Vedas’.  Pandey and Pandya were pandita meaning ‘scholar’. And, Suri were priest or sage.
+**Chatterjee** /Chatta/, the name of a village,  /jhā/‘teacher’, hence ‘teacher from Chatta’.  Bhattacharya were ‘learned instructor’. 
+
+**Bedi** were the 'one who knows the Vedas’.  **Dave** and **Dubey/Dvivedī** were the ‘one who has studied two Vedas’.  Pandey and Pandya were pandita meaning ‘scholar’. And, Suri were priest or sage.
 
 **Bhatt** came from the Sanskrit bhatta meaning ‘lord, learned one’. **Bhattacharya** is bhatta ‘learned one’ + āčārya ‘teacher, preceptor’.
 
@@ -57,9 +61,9 @@ Mukherjee is a teacher from a place called Mukhati. Mukhyopadhyaya, is composed 
 
 Bhargava from Sanskrit bhārgava ‘(descendant) of Bhrigu’. Bhrigu is the name of one of the great sages. Jani is from jñānī ‘knowing, learned’. 
 
-Jha (Ojha in Uttar Pradesh) is said to be a much reduced form of Sanskrit upādhyāya ‘teacher’. Joshi was a title for jyotisī , i.e ‘astrologer’.  Pathak is from pāthaka ‘teacher’.
+Jha (Ojha in Uttar Pradesh) is said to be a much reduced form of Sanskrit upādhyāya ‘teacher’. Joshi was a title for jyotisī , i.e ‘astrologer’.  Pathak is from pāthaka ‘teacher’. Dikshit/Dixit has their origin from diksha, meaning provider of knowledge. **Shastri** means “one who is proficient in the Sastras”.
 
-Grover, came from Guruvara/Gorovare, which in turn derives from a Sanskrit word of (“guru/a” /गुरु”) “teacher/mentor” hence meaning “the great teacher”.
+Grover, came from Guruvara/Gorovare, which in turn derives from a Sanskrit word of (“guru/a” /गुरु”) “teacher/mentor” hence meaning “the great teacher”. **Upadhyaya**, also means “teacher” or “guru”.  Gangopadhyay / Ganguly were teachers from the Gangul Village, or near Ganga (Ganga + Upadhyaya). Mukhopadhyay were the Mukhya (main) Upadhyaya (guru).
 ### Mughals Era
 Mughals followed a system of free minting under which anyone was free to bring metal to an imperial mint and get it converted into coins. Mints working under this were provided by a professional dealer in money = Sarraf, derived from Arabic meaning ‘treasurer’, ‘paymaster’ and money changer.
 
@@ -114,9 +118,14 @@ Muslim Khojas were another group of successful merchants. The name Khoja, or Khw
 
 **Afzal** (Arabic form: Afdal) ‘best’ or ‘learned’. Mukhtar was an 	occupational name based on Arabic mukhtār ‘chosen’, in some areas the title of a village chief. 
 ### European Connects 
+Given our recent knowlegde about English langauge, their occupational surnames are way easy to identify. So, it can be  a trade Clark (cleric who went out to houses to administer the services), Thatcher (tanner’s helper; one who worked with leather) other e.g., Baker, Cooper, Butcher, Shoe Maker or a general profession (e.g., Gardner, Sheppard).  So, we will now touch upon some of the lesser known and with Indian connections.
+
 Dubash (duâ’ + ‘bhash’ = translator) as an occupation got started a post-European entry, but as a surname was first used by Hormasji Pestonji Shroff who migrated in 1852 and started his business in Karachi, by calling himself as Dubash. In Goa you will find **Braganza** from the city of Bragança in Portugal.  Its the name of the royal house whose members occupied the throne of Portugal. Same way we have D’Souza minor places in Portugal or Spain named Sousa or Souza.
 Da Silva came  name from Portuguese /silva/‘wood, thicket, bramble’. 
 
+Chapman, or Chipman were the trader who bought and sold articles. It also led to the words ‘chap,’ ‘cheap’ and ‘chop’. 
 
+
+#### End
 But remember this topic has its own complexibility and one can perhaps argue for another origin, Remember a Modi surname can be a Hindu bania (Lalit Modi) or OBC (PM Modi), Jain, Muslim (Syed Modi, the 8-time National Badminton champ, but for him it was a mistake done by his school teacher) or even a Parsi (Rusi Mody). 
 Another example is Gandhi which is also an occupational name used by  Hindu (Bania, Arora, Jat), Jain, and Parsi (they used it as Gandy).
