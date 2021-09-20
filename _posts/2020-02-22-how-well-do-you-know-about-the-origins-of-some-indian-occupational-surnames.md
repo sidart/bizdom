@@ -35,6 +35,8 @@ Nath, has its origins in a Sanskrit word “natha” meaning lord. Dhar was also
 **Gowda** derived from a Dravidian word meaning “mountain”, so is a one who owns land and holds political and social power in the village.  Hegde, derived from the Old Kannada element “pergade,” meaning “chief.”
 
 Samanta came from Sanskrit word “Saamant,” meaning “rich” or “chief.” It was also used as the title for a leader or head of a province.
+
+The word ‘Menon’ is derived from ‘Menavan’ or ‘Melavan’ which essentially means ‘exalted person’. This was a title conferred upon the male heads of certain Nair families. When the British colonized India, many Menons were put in charge of maintaining the accounts of land.
 #### Shet, Shethi & Shetty
 The Community name of Shetty and Chettiar derived from the Sanskrit word Shresthi (‘head of a mercantile or other guild’ and literally a superior person), since they were the best in the community on whom you can Trust on the money matters. 
 Ramesh Chandra Majumdar, in his book Corporate Life in Ancient India said
@@ -53,13 +55,12 @@ Another related name was Lala used for bankers, merchants and tradesmen. Sindi d
 
 ### Gyan
 Sanskrit epithet āchārya ‘spiritual guide, learned man’. Another set of surname came from the folks who were ‘scholar’, ‘expert’ and ‘teacher’. So we have  Pathak and Upadhyay were ‘teacher’, Jani ‘learned one’,  and Vaidya ‘physician. The equivalent Muslim name was Afzal (learned man). 
-**Chatterjee** /Chatta/, the name of a village,  /jhā/‘teacher’, hence ‘teacher from Chatta’.  Bhattacharya were ‘learned instructor’. 
 
 **Bedi** were the 'one who knows the Vedas’.  **Dave** and **Dubey/Dvivedī** were the ‘one who has studied two Vedas’.  Pandey and Pandya were pandita meaning ‘scholar’. And, Suri were priest or sage.
 
 **Bhatt** came from the Sanskrit bhatta meaning ‘lord, learned one’. **Bhattacharya** is bhatta ‘learned one’ + āčārya ‘teacher, preceptor’.
 
-Mukherjee is a teacher from a place called Mukhati. Mukhyopadhyaya, is composed of mukhya ‘principal, chief’ + upadhyaya ‘teacher’.
+ Mukherjee is a teacher from a place called Mukhati. Mukhyopadhyaya, is composed of mukhya ‘principal, chief’ + upadhyaya ‘teacher’. Banerjee is the anglicized form of the word Bandopadhyaya. In the same manner **Chatterjee** /Chatta/, the name of a village, hence ‘teacher from Chatta’, and a shorter version of Chattopadhyay.
 
 Bhargava from Sanskrit bhārgava ‘(descendant) of Bhrigu’. Bhrigu is the name of one of the great sages. Jani is from jñānī ‘knowing, learned’. 
 
@@ -106,7 +107,8 @@ Pancholi, is a community who came from the Panchal region. Khambhata is from Gul
 
 Billimoria gets its name from Billimora, which was situated on the banks of the river Ambika, in Gandevi taluka and Navsari district of Gujarat state.
 ### Others
-Dhawan on the name of a clan in the Khatri (‘member of the warrior caste’ who later got into business) community. It is popularly believed to mean ‘runner’, ‘messenger’, from Sanskrit /dhāv-/‘to run’.  
+Dhawan on the name of a clan in the Khatri (‘member of the warrior caste’ who later got into business) community. It is popularly believed to mean ‘runner’, ‘messenger’, from Sanskrit /dhāv-/‘to run’.  Dravid  is from 'Dramila', an old name for 
+'Tamil'.
 
 Tandan derived from the Sanskrit dandanam or punishment, as, in ancient times, men of this caste were employed to carry out the punishments that were inflicted by the authorities upon offenders. Sawhney were the commander, **Handa** were into ‘cooking pot and Badal were into water.  Srivastava came  from Sanskrit šrīvasta ‘abode of wealth’). 
 
@@ -134,16 +136,20 @@ Dhobi (washerman) became Prajàpati, Bhangi (scavenger) as Vàlmïki, Luhar (bla
 Muslim Khojas were another group of successful merchants. The name Khoja, or Khwajah, meant a rich and respectable gentleman, an opulent merchant. Bohras, also spelled Bohara or Vohra, is derived from the Gujarati word vohorvu meaning ‘trade’ and records the occupation of the first converters to Islam. The Memons another mercantile community, were known as maumins or believers. The word maumin was distorted to Memon.
 
 **Afzal** (Arabic form: Afdal) ‘best’ or ‘learned’. Mukhtar was an 	occupational name based on Arabic mukhtār ‘chosen’, in some areas the title of a village chief. 
+
+### The walas
+The Parsi community did not adopt surnames until the age of the British rulers. During the British rule, to be able to identify and track people, the Britishers demanded a list of Indian family names, esp in the cities. So most Urban families decided to adopt their profession as their family name as all the men of a family would be in the same trade. The suffix wala is used to identify the profession of the person. 
+
+So, we got surnames like: Canteenwalas, Confectioners, Messmans, Bakerywalas, Hotelwalas, and Commissariats, for the folks who were in the food business. Those who dealt with bottles were Batliwala, those into medicine industry were Daaruwala, daaru being a term used for medicines. Plus, we had Mistry, Builder and Contractor. 
 ### European Connects 
-Given our recent knowlegde about English langauge, their occupational surnames are way easy to identify. So, it can be  a trade Clark (cleric who went out to houses to administer the services), Thatcher (tanner’s helper; one who worked with leather) other e.g., Baker, Cooper, Butcher, Shoe Maker or a general profession (e.g., Gardner, Sheppard).  So, we will now touch upon some of the lesser known and with Indian connections.
+Occupational surnames are amongst the most common in England. And, given our recent knowlegde about English langauge, their occupational surnames are way easy to identify. So, it can be  a trade Clark (cleric who went out to houses to administer the services), Thatcher (tanner’s helper; one who worked with leather) other e.g., Baker, Cooper, Butcher, Shoe Maker or a general profession (e.g., Gardner, Sheppard).  
+Chapman, or Chipman were the trader who bought and sold articles. It also led to the words ‘chap,’ ‘cheap’ and ‘chop’. 
+So, we will now touch upon some of the lesser known and with Indian connections.
 
 Dubash (duâ’ + ‘bhash’ = translator) as an occupation got started a post-European entry, but as a surname was first used by Hormasji Pestonji Shroff who migrated in 1852 and started his business in Karachi, by calling himself as Dubash. Inginear were the Engineer.
 
 In Goa you will find **Braganza** from the city of Bragança in Portugal.  Its the name of the royal house whose members occupied the throne of Portugal. Same way we have D’Souza minor places in Portugal or Spain named Sousa or Souza.
-Da Silva came  name from Portuguese /silva/‘wood, thicket, bramble’. 
-
-Chapman, or Chipman were the trader who bought and sold articles. It also led to the words ‘chap,’ ‘cheap’ and ‘chop’. 
-
+Da Silva came  name from Portuguese /silva/‘wood, thicket, bramble’.  Pinto could have been painters.
 
 #### End
 But remember this topic has its own complexibility and one can perhaps argue for another origin, Remember a Modi surname can be a Hindu bania (Lalit Modi) or OBC (PM Modi), Jain, Muslim (Syed Modi, the 8-time National Badminton champ, but for him it was a mistake done by his school teacher) or even a Parsi (Rusi Mody). So, Modi can be a merchants, traders, or shopkeepers.
