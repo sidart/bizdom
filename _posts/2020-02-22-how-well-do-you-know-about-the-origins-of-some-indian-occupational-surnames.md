@@ -30,7 +30,7 @@ People were awarded titles by native or foreign rulers, by the community, or by 
 Patel and Patil derive from ‘a piece of land’ and referred to a landowner/tenant farmer. Taluqdar = Taluk (depend) + dar (holder). Desai = lord of the Desa (land). All of them were responsible for collecting taxes for the kings. Reddy was another such title. 
 **Chowdhury** were also the head of a community or caste, from Sanskrit /čatus-/‘four- way, all-round’ + /dhurīya/‘undertaking a burden (of responsibility)’. **Deshpande** and Deshmukhs were 'district accountant/leader’, formerly a hereditary office (from Sanskrit /deša/‘country, district’ + /pandita/‘learned man’). **Mehta** was another name used for the Chief (Sanskrit mahita = great and magnify) however in Gujarati it has come to mean ‘teacher’ or ‘accountant’. 
 
-Nath, has its origins in a Sanskrit word “natha” meaning lord.
+Nath, has its origins in a Sanskrit word “natha” meaning lord. Dhar was also village chief, a warlord, or the head accountant.
 
 **Gowda** derived from a Dravidian word meaning “mountain”, so is a one who owns land and holds political and social power in the village.  Hegde, derived from the Old Kannada element “pergade,” meaning “chief.”
 #### Shet, Shethi & Shetty
@@ -76,6 +76,7 @@ Faujdar, was a title awarded by Mughal to garrison commanders.
 
  **Chawla** were the dealer of Chwal/Rice and **Doshi** from Persian /dush/‘shoulder’, denoting a hawker selling cloth (because the cloth was carried over the shoulder). 
  
+Razdan came from Persian word “Raz,” meaning “secret” with the suffix “Dan,” meaning “keeper.” 
 
 **Dewan** In Mughal India the dewan was usually the highest official in a state after the king.  **Amin** were government official concerned with investigation of land claims and revenue claims and ’.
 **Bakshi** came from Persian /bakhshī/‘paymaster’,  was the title of an official who distributed wages in the Muslim armies. Dalal ‘broker’, Majmudar ‘record-keeper’,  Shah ‘merchant’. 
