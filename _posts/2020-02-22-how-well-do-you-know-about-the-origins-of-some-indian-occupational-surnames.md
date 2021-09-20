@@ -67,8 +67,7 @@ Jha (Ojha in Uttar Pradesh) is said to be a much reduced form of Sanskrit upād
 
 Grover, came from Guruvara/Gorovare, which in turn derives from a Sanskrit word of (“guru/a” /गुरु”) “teacher/mentor” hence meaning “the great teacher”. **Upadhyaya**, also means “teacher” or “guru”.  Gangopadhyay / Ganguly were teachers from the Gangul Village, or near Ganga (Ganga + Upadhyaya). Mukhopadhyay were the Mukhya (main) Upadhyaya (guru).
 ### Mughals Era
-Mughals followed a system of free minting under which anyone was free to bring metal to an imperial mint and get it converted into coins. Mints working under this were provided by a professional dealer in money = Sarraf, derived from Arabic meaning ‘treasurer’, ‘paymaster’ and money changer.
-
+The Mughals followed a system of free minting under which anyone was free to bring metal to an imperial mint and get it converted into coins. A significant proportion of the total clientele at the mints working under this agreement was provided by a professional dealer in money. They were named as Sarraf, which is derived from Arabic and Jewish word meaning ‘treasurer’, ‘paymaster’. 
 
 Revenue collection of the Maratha State. The assignment of revenue rights to a rent collector (ijardar), who were accountable to a group of Sahukar/moneylenders (Potedars, Poddars). When the state needed money, it would issue a money warrant accompanied by letter of credit to them, were known as Varat.
 
@@ -99,9 +98,13 @@ Nahata were Rajput who later converted to Jain, got their name from a battle wer
 
 ### Ancestral place
 A lot of Indian business communities picked their surname from their place of origin. While its not based on the occupational but still should be part of this list. 
-**Aggarwal** came ‘from Agar or Agroha’, Ahluwalia ‘from Ahlu’, Irani ‘from Iran’, Lad ‘from southern Gujarat’, and Mathur ‘from Mathura’.  Many of the Marwadis picked their name based on this like Jhunjhunwala, Singhania, etc. So did the Khatris, Arora came from Aror (now Rohri, in Sind, Pakistan). 
+**Aggarwal** came ‘from Agar or Agroha’, and the community is split into 18 (according to some, 17 and a half) gotras. These include Bansal, Goel, Garg, Jindal, Kansal, Mittal, Singhal, etc.
+
+Ahluwalia ‘from Ahlu’, Irani ‘from Iran’, Lad ‘from southern Gujarat’, and Mathur ‘from Mathura’.  Many of the Marwadis picked their name based on this like Jhunjhunwala, Singhania, etc. So did the Khatris, Arora came from Aror (now Rohri, in Sind, Pakistan). 
 
 Pancholi, is a community who came from the Panchal region. Khambhata is from Gulf of Khambhat, or Khambaj. 
+
+Billimoria gets its name from Billimora, which was situated on the banks of the river Ambika, in Gandevi taluka and Navsari district of Gujarat state.
 ### Others
 Dhawan on the name of a clan in the Khatri (‘member of the warrior caste’ who later got into business) community. It is popularly believed to mean ‘runner’, ‘messenger’, from Sanskrit /dhāv-/‘to run’.  
 
@@ -115,7 +118,7 @@ Ghosh is an occupational name for those who were cowherd (ghosa). Related one is
 
 Natarajan were the ‘king of dancers’ (from nata ‘dancer’ + rāja ‘king’, an epithet of the god Shiva). 
 
-**Parmar** ‘one that strikes the enemy’, from Sanskrit para ‘alien, enemy’ + māra ‘strike, kill’. Purohit from purohita ‘one placed foremost’ (from puras ‘front’ + hita ‘placed’). Rawat from a much altered form of Sanskrit rājapatra ‘king’s son, prince’. 
+**Parmar** ‘one that strikes the enemy’, from Sanskrit para ‘alien, enemy’ + māra ‘strike, kill’. Purohit from purohita ‘one placed foremost’ (from puras ‘front’ + hita ‘placed’). Rawat from a much altered form of Sanskrit rājapatra ‘king’s son, prince’.  **Bisht** originated as a title of Thakurs of Kumaun and Garhwal.
 
 **Ghataks** (literally, one who makes things happen) were matchmakers who established links between the two families in a marriage.
 
