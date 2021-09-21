@@ -80,11 +80,15 @@ Faujdar, was a title awarded by Mughal to garrison commanders.
  
 Razdan came from Persian word “Raz,” meaning “secret” with the suffix “Dan,” meaning “keeper.” 
 
-**Dewan** In Mughal India the dewan was usually the highest official in a state after the king.  **Amin** were government official concerned with investigation of land claims and revenue claims (but the title was in the Gujarat state only).
+**Dewan** In Mughal India the dewan was usually the highest official in a state after the king.  **Amin** were government official concerned with investigation of land claims and revenue claims (but the title was in the Gujarat state only). Later on Amin simply meant, One who is Honest, Trustworthy and Faithful.
 
 **Bakshi** came from Persian /bakhshī/‘paymaster’,  was the title of an official who distributed wages in the Muslim armies. Dalal ‘broker’, Majmudar ‘record-keeper’,  Shah ‘merchant’. 
 
 **Dar** (Kashmir Muslim name) probably came from the Persian dār meaning ‘holder, possessor, master’.
+
+Talukdar used to collect revenue from a TALUKA Subdivision of a Teritory, and them Tehsildar used to work. 
+
+Munsaf/ Munsif were the Judge,  Munshi were the secretary of a Noble, and Havaldar and Subedar was a rank in Army. 
 
 ### Marwadis & Maheshwari
 **Bajaj** were ‘dealer in clothes’ (from Arabic bazzāz), and was one of the 72 Khanp of Maheshwari communities. 
@@ -132,16 +136,27 @@ Lokhandwala were the 'iron-merchant'. Zariwala refers to someone who produces an
 The rise in the status of the members of the low castes as a result of education awakening has led them to discard old traditional names of their castes. 
 Dhobi (washerman) became Prajàpati, Bhangi (scavenger) as Vàlmïki, Luhar (blacksmith) Vishvakarmâ, and Kalvar (one who deals in liquor) Jàisaval. In Panjab and in the nearby states, the surnames Khatri and Aurora are used by Hindu and Sikh trading castes. 
 
-### Muslim Names
+## Muslim Names
 Muslim Khojas were another group of successful merchants. The name Khoja, or Khwajah, meant a rich and respectable gentleman, an opulent merchant. Bohras, also spelled Bohara or Vohra, is derived from the Gujarati word vohorvu meaning ‘trade’ and records the occupation of the first converters to Islam. The Memons another mercantile community, were known as maumins or believers. The word maumin was distorted to Memon.
 
 **Afzal** (Arabic form: Afdal) ‘best’ or ‘learned’. Mukhtar was an 	occupational name based on Arabic mukhtār ‘chosen’, in some areas the title of a village chief. 
 
-### The walas
+Naqvi  was a Religious Head and Nazir were superintendent of a Religious Place. Qazi / Kazi were Judge, in accordance with the Islamic Religious Law. 
+## The walas
 The Parsi community did not adopt surnames until the age of the British rulers. During the British rule, to be able to identify and track people, the Britishers demanded a list of Indian family names, esp in the cities. So most Urban families decided to adopt their profession as their family name as all the men of a family would be in the same trade. The suffix wala is used to identify the profession of the person. 
 
-So, we got surnames like: Canteenwalas, Confectioners, Messmans, Bakerywalas, Hotelwalas, and Commissariats, for the folks who were in the food business. Those who dealt with bottles were Batliwala, those into medicine industry were Daaruwala, daaru being a term used for medicines. Plus, we had Mistry, Builder and Contractor. 
-### European Connects 
+So, we got surnames like: Canteenwalas, Confectioners, Messmans, Bakerywalas, Hotelwalas, and Commissariats, for the folks who were in the food business. Those who dealt with bottles were Batliwala, those into medicine industry were Daaruwala, daaru being a term used for medicines, and Feniwala were the maker of Feni. 
+
+Aarasiwala (AARSI=Mirror) deals in Mirrors, Bambaawala (BAMBAA=Fire Brigade) worked in Fire Brigade, Battiwala deals in Lamps, Bobbinmaker used to makes Bobbins for cloth Weaving, and Chitthiwala deals in making Letters or invitation Cards. Lakdawala deals in Wood, Lodhawala used to make Iron Utensils, and Palkhiwala were dealing in Palenquins for Carrying people, PALKHI=Palenquin.
+
+#### Non-wala Parsis
+We have many non-wala surnames also for Parsis.
+Aga was Like a  Nobleman. Dadabhoy was for someone who was as Old as a Grandfather, Darbari used to works in a King's Court, Dastoor were Head Priest Mainly in Fire Temples, Pundole, also works as a Priest.
+
+Maarfatia were Agent Or Broker, Maarfat means VIA, through them. Master were someone who was a master in going something. Mody used to sells essential provisions like Grains, Oil, Tea, etc. Kanga deals in a cereal/grain. Zaveri were Jeweller, and Nanavati were the money changer/lender NAANAA = Money, VATI=Dealer.
+
+Plus, we had English sounding self-explainable surnames like Mistry, Builder, Miller (work in Mills), Sheriff, Painter and Contractor. 
+## European Connects 
 Occupational surnames are amongst the most common in England. And, given our recent knowlegde about English langauge, their occupational surnames are way easy to identify. So, it can be  a trade Clark (cleric who went out to houses to administer the services), Thatcher (tanner’s helper; one who worked with leather) other e.g., Baker, Cooper, Butcher, Shoe Maker or a general profession (e.g., Gardner, Sheppard).  
 Chapman, or Chipman were the trader who bought and sold articles. It also led to the words ‘chap,’ ‘cheap’ and ‘chop’. 
 So, we will now touch upon some of the lesser known and with Indian connections.
