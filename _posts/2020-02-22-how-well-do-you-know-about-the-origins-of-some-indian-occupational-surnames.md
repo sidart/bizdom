@@ -88,7 +88,7 @@ Razdan came from Persian word “Raz,” meaning “secret” with the suffix �
 
 Talukdar used to collect revenue from a TALUKA Subdivision of a Teritory, and them Tehsildar used to work. 
 
-Munsaf/ Munsif were the Judge,  Munshi were the secretary of a Noble, and Havaldar and Subedar was a rank in Army. 
+Munsaf/ Munsif were the Judge,  Munshi were the secretary of a Noble, and Havaldar and Subedar was a rank in Army. Munim, were the head accountant.
 
 ### Marwadis & Maheshwari
 **Bajaj** were ‘dealer in clothes’ (from Arabic bazzāz), and was one of the 72 Khanp of Maheshwari communities. 
@@ -109,6 +109,8 @@ Ahluwalia ‘from Ahlu’, Irani ‘from Iran’, Lad ‘from southern Gujarat�
 
 Pancholi, is a community who came from the Panchal region. Khambhata is from Gulf of Khambhat, or Khambaj. 
 
+Srivastava originate from Sravasti, the erstwhile capital of the old Koshala empire. 
+
 Billimoria gets its name from Billimora, which was situated on the banks of the river Ambika, in Gandevi taluka and Navsari district of Gujarat state.
 ### Others
 Dhawan on the name of a clan in the Khatri (‘member of the warrior caste’ who later got into business) community. It is popularly believed to mean ‘runner’, ‘messenger’, from Sanskrit /dhāv-/‘to run’.  Dravid  is from 'Dramila', an old name for 
@@ -122,15 +124,13 @@ Tanti, Tantuvaya the word means thread - wearer. It is an occupational name used
 
 Ghosh is an occupational name for those who were cowherd (ghosa). Related one is from Gujarat Godhania, about the one who has cattle wealth, and Gosai and Goswami, ‘lord of cows’.
 
-Natarajan were the ‘king of dancers’ (from nata ‘dancer’ + rāja ‘king’, an epithet of the god Shiva). 
+Natarajan were the ‘king of dancers’ (from nata ‘dancer’ + rāja ‘king’, an epithet of the god Shiva). **Nadkarni** ('naadu', a tamil word for 'land' and 'karnik', a sanskrit word meaning 'clerk') were engaged mainly in accounts related jobs.
 
 **Parmar** ‘one that strikes the enemy’, from Sanskrit para ‘alien, enemy’ + māra ‘strike, kill’. Purohit from purohita ‘one placed foremost’ (from puras ‘front’ + hita ‘placed’). Rawat from a much altered form of Sanskrit rājapatra ‘king’s son, prince’.  **Bisht** originated as a title of Thakurs of Kumaun and Garhwal.
 
 **Ghataks** (literally, one who makes things happen) were matchmakers who established links between the two families in a marriage.
 
-Barot, is about the community would usually work as genealogists (one who studies and makes a pedigree).  **Choksi** come from the Gujarati word ‘Coksi,’ which means ‘assayer of gold and silver.’ Dholakia were the one who were into ‘Dhodka,’ an unprocessed grey cloth. **Popat**, someone who took care of parrots. **Patawari** were the village accountant and surveyor, and Vakil were the Lawyer.
-
-Lokhandwala were the 'iron-merchant'. Zariwala refers to someone who produces and sells jari/zari (shining gold and silver threads). Munim, were the head accountant.
+Barot, is about the community would usually work as genealogists (one who studies and makes a pedigree).  **Choksi** come from the Gujarati word ‘Coksi,’ which means ‘assayer of gold and silver.’ Dholakia were the one who were into ‘Dhodka,’ an unprocessed grey cloth. **Popat**, someone who took care of parrots. **Patawari** were the village accountant and surveyor, and Vakil were the Lawyer. 
 
 ### Caste Names
 The rise in the status of the members of the low castes as a result of education awakening has led them to discard old traditional names of their castes. 
@@ -147,7 +147,9 @@ The Parsi community did not adopt surnames until the age of the British rulers. 
 
 So, we got surnames like: Canteenwalas, Confectioners, Messmans, Bakerywalas, Hotelwalas, and Commissariats, for the folks who were in the food business. Those who dealt with bottles were Batliwala, those into medicine industry were Daaruwala, daaru being a term used for medicines, and Feniwala were the maker of Feni. 
 
-Aarasiwala (AARSI=Mirror) deals in Mirrors, Bambaawala (BAMBAA=Fire Brigade) worked in Fire Brigade, Battiwala deals in Lamps, Bobbinmaker used to makes Bobbins for cloth Weaving, and Chitthiwala deals in making Letters or invitation Cards. Lakdawala deals in Wood, Lodhawala used to make Iron Utensils, and Palkhiwala were dealing in Palenquins for Carrying people, PALKHI=Palenquin.
+Aarasiwala (AARSI=Mirror) deals in Mirrors, Bambaawala (BAMBAA=Fire Brigade) worked in Fire Brigade, Battiwala deals in Lamps, Bobbinmaker used to makes Bobbins for cloth Weaving, and Chitthiwala deals in making Letters or invitation Cards. 
+
+Lokhandwala were the 'iron-merchant'. Zariwala refers to someone who produces and sells jari/zari (shining gold and silver threads). Lakdawala deals in Wood, Lodhawala used to make Iron Utensils, and Palkhiwala were dealing in Palenquins for Carrying people, PALKHI=Palenquin.
 
 #### Non-wala Parsis
 We have many non-wala surnames also for Parsis.
