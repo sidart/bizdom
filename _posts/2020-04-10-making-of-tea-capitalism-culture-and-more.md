@@ -16,7 +16,10 @@ optimized_image: https://res.cloudinary.com/thebizdom-in/image/upload/v159395497
 category: commodity
 ---
 
+Tea is more than just a beverage. It's a way of life! It is such an integral part of culture and society in so many countries. It's the entree into an elegant affair. It flows in its own rhythm in many countries all over the world, with every person whose lips touch the cup adding their own nuances to the flavor, aroma and traditions associated with drinking this refreshing drink.
 ### Origin
+There are few things that are as simple yet as complicated as tea. 
+
 Centuries back, the present day of the region of Assam was visited by Buddhist monks who used to the trek to and from China and India. One such Chinese monk brought back the seeds from a new-to-him plant, the tea bush.
 
 Soon, other Buddhist monks in Korea and Japan followed his example and each soon discovered that tea was just the brew to stimulate devotees to remain steadfast in their hours of prayer and meditation. All began planting tea seeds on their respective monastery properties.
