@@ -13,9 +13,9 @@ category: technology
 Automation is the technique in which a task is performed in a shorter period of time with reduced human effort. The mordern coinage of the term is attributed to D.S. Harder, an engineering manager at the Ford Motor (in 1940s). But given the term is mostly related to computer, so here is intresting version of it's origin. 
 
 
-In the late 17th century, John-Joseph Merlin used runs an eclectic establishment known as Merlin’s Mechanical Museum. In modern terms, Merlin’s shop is a kind of hybrid between a science museum, a gaming arcade, and a maker lab- created a wide variety of mechanical clocks.
+In the late 17th century, John-Joseph Merlin a Belgian clock-maker, musical-instrument maker, and inventor. Spanish Ambassador to England knew of him, and brought him to London in 1760. In London, he used to runs an eclectic establishment known as Merlin’s Mechanical Museum. In modern terms, Merlin’s shop is a kind of hybrid between a science museum, a gaming arcade, and a maker lab- created a wide variety of mechanical clocks. He built wheelchairs and weighing machines. He invented an early roller skate.
 
-Somewhere around 1801, a mother brought her precocious 8Y son to visit Merlin’s museum. The old showman senses something promising in the boy and offers to take him up to the attic to spark his curiosity even further. The boy, named Charles Babbage was charmed by the walking lady.
+Somewhere around 1801, a mother brought her precocious 8-year son to visit Merlin’s museum. The old showman senses something promising in the boy and offers to take him up to the attic to spark his curiosity even further. The boy, named Charles Babbage was charmed by the walking lady. Merlin's creations had touched Babbage's heart and head. 
 
 ### Jacquard loom
 In 1745 a talented machinist, Jacques de Vaucanson, designed a loom that used a spoked metal cylinder—similar to those found in music boxes—to trigger hooks that would raise or lower particular threads.  Jacquard, who had worked as a drawboy in his youth, inherited his father’s weaving business in Lyon but found it difficult to make a profit. He then replaced Vaucanson’s drums with punched paper cards. Each card passed before an array of circular metal rods corresponding to different warp threads.  The Jacquard loom was patented in 1804.
