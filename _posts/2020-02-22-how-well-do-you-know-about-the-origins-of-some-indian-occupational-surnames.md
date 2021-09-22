@@ -70,11 +70,17 @@ Grover, came from Guruvara/Gorovare, which in turn derives from a Sanskrit word 
 ### Mughals Era
 The Mughals followed a system of free minting under which anyone was free to bring metal to an imperial mint and get it converted into coins. A significant proportion of the total clientele at the mints working under this agreement was provided by a professional dealer in money. They were named as Sarraf, which is derived from Arabic and Jewish word meaning ‘treasurer’, ‘paymaster’. 
 
-Revenue collection of the Maratha State. The assignment of revenue rights to a rent collector (ijardar), who were accountable to a group of Sahukar/moneylenders (Potedars, Poddars). When the state needed money, it would issue a money warrant accompanied by letter of credit to them, were known as Varat.
+Revenue collection of the Maratha State. The assignment of revenue rights to a rent collector (ijardar), who were accountable to a group of Sahukar/moneylenders (**Potedars, Poddars**). When the state needed money, it would issue a money warrant accompanied by letter of credit to them, were known as Varat.
+
+**Bakshi/Baxi** is believed to have originated from the Persian word "bakhshesh" (charitable giving), and meant to be a paymaster. During Mughal, Mir Bakshi was in charge of military pay and accounts office. 
 
 **Fadnavis**, came from two Persian words, Fad and navis, and literally translated from Persian to English as ‘Maker of the Lists’. The powers of Phadnavis in Maratha administration was that of a Finance Minister. Inamdar were given the land as Inam (prize). 
 
-Faujdar, was a title awarded by Mughal to garrison commanders.
+A Subah was the term for a province (State), and **Subedar** was the head of this state. Under, him, few Sarkar will work and under whom, you will have Faujdar, as a title awarded by Mughal to garrison commanders. Talukdar used to collect revenue from a TALUKA Subdivision of a Teritory, and them Tehsildar used to work. 
+
+Kotwal was the police incharge of a town, Darogah and Thanedar will work under him.
+
+Munsaf/ Munsif were the Judge,  Munshi were the secretary of a Noble, and Havaldar and Subedar was a rank in Army. 
 
  **Chawla** were the dealer of Chwal/Rice and **Doshi** from Persian /dush/‘shoulder’, denoting a hawker selling cloth (because the cloth was carried over the shoulder). 
  
@@ -82,22 +88,21 @@ Razdan came from Persian word “Raz,” meaning “secret” with the suffix �
 
 **Dewan** In Mughal India the dewan was usually the highest official in a state after the king.  **Amin** were government official concerned with investigation of land claims and revenue claims (but the title was in the Gujarat state only). Later on Amin simply meant, One who is Honest, Trustworthy and Faithful.
 
-**Bakshi** came from Persian /bakhshī/‘paymaster’,  was the title of an official who distributed wages in the Muslim armies. Dalal ‘broker’, Majmudar ‘record-keeper’,  Shah ‘merchant’. 
+**Bakshi** came from Persian /bakhshī/‘paymaster’,  was the title of an official who distributed wages in the Muslim armies. Dalal ‘broker’, Majmudar ‘record-keeper’,  Shah ‘merchant’.  Munim, were the head accountant.
 
 **Dar** (Kashmir Muslim name) probably came from the Persian dār meaning ‘holder, possessor, master’.
 
-Talukdar used to collect revenue from a TALUKA Subdivision of a Teritory, and them Tehsildar used to work. 
 
-Munsaf/ Munsif were the Judge,  Munshi were the secretary of a Noble, and Havaldar and Subedar was a rank in Army. Munim, were the head accountant.
+Mahars were the village watchman, messenger, wall mender.
 
 ### Marwadis & Maheshwari
-**Bajaj** were ‘dealer in clothes’ (from Arabic bazzāz), and was one of the 72 Khanp of Maheshwari communities. 
+**Bajaj** were ‘dealer in clothes’ (from Arabic bazzāz), and was one of the 72 Khanp of Maheshwari communities. Pansari were Pan pr betel-leave growers and sellers.
 
 Kothari were the treasurer and caretaker of “Kotha” (godown or treasure). Bhandari were the manager of the treasure house or keeper of a storehouse, taking care of the Bhandar. Both are also a surname in Marwadi communities.
 
 Parekh or Parikh were the assayer of metals and got derived from Sanskrit word pariksaka = 'examiner'. Related surname was Soni who acted as Sunar (goldsmiths). 
 
-Lunia were the salt makers. Sanghvi used to offers hospitality to groups and arrange such trips (Sanskrit sangha = Group)
+Lunia were the salt makers. Sanghvi used to offers hospitality to groups and arrange such trips (Sanskrit sangha = Group). Lodha used to deal into dyeing that they got from the bark of the lodh tree.
 
 Nahata were Rajput who later converted to Jain, got their name from a battle were they remain stood. Na + hata
 
@@ -107,9 +112,11 @@ A lot of Indian business communities picked their surname from their place of or
 
 Ahluwalia ‘from Ahlu’, Irani ‘from Iran’, Lad ‘from southern Gujarat’, and Mathur ‘from Mathura’.  Many of the Marwadis picked their name based on this like Jhunjhunwala, Singhania, etc. So did the Khatris, Arora came from Aror (now Rohri, in Sind, Pakistan). 
 
+Khanna came from a small town of Khanna in Ludhiana. Khanna is a Punjabi word, which means one quarter. Place was named this because it used to be very small.
+
 Pancholi, is a community who came from the Panchal region. Khambhata is from Gulf of Khambhat, or Khambaj. 
 
-Srivastava originate from Sravasti, the erstwhile capital of the old Koshala empire. 
+Srivastava originate from Sravasti, the erstwhile capital of the old Koshala empire. Jaiswar came from a old town named Jais in Rai Bareli (UP). Kanaujia, from Kanauj, Mahobia from Mahoba, Narwaria from Narwar.
 
 Billimoria gets its name from Billimora, which was situated on the banks of the river Ambika, in Gandevi taluka and Navsari district of Gujarat state.
 ### Others
@@ -120,11 +127,15 @@ Tandan derived from the Sanskrit dandanam or punishment, as, in ancient times, m
 
 **Mittal** were Agarwal Bania community, probably derived from Sanskrit mitra ‘friend, ally’.  **Bhatia** were the mercantile community. Members of this clan claim relationship with the Bhatti Rajputs. 
 
-Tanti, Tantuvaya the word means thread - wearer. It is an occupational name used by various weaving castes. Tunnaran were tailor, Uppu were the salt traders. Bahl is probably a derivative of Sanskrit bahala ‘strong’.  Bhasin is believed to be derived from Sanskrit bhāsin ‘sun’. 
+Tanti,  means thread - wearer. It is an occupational name used by various weaving castes, who were dealing into fine muslin. 
+Tunnaran were tailor, Uppu were the salt traders. Bahl is probably a derivative of Sanskrit bahala ‘strong’.  Bhasin is believed to be derived from Sanskrit bhāsin ‘sun’. 
 
 Ghosh is an occupational name for those who were cowherd (ghosa). Related one is from Gujarat Godhania, about the one who has cattle wealth, and Gosai and Goswami, ‘lord of cows’.
 
-Natarajan were the ‘king of dancers’ (from nata ‘dancer’ + rāja ‘king’, an epithet of the god Shiva). **Nadkarni** ('naadu', a tamil word for 'land' and 'karnik', a sanskrit word meaning 'clerk') were engaged mainly in accounts related jobs.
+Natarajan were the ‘king of dancers’ (from nata ‘dancer’ + rāja ‘king’, an epithet of the god Shiva). Nat were acrobat.
+**Nadkarni** ('naadu', a tamil word for 'land' and 'karnik', a sanskrit word meaning 'clerk') were engaged mainly in accounts related jobs.
+
+Ganda were watchman, name may have been derived from gandasa (गंडास), an Axe, as their weapon. Gadaria were involved in livestock breeding, especially sheep.
 
 **Parmar** ‘one that strikes the enemy’, from Sanskrit para ‘alien, enemy’ + māra ‘strike, kill’. Purohit from purohita ‘one placed foremost’ (from puras ‘front’ + hita ‘placed’). Rawat from a much altered form of Sanskrit rājapatra ‘king’s son, prince’.  **Bisht** originated as a title of Thakurs of Kumaun and Garhwal.
 
@@ -133,8 +144,9 @@ Natarajan were the ‘king of dancers’ (from nata ‘dancer’ + rāja ‘kin
 Barot, is about the community would usually work as genealogists (one who studies and makes a pedigree).  **Choksi** come from the Gujarati word ‘Coksi,’ which means ‘assayer of gold and silver.’ Dholakia were the one who were into ‘Dhodka,’ an unprocessed grey cloth. **Popat**, someone who took care of parrots. **Patawari** were the village accountant and surveyor, and Vakil were the Lawyer. 
 
 ### Caste Names
-The rise in the status of the members of the low castes as a result of education awakening has led them to discard old traditional names of their castes. 
-Dhobi (washerman) became Prajàpati, Bhangi (scavenger) as Vàlmïki, Luhar (blacksmith) Vishvakarmâ, and Kalvar (one who deals in liquor) Jàisaval. In Panjab and in the nearby states, the surnames Khatri and Aurora are used by Hindu and Sikh trading castes. 
+The rise in the status of the members of the low castes as a result of education awakening has led them to discard old traditional names of their castes, like Chamars (tanners) or Mahars (weavers). 
+
+So, Dhobi (washerman) became Prajàpati, Bhangi (scavenger) as Vàlmïki, Luhar (blacksmith) Vishvakarmâ, and Kalvar (one who deals in liquor) Jàisaval. In Panjab and in the nearby states, the surnames Khatri and Aurora are used by Hindu and Sikh trading castes. 
 
 ## Muslim Names
 Muslim Khojas were another group of successful merchants. The name Khoja, or Khwajah, meant a rich and respectable gentleman, an opulent merchant. Bohras, also spelled Bohara or Vohra, is derived from the Gujarati word vohorvu meaning ‘trade’ and records the occupation of the first converters to Islam. The Memons another mercantile community, were known as maumins or believers. The word maumin was distorted to Memon.
