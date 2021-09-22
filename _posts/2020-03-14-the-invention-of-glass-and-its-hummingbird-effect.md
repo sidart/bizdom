@@ -21,6 +21,7 @@ The grains of sand—made up of silicon dioxide—melted under the heat, when co
 
 These glassmakers were banished to the island of Murano, but soon they spread across. While neighboring cities like Florence and Milan were developing silver and gold work, iron and bronze casting, tapestry and embroidery, glassmakers in Murano were creating novelties -glass vials, beads, and baubles. They sold their glass throughout Italy and to traders from the Middle East.
 
+The stained glass art of the Gothic cathedral was so highly developed that we might think glass handling had reached high perfection at that point. But, then the art of handling glass was destined to grow still more, to help mankind, to achieve new perfection.
 ### The Press
 Technological progress is often portrayed as a grand narrative of human advancement. The invention of the printing press, in this view, unleashed a global intellectual revolution whose consequences are still felt today. But how did Gutenberg’s moveable-type technology achieve such a fundamental transformation? What were the long-term causes that made his innovation so revolutionary?
 
@@ -38,7 +39,13 @@ Robert Hooke, a British scientist used this microscope to identify the cell as t
 Microscopes would later reveal the invisible colonies of bacteria and viruses that both sustain and threaten human life, which led to modern vaccines and antibiotics.
 
 ### The Astronomy
-Galileo didn't invent the telescope. It was Dutch, and he simply improved its design.  A Dutch eyeglass maker Hans Lippershey in 1608, invented a device that can magnify objects 3x. Galileo modified it to reach 10x. And, in Jan of 1610, just two years after Lippershey had filed for his patent, Galileo used the telescope to observe  Jupiter's four large moons (Io, Europa, Ganymede and Callisto) in 1610 with his telescope.  A lot changes because of this observation. His evidence later caused the Catholic Church to reverse its position on whether Earth really is the center of the universe. 
+Telescopes are instruments that utilize the principles of refraction and reflection to form a clear image of a magnified object. Galileo didn't invent the telescope. It was Dutch, and he simply improved its design.  
+
+A Dutch eyeglass maker Hans Lippershey in 1608, invented a device that can magnify objects 3x. This used an arrangement of lenses and mirrors to change light from a distant object into a form that the user could see.
+
+Galileo modified it to reach 10x. And, in Jan of 1610, just two years after Lippershey had filed for his patent, Galileo used the telescope to observe  Jupiter's four large moons (Io, Europa, Ganymede and Callisto) in 1610 with his telescope.  A lot changes because of this observation. His evidence later caused the Catholic Church to reverse its position on whether Earth really is the center of the universe. 
+
+In 1757 John Dolland (an English optician) used crown and flint glass to produce an achromatic lens, with the help of glass and water lenses.
  
 ### The Internet
 There's no one inventor of the modern web, just like there's no one inventor of agriculture or wheels, and Glass played a good role in this history. 
