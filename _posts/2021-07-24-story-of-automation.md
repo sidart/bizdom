@@ -10,6 +10,9 @@ description: How the early days of computers planted the seed for Mary Shelley�
 category: technology
 ---
 
+Automation is the technique in which a task is performed in a shorter period of time with reduced human effort. The mordern coinage of the term is attributed to D.S. Harder, an engineering manager at the Ford Motor (in 1940s). But given the term is mostly related to computer, so here is intresting version of it's origin. 
+
+
 In the late 17th century, John-Joseph Merlin used runs an eclectic establishment known as Merlin’s Mechanical Museum. In modern terms, Merlin’s shop is a kind of hybrid between a science museum, a gaming arcade, and a maker lab- created a wide variety of mechanical clocks.
 
 Somewhere around 1801, a mother brought her precocious 8Y son to visit Merlin’s museum. The old showman senses something promising in the boy and offers to take him up to the attic to spark his curiosity even further. The boy, named Charles Babbage was charmed by the walking lady.
