@@ -25,7 +25,7 @@ Another Tea Legend is about The Story Of Bodhidharma. Today he is the form of da
 
 Chinese word for tea, cha, which the British turned into tay, which then evolved into tea; this is what the western world came to call the leaf of the Camellia sinensis plant. Today, both Japanese & Chinese say “cha” for tea, and the Indians say “chai.”
 
-Tea arrived in Europe in 1580s when a Portuguese trader brought a chest of it along with other Chinese luxury goods—silks, spices,etc. But due to short in supply (high cost), not many will take this immediately. Plus they already had Coffee. 
+Tea arrived in Europe in 1580s when a Portuguese trader brought a chest of it along with other Chinese luxury goods—silks, spices,etc.  Tt attracted little interest, maybe due to short in supply (high cost), and hence not many will buy this immediately. And, many Europeans didn't want to drink tea, as at the time they were drinking coffee.
 
 The marriage of Charles II of England with the tea-loving Portuguese Princess Catherine (which also made Bombay a British port). This will make it an item of the aristocracy. Plus people felt that Tea is easier to prepare vs Coffee. A Co. was seeing this as THE BIG opportunity.
 
@@ -41,7 +41,7 @@ The British government tried to make a profit through excise duties. But, Tea wa
 Americans didn’t like this (high taxed Tea via EIC) and protested in the form of the Boston Tea Party. All this led to their Declaration of Independence in 1776. For many decades they continued to HATE tea (teated as symbol of British arrogance) and adopted Coffee and Coke as their remedy.
 
 ### Cutural Changes
-Meanwhile, English demand for tea was growing rapidly. A lot of books were been written on ‘Etiquette and Good Manners’ around these tea habits. Tea parties were been organised in the home along with cakes, bread, and biscuits.
+At the same time, the demand for tea was growing rapidly. ‘Etiquette and Good Manners’ books were written on how to drink tea, recipes for cakes, bread, and biscuits and tea parties were held in people's homes. People held tea parties in their homes, serving cakes, bread, and biscuits.
 
 A new form of Biscuit, originally called Tea Biscuits, was developed in the 17th cent. The most famous of this type will be the Marie biscuit created by the London bakery Peek Freans in 1874 to commemorate the marriage of Maria Alexandrovna of Russia to the Duke of Edinburgh.
 
