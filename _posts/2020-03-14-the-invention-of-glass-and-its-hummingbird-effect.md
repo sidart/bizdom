@@ -13,11 +13,13 @@ description: 'Hummingbird effect: An innovation, or cluster of innovations, in o
 category: technology
 ---
 
-Once you realize that the modern world has been shaped by a simple object that has been around for more than 1000 years, you can't help but marvel at it.  The discovery of glassmaking, probably the most important invention made by humans.
+Once you realize that the modern world has been shaped by a simple object that has been around for more than 2000 years, you can't help but marvel at it.  Glass is one of the most ancient human inventions, and important invention. It predates writing, pottery, and maybe the wheel. 
 ### The Glass
-The story of glass started in the desert around a few million years ago. The grains of sand—made up of silicon dioxide—melted under the heat, when cooled, could not get itself back to its original shape,  it left behind what we now recognize as glass.
+The ancient Egyptians and Greeks made crude glass decorations. But today's basic soda-lime glass -- made of sand, limestone, and sodium carbonate -- is only about 2000 years old. The Romans, who made glass from about 200 BC, didn't have the soda-lime formula. They used a different recipe -- one that required furnaces with temperatures as high as 1000 degrees Celsius. In contrast, soda-lime glass can be melted in kilns heated only to 650 degrees Celsius.
 
-When Constantinople fell in 1204, a tiny group of glassmakers moved from Turkey and practiced their trade-in Venice, but once the heat required to make glass almost burned down the city. These glassmakers were banished to the island of Murano, but soon they spread across.
+The grains of sand—made up of silicon dioxide—melted under the heat, when cooled, could not get itself back to its original shape,  it left behind what we now recognize as glass. When Constantinople fell in 1204, a tiny group of glassmakers moved from Turkey and practiced their trade-in Venice, but once the heat required to make glass almost burned down the city. 
+
+These glassmakers were banished to the island of Murano, but soon they spread across. While neighboring cities like Florence and Milan were developing silver and gold work, iron and bronze casting, tapestry and embroidery, glassmakers in Murano were creating novelties -glass vials, beads, and baubles. They sold their glass throughout Italy and to traders from the Middle East.
 
 ### The Press
 Technological progress is often portrayed as a grand narrative of human advancement. The invention of the printing press, in this view, unleashed a global intellectual revolution whose consequences are still felt today. But how did Gutenberg’s moveable-type technology achieve such a fundamental transformation? What were the long-term causes that made his innovation so revolutionary?
