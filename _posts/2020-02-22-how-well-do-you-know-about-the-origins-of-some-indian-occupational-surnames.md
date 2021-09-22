@@ -76,7 +76,7 @@ Revenue collection of the Maratha State. The assignment of revenue rights to a r
 
 **Fadnavis**, came from two Persian words, Fad and navis, and literally translated from Persian to English as ‘Maker of the Lists’. The powers of Phadnavis in Maratha administration was that of a Finance Minister. Inamdar were given the land as Inam (prize). 
 
-A Subah was the term for a province (State), and **Subedar** was the head of this state. Under, him, few Sarkar will work and under whom, you will have Faujdar, as a title awarded by Mughal to garrison commanders. Talukdar used to collect revenue from a TALUKA Subdivision of a Teritory, and them Tehsildar used to work. 
+A Subah was the term for a province (State), and **Subedar** was the head of this state. Under, him, few Sarkar will work and under whom, you will have Faujdar, as a title awarded by Mughal to garrison commanders. Talukdar used to collect revenue from a TALUKA Subdivision of a Teritory, and under them Tehsildar used to work. 
 
 Kotwal was the police incharge of a town, Darogah and Thanedar will work under him.
 
@@ -88,10 +88,9 @@ Razdan came from Persian word “Raz,” meaning “secret” with the suffix �
 
 **Dewan** In Mughal India the dewan was usually the highest official in a state after the king.  **Amin** were government official concerned with investigation of land claims and revenue claims (but the title was in the Gujarat state only). Later on Amin simply meant, One who is Honest, Trustworthy and Faithful.
 
-**Bakshi** came from Persian /bakhshī/‘paymaster’,  was the title of an official who distributed wages in the Muslim armies. Dalal ‘broker’, Majmudar ‘record-keeper’,  Shah ‘merchant’.  Munim, were the head accountant.
+Dalal ‘broker’, Majmudar ‘record-keeper’,  Shah ‘merchant’.  Munim, were the head accountant.
 
 **Dar** (Kashmir Muslim name) probably came from the Persian dār meaning ‘holder, possessor, master’.
-
 
 Mahars were the village watchman, messenger, wall mender.
 
@@ -116,7 +115,7 @@ Khanna came from a small town of Khanna in Ludhiana. Khanna is a Punjabi word, w
 
 Pancholi, is a community who came from the Panchal region. Khambhata is from Gulf of Khambhat, or Khambaj. 
 
-Srivastava originate from Sravasti, the erstwhile capital of the old Koshala empire. Jaiswar came from a old town named Jais in Rai Bareli (UP). Kanaujia, from Kanauj, Mahobia from Mahoba, Narwaria from Narwar.
+**Srivastava** originate from Sravasti, the erstwhile capital of the old Koshala empire. Jaiswar came from a old town named Jais in Rai Bareli (UP). Kanaujia, from Kanauj, Mahobia from Mahoba, Narwaria from Narwar.
 
 Billimoria gets its name from Billimora, which was situated on the banks of the river Ambika, in Gandevi taluka and Navsari district of Gujarat state.
 ### Others
