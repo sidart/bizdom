@@ -51,4 +51,4 @@ Today the entire Shekhawati is known for 3 things (Army, Marwaris and their Colo
 These are now a topic of discussion and further exploration in Popular Culture, esp after Hindi Films started showing them recently (Like PK). 
 Let me conclude all these array of facts that I have laid in this thread with a Quote that will summarise this : “We don’t have power, but we have money. With Money, we can get power”.
 
-PS: Marwari is also a dialects, along with the Harauti, Mewari, Mewati, etc, all under the 'Rajasthani'.
+PS: Marwari is also a dialects, along with the Harauti, Mewari, Mewati, etc, all under the 'Rajasthani'. And, in his book 'Rajasthan', James Tod suggests that “Marwar is a corruption of Maroo-wār, classically Maroost’hali or Maroost’han, thus it's a  ‘region of death’”.
