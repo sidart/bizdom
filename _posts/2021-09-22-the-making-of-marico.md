@@ -94,7 +94,7 @@ He replied: “ Mr. Dadiseth, you may think I am a nut but you will find I am a 
 
 HUL, at the time, was 50 times more resourceful and influential than Marico. He decided to ignite an equal passion and inculcate a feeling of belongingness within his field force through the launch of an operation called ‘Parachute Ki Kasam’.
 
-This was a war. Mariwala made his employees dress up like soldiers. The room was designed like a battlefield and the entrance wasn’t through a door. Instead, the soldiers would have to crawl through a tunnel. Parachute’s market share had tripled from 15% to 45%, while Nihar started hitting its nadir. 
+This was a war. Mariwala made his employees dress up like soldiers. The room was designed like a battlefield and the entrance wasn’t through a door. Instead, the soldiers would have to crawl through a tunnel. Parachute’s market share had tripled from 40% to 75%, while Nihar started hitting its nadir. 
 After a decade, Marico acquired Nihar in 2006. 
 
 ### Mediker
