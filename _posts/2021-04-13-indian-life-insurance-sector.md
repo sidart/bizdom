@@ -24,8 +24,11 @@ The life insurance industry in India started with the establishment of the Orien
 
 The industry remained to be dominated by foreign insurers who did brisk business, particularly insuring the European community — Indians were either not insured or were charged heavy premiums. 
 
-The first Indian company came in 1870, the Bombay Mutual Life Assurance Society. More Indian companies flourished during the Swadeshi movement (1905-1907). 
+The first Indian company came in 1870, the Bombay Mutual Life Assurance Society. More Indian companies flourished during the Swadeshi movement (1905-1907). Like New India Assurance that was founded in 1919 by Sir Dorabji Tata.
 
-Till mid-1950s, Insurance was considered a luxury of urban elites. In 1956, India got its first socialist-inspired statutory insurance law.
+Till mid-1950s, Insurance was considered a luxury of urban elites. In 1956, India got its first socialist-inspired statutory insurance law, this followed the nationaliztion of the non-life sector in 1972.
 
 About 245 Indian and foreign insurers and provident societies were taken over by the government and the Life Insurance Corporation formed by an act of parliament.
+
+### The Axis Connection
+UTI bank was the first of the new private banks to have begun operations in 1994, after the Government of India allowed new private banks to be established. The bank was promoted jointly by the Administrator of the specified undertaking of the Unit Trust of India, Life Insurance Corporation of India (LIC) and General Insurance Corporation Ltd. and other four PSU companies, i.e. National Insurance Company Ltd., The New India Assurance Company, The Oriental Insurance Corporation and United Insurance Company Ltd. It was renamed to **Axis Bank** on July 30 2007.
