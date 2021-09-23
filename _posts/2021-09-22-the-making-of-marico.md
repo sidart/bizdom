@@ -33,7 +33,7 @@ Given the absence of any form of long-distance daily communication, the traders 
 They opened a spice shop and then a firm in Kerala under the same name, ‘Kanji Morarji’. Following this, a spice processing plant was set up on the palm-fringed backwaters of Alleppey, Kerala. 
 
 ### Mariwala
-In those days, Kutchi families did not have surnames. The name of the individual followed by the father’s name declared a person’s identity. The census of 1911 led to the British government giving surnames to all, and this is where a lot of Surnames were invented.
+In those days, Kutchi families did not have surnames. The name of the individual followed by the father’s name declared a person’s identity. The census of 1911 led to the British government giving surnames to all, and this is where a lot of Surnames were invented. And, this is when a lot of [WALA surnames](https://www.thebizdom.in/how-well-do-you-know-about-the-origins-of-some-indian-occupational-surnames/#the-walas) were invented. 
 
 Many used the name ‘Merchant’. But, since their main trade was pepper, and had earned them a sobriquet of ‘Pepper Man’. So, ‘MARIWALA’ was adopted. Pepper in Gujarati is mari.
 
