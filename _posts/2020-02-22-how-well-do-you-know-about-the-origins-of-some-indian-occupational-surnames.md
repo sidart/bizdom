@@ -97,7 +97,7 @@ Mahars were the village watchman, messenger, wall mender.
 ### Marwadis & Maheshwari
 **Bajaj** were ‘dealer in clothes’ (from Arabic bazzāz), and was one of the 72 Khanp of Maheshwari communities. Pansari were Pan pr betel-leave growers and sellers.
 
-Kothari were the treasurer and caretaker of “Kotha” (godown or treasure). Bhandari were the manager of the treasure house or keeper of a storehouse, taking care of the Bhandar. Both are also a surname in Marwadi communities.
+Kothari were the treasurer and caretaker of “Kotha” (godown or treasure). **Bhandari** were the manager of the treasure house or keeper of a storehouse, i.e taking care of the Bhandar. Both are also a surname in Marwadi communities.
 
 Parekh or Parikh were the assayer of metals and got derived from Sanskrit word pariksaka = 'examiner'. Related surname was Soni who acted as Sunar (goldsmiths). 
 
@@ -120,7 +120,7 @@ Pancholi, is a community who came from the Panchal region. Khambhata is from Gul
 Billimoria gets its name from Billimora, which was situated on the banks of the river Ambika, in Gandevi taluka and Navsari district of Gujarat state.
 ### Others
 Dhawan on the name of a clan in the Khatri (‘member of the warrior caste’ who later got into business) community. It is popularly believed to mean ‘runner’, ‘messenger’, from Sanskrit /dhāv-/‘to run’.  Dravid  is from 'Dramila', an old name for 
-'Tamil'.
+'Tamil'. Khatris weretraders.
 
 Tandan derived from the Sanskrit dandanam or punishment, as, in ancient times, men of this caste were employed to carry out the punishments that were inflicted by the authorities upon offenders. Sawhney were the commander, **Handa** were into ‘cooking pot and Badal were into water.  Srivastava came  from Sanskrit šrīvasta ‘abode of wealth’). 
 
@@ -160,7 +160,7 @@ So, we got surnames like: Canteenwalas, Confectioners, Messmans, Bakerywalas, Ho
 
 Aarasiwala (AARSI=Mirror) deals in Mirrors, Bambaawala (BAMBAA=Fire Brigade) worked in Fire Brigade, Battiwala deals in Lamps, Bobbinmaker used to makes Bobbins for cloth Weaving, and Chitthiwala deals in making Letters or invitation Cards. 
 
-Lokhandwala were the 'iron-merchant'. Zariwala refers to someone who produces and sells jari/zari (shining gold and silver threads). Lakdawala deals in Wood, Lodhawala used to make Iron Utensils, and Palkhiwala were dealing in Palenquins for Carrying people, PALKHI=Palenquin.
+Lokhandwala were the 'iron-merchant'. Zariwala refers to someone who produces and sells jari/zari (shining gold and silver threads). Lakdawala deals in Wood, Lodhawala used to make Iron Utensils, and Palkhiwala were dealing in Palenquins for Carrying people, PALKHI=Palenquin. And, we had even Bandukwala.
 
 #### Non-wala Parsis
 We have many non-wala surnames also for Parsis.
