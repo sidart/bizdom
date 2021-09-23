@@ -145,7 +145,7 @@ Barot, is about the community would usually work as genealogists (one who studie
 ### Caste Names
 The rise in the status of the members of the low castes as a result of education awakening has led them to discard old traditional names of their castes, like Chamars (tanners) or Mahars (weavers). 
 
-So, Dhobi (washerman) became Prajàpati, Bhangi (scavenger) as Vàlmïki, Luhar (blacksmith) Vishvakarmâ, and Kalvar (one who deals in liquor) Jàisaval. In Panjab and in the nearby states, the surnames Khatri and Aurora are used by Hindu and Sikh trading castes. 
+So, Dhobi (washerman) became Prajàpati, Bhangi (scavenger) as Vàlmïki, Luhar (blacksmith) Vishvakarmâ, and Kalvar (one who deals in liquor) Jàisaval. In Panjab and in the nearby states, the surnames Khatri and Aurora are used by Hindu and Sikh trading castes.  Kewat was " one engaged on water", and Gujar were cattle grazier.
 
 ## Muslim Names
 Muslim Khojas were another group of successful merchants. The name Khoja, or Khwajah, meant a rich and respectable gentleman, an opulent merchant. Bohras, also spelled Bohara or Vohra, is derived from the Gujarati word vohorvu meaning ‘trade’ and records the occupation of the first converters to Islam. The Memons another mercantile community, were known as maumins or believers. The word maumin was distorted to Memon.
@@ -154,7 +154,7 @@ Muslim Khojas were another group of successful merchants. The name Khoja, or Khw
 
 Naqvi  was a Religious Head and Nazir were superintendent of a Religious Place. Qazi / Kazi were Judge, in accordance with the Islamic Religious Law. 
 ## The walas
-The Parsi community did not adopt surnames until the age of the British rulers. During the British rule, to be able to identify and track people, the Britishers demanded a list of Indian family names, esp in the cities. So most Urban families decided to adopt their profession as their family name as all the men of a family would be in the same trade. The suffix wala is used to identify the profession of the person. 
+The Parsi community did not adopt surnames until the age of the British rulers. During the British rule, to be able to identify and track people, the Britishers demanded a list of Indian family names, esp in the cities as they were doing the Census of 1911. So most Urban families decided to adopt their profession as their family name as all the men of a family would be in the same trade. The suffix wala is used to identify the profession of the person. 
 
 So, we got surnames like: Canteenwalas, Confectioners, Messmans, Bakerywalas, Hotelwalas, and Commissariats, for the folks who were in the food business. Those who dealt with bottles were Batliwala, those into medicine industry were Daaruwala, daaru being a term used for medicines, and Feniwala were the maker of Feni. 
 
