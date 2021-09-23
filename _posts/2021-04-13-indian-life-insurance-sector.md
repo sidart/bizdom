@@ -24,7 +24,7 @@ The life insurance industry in India started with the establishment of the Orien
 
 The industry remained to be dominated by foreign insurers who did brisk business, particularly insuring the European community — Indians were either not insured or were charged heavy premiums. 
 
-The first Indian company came in 1870, the Bombay Mutual Life Assurance Society. More Indian companies flourished during the Swadeshi movement (1905-1907). Like New India Assurance that was founded in 1919 by Sir Dorabji Tata.
+The first Indian company came in 1870, the Bombay Mutual Life Assurance Society. More Indian companies flourished during the [Swadeshi movement](https://www.thebizdom.in/swadeshi-movement/) . Like New India Assurance that was founded in 1919 by Sir Dorabji Tata.
 
 Till mid-1950s, Insurance was considered a luxury of urban elites. In 1956, India got its first socialist-inspired statutory insurance law, this followed the nationaliztion of the non-life sector in 1972.
 
