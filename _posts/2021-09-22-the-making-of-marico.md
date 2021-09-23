@@ -56,7 +56,7 @@ At the same time a Calcutta based Shalimar Chemical (it was founded by Prakritin
 ### The Market Visit
 Harsh decided to visit market to have a deeper understanding of demand. Since Nagpur was closer than Calcutta (Shalimar's hub), Harsh first went to the Nagpur market. ‘It was an eye-opener for me', he will later said. The Nagpur visit was followed by a visit to Calcutta and here, too, he was fascinated at the retail opportunity that existed in the market for Parachute. 
  
- ### The Packing
+### The Packing
 Marketing strategists are like interior decorators; they set the colours, textures and shapes, but the starting point is often Packing. As, Harsh started focusing on branding and distribution of their two brands. “Retailing our own brand in smaller consumer packs seemed the obvious answer to me then,’ recalled Harsh.
 
 They started selling the oils in small volumes of 1 and 2 kg tins. And, were also the first to introduce smaller packs of 100, 200 and 500 ml. By now in local lingo, Parachute Oil was also referred to as ‘chhata brand’ and was gaining traction. Harsh wanted to see the success of the smaller packs himself.  Plastics used to cost half of the tin, so they can save a good amount of money that can be then used in marketing. But there was a BIG problem.
@@ -84,6 +84,7 @@ He decided to name his newly formed company NOT on ‘Parachute’ or ‘Saffola
 2. ‘Mass Killer Nabbed’: how Saffola (as per medical data available then) benefitted the heart by arresting cardio disease,
 3. Lalitaji Boycotts Coconut Oil, housewife looks for branded oil.
 These three advertisements served their purpose and created the required buzz.
+
 ### HUL vs Marico
 [India after liberalisation](https://www.thebizdom.in/from-ideology-to-modernity-the-30th-anniversary-of-lpg/) was changing. In most of the sectors, there was suppliers market. These few parties were selling products and services, and those parties can therefore fix their selling price as they wish.
 In these changing times, HLL (HUL's old name) was interested in Parachute as they had acquired a brand of coconut oil—Tata Hair Oil—which became theirs after their acquisition of Tata Oils Mills Company (TOMCO) in 1993.  Since they can’t use Tata as a brand, they had decided to launch it under Nihar in 1999. But they wanted to expand fast so they thought of buying out Mr. Marilwala also. 
