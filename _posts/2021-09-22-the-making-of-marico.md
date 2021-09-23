@@ -80,7 +80,8 @@ He decided to name his newly formed company NOT on ‘Parachute’ or ‘Saffola
 3. Lalitaji Boycotts Coconut Oil, housewife looks for branded oil.
 These three advertisements served their purpose and created the required buzz.
 ### HUL vs Marico
-HLL (HUL's old name) was interested in Parachute as they had acquired a brand of coconut oil—Tata Hair Oil—which became theirs after their acquisition of Tata Oils Mills Company (TOMCO) in 1993.  Since they can’t use Tata as a brand, they had decided to launch it under Nihar in 1999. But they wanted to expand fast so they thought of buying out Mr. Marilwala also. 
+[India after liberalisation](https://www.thebizdom.in/from-ideology-to-modernity-the-30th-anniversary-of-lpg/) was changing. In most of the sectors, there was suppliers market. These few parties were selling products and services, and those parties can therefore fix their selling price as they wish.
+In these changing times, HLL (HUL's old name) was interested in Parachute as they had acquired a brand of coconut oil—Tata Hair Oil—which became theirs after their acquisition of Tata Oils Mills Company (TOMCO) in 1993.  Since they can’t use Tata as a brand, they had decided to launch it under Nihar in 1999. But they wanted to expand fast so they thought of buying out Mr. Marilwala also. 
 
 Nihar owned roughly 15% of the market share. After its acquisition, HUL was eyeing to capture Parachute’s market.
 
