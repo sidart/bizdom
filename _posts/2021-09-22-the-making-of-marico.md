@@ -46,15 +46,16 @@ The finances of these various companies were handled by Jaisinh.
 Marketing is to both identify the needs of target customers and to offer products or services that can satisfy these needs. One of their brands, Parachute Oil, was sold wholesale in 15 kg tins and larger barrels. It soon established itself as one of India’s superior quality oils. The brand derived its name, obviously, from the then-novel parachutes of World War II. 
 These were a novelty in the Indian subcontinent at that time. A parachute denoted safety and reliability. 
 
-In the 1960s, medical research identified safflower oil as beneficial to heart health due to its high content of polyunsaturated fatty acids. Second brand of Bombay Oil, named ‘Saffola’ by Hansraj, was launched in 1965. In those days, ‘ola’ was the preferred suffix used by manufacturers to brand packed oil. Thus, ‘saffola’ it was ‘safflower’—i.e., ‘saff’—followed by ‘ola’.
+In the 1960s, medical research identified safflower oil as beneficial to heart health due to its high content of polyunsaturated fatty acids. Second brand of Bombay Oil, named ‘Saffola’ by Hansraj, was launched in 1965. In those days, ‘ola’ was the preferred suffix used by manufacturers to brand packed oil. Thus, ‘saffola’ was ‘safflower’—i.e., ‘saff’—followed by ‘ola’.
 
 ### Branding a commodity
 In the ’60s and ’70s, oil was sold in tankers, barrels, and 15-kilogram tin containers. Most of it was not branded. Though the 15 kg tins were sold under their brand names, Parachute and Saffola, not much was invested in building those brands. Thus, neither of the brands could command a significant volume and market share. 
 ![](https://res.cloudinary.com/thebizdom-in/image/upload/v1632418312/Screenshot_2021-09-23_at_10.38.21_PM_ihtkcu.png)
-At the same time a Calcutta based Shalimar Chemical (it was founded by Prakritinath Bhattacharjee in 1941) was gaining ground riding on their success of smaller packs.
+At the same time a Calcutta based Shalimar Chemical (it was founded by Prakritinath Bhattacharjee in 1941) was gaining ground, riding on their success of smaller packs.
 
 ### The Market Visit
-Since Nagpur was closer than Calcutta, Harsh first went to the Nagpur market. ‘It was an eye-opener for me', he will later said. The Nagpur visit was followed by a visit to Calcutta and here, too, he was fascinated at the retail opportunity that existed in the market for Parachute. 
+Harsh decided to visit market to have a deeper understanding of demand. Since Nagpur was closer than Calcutta (Shalimar's hub), Harsh first went to the Nagpur market. ‘It was an eye-opener for me', he will later said. The Nagpur visit was followed by a visit to Calcutta and here, too, he was fascinated at the retail opportunity that existed in the market for Parachute. 
+ 
  ### The Packing
 Marketing strategists are like interior decorators; they set the colours, textures and shapes, but the starting point is often Packing. As, Harsh started focusing on branding and distribution of their two brands. “Retailing our own brand in smaller consumer packs seemed the obvious answer to me then,’ recalled Harsh.
 
