@@ -101,4 +101,6 @@ After a decade, Marico acquired Nihar in 2006.
 ### Mediker
 They started acquiring few more brands, one of the key pick was Mediker. The brand was originally from Proctor & Gamble and in 1999 Marico bought it for 10 crore. For P&G it was a Sunday to Sunday brand of Anti-Lice shampoo. Marico folks felt that people used to oil their hair more than they shampoo it. So, Mediker anti-lice oil was launched within two years of its life with them. 
 ## FMCG Gaint in Making
-From commodities oil to 2 key brands: Parachute and Saffola. Today, Marico has many brands offering Set Wet, Hair & Care, Nihar, Shanti, Mediker, Revive, Kaya, Sundar, and SIL.
+From commodities oil to 2 key brands: Parachute and Saffola. Today, Marico has many brands offering Set Wet, Hair & Care, Nihar, Shanti, Mediker, Revive, Kaya, Sundar, and SIL. 
+![](https://pbs.twimg.com/media/ErS5zojU0AE7yM1?format=jpg&name=medium)
+Today, Market Size of Value-added Hair oil as per Marico is Rs. 82 bn.
