@@ -44,4 +44,4 @@ Burger King Fans can see the return of McD:
 Every generation of investors seems to have to relearn this lesson. Nifty Fifty of the early 1970s. Sky high valuations in the late 1990s. And the price of many excellent businesses right now. As Aswath Damodaran says 
 > “We have all these people telling you to buy a quality company. That's really bad advice. If you buy a quality company that everybody else recognizes as a quality company, you're going to pay through the roof. Good companies can be bad investments….”
 
-END NOTE: Go for GARP (Growth-at-reasonable-price), Not BAAP.
+END NOTE: Just because someone is stating something as if it’s a fact doesn’t make it so. Do your research before you invest or take action based on opinions. Avoid the trap of making assumptions about people’s opinions. I still go for GARP (Growth-at-reasonable-price), Not BAAP.
