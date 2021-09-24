@@ -71,7 +71,9 @@ Their solution was simple—round bottles made of superior plastic. The rats wou
 Harsh grasped the opportunity to extend the other brand, Saffola, in the urban market as well. Saffola was still a niche business, selling in south Bombay and the posh localities of New Delhi. Along with a national distribution of Parachute, which was slowly but surely bearing fruit. 
 Saffola recipe books based on cholesterol-reducing diets using Saffola oil were freely circulated. Brand Saffola was also promoted through doctors.
 
-Despite these success, Harsh felt extremely ‘boxed in’ and suffocated. On the one hand, he envisioned building a large and successful FMCG business and could clearly sense this opportunity. they decided that their interests were best served if they carved out the businesses of Bombay Oil into separate companies. By 1980s business was divided as:
+Despite these success, Harsh felt extremely ‘boxed in’ and suffocated. On the one hand, he envisioned building a large and successful FMCG business and could clearly sense this opportunity. Plus, Innovation does need money. It always requires a budget that permits the routine and boring things that let you do the creative and risky things too.
+
+Finally, Mariwalas decided that their interests were best served if they carved out the businesses of Bombay Oil into separate companies. By 1980s business was divided as:
 1. Epro Biotechnologies to make hybrid seeds,
 2. Kancor Flavours as the Spice extracts division,
 3. Hindustan Polyamides and Fibres as speciality chemicals company, and
