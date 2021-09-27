@@ -27,7 +27,8 @@ People were awarded titles by native or foreign rulers, by the community, or by 
 
 **Deo** was again a title used by ruling families in northern India, and the name is found in several communities. This come from Sanskrit deva ‘god, lord’.
 #### Village headman
-Patel and Patil derive from ‘a piece of land’ and referred to a landowner/tenant farmer. Taluqdar = Taluk (depend) + dar (holder). Desai = lord of the Desa (land). All of them were responsible for collecting taxes for the kings. Reddy was another such title. 
+Patel and Patil derive from ‘a piece of land’ and referred to a landowner/tenant farmer. Desai = lord of the Desa (land). All of them were responsible for collecting taxes for the kings. Reddy was another such title. Derived from “Rashtrakuta” (Solar Race) which is Sanskrit for “Rettakudi”. Rettakudi turned to Rettadi and later Reddy. 
+
 **Chowdhury** were also the head of a community or caste, from Sanskrit /čatus-/‘four- way, all-round’ + /dhurīya/‘undertaking a burden (of responsibility)’. **Deshpande** and Deshmukhs were 'district accountant/leader’, formerly a hereditary office (from Sanskrit /deša/‘country, district’ + /pandita/‘learned man’). **Mehta** was another name used for the Chief (Sanskrit mahita = great and magnify) however in Gujarati it has come to mean ‘teacher’ or ‘accountant’. 
 
 Nath, has its origins in a Sanskrit word “natha” meaning lord. Dhar was also village chief, a warlord, or the head accountant.
@@ -82,7 +83,7 @@ Kotwal was the police incharge of a town, Darogah and Thanedar will work under h
 
 Munsaf/ Munsif were the Judge,  Munshi were the secretary of a Noble, and Havaldar and Subedar was a rank in Army. 
 
- **Chawla** were the dealer of Chwal/Rice and **Doshi** from Persian /dush/‘shoulder’, denoting a hawker selling cloth (because the cloth was carried over the shoulder). 
+ **Chawla** were the dealer of Chwal/Rice and **Doshi** from Persian /dush/‘shoulder’, denoting a hawker selling cloth (because the cloth was carried over the shoulder). Saini is said to have a lineage of the  Yaduvanshi Rajputs of Mathura . However, it was also a title to suggest Head of army.
  
 Razdan came from Persian word “Raz,” meaning “secret” with the suffix “Dan,” meaning “keeper.” 
 
