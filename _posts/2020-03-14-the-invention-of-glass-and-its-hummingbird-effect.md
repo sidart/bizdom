@@ -47,6 +47,8 @@ In 1757 John Dolland (an English optician) used crown and flint glass to produce
 ### The Biology
 In 1590 at Middleburg in the Netherlands, father and son spectacle makers Hans and Zacharias Janssen experimented with lining up two lenses, not side by side like spectacles, but in line with each other, magnifying the objects they observed, thereby inventing the microscope.
 
+Science in 17th -century was revolutionized when Antonie van Leeuwenhoek expanded the microscopic world. As a Dutch lens-maker, he made more than 500 microscopes, and thus was the world’s first microbiologist. Curious about everything that could be placed under a microscope, he examined plant and animal tissue, insects, fossils and crystals. 
+
 Robert Hooke, a British scientist used this microscope to identify the cell as the basic unit of life. 
 Microscopes would later reveal the invisible colonies of bacteria and viruses that both sustain and threaten human life, which led to modern vaccines and antibiotics.
  
