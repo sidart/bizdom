@@ -17,10 +17,8 @@ History of face cream goes back to ancient Egyptians. They discovered early on t
 
 Ancient Romans loved the smooth, unlined skin that resulted from avoiding the sun. The rich slathered their faces with expensive Arabian oils that incidentally worked against wrinkling. The poor used animal fat, bacon rinds, clay, chalk and even plaster mixed with vinegar. 
 ### Galen’s Wax
-Aelius Galenus, sometimes called Claudius Galenus and Galen, was a Greek doctor in the Roman empire (129 CE-216 CE). He contributed to our understanding of anatomy, physiology and pathology among other medical disciplines. Surprise, he also invented what we now know as the cold cream. 
+Aelius Galenus, sometimes called Claudius Galenus or Galen of Pergamum. He was a Greek doctor in the Roman empire (129 CE-216 CE)  was the physician of Roman Emperors. He contributed to our early understanding of anatomy, physiology and pathology among other medical disciplines. Accidentally, he also invented what we now know as the cold cream. 
 
-He mixed water, beeswax and olive oil to create the first cold cream, but later versions also used a mix of almond oil, rose petal extract and beeswax. 
-
-
+He mixed water, beeswax and olive oil to create the first cold cream, but later versions also used a mix of almond oil, rose petal extract and beeswax.  These were the key moisturizer ingredients of the cold cream formulated by him.
 
 In France, it is still known as cérat de Galien (Galen’s Wax).
