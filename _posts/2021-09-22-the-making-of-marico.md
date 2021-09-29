@@ -54,6 +54,8 @@ In the ’60s and ’70s, oil was sold in tankers, barrels, and 15-kilogram tin 
 At the same time a Calcutta based Shalimar Chemical (it was founded by Prakritinath Bhattacharjee in 1941) was gaining ground, riding on their success of smaller packs.
 
 ### The Market Visit
+> If you’re going to do something, do something that matters.
+
 Harsh decided to visit market to have a deeper understanding of demand. Since Nagpur was closer than Calcutta (Shalimar's hub), Harsh first went to the Nagpur market. ‘It was an eye-opener for me', he will later said. The Nagpur visit was followed by a visit to Calcutta and here, too, he was fascinated at the retail opportunity that existed in the market for Parachute. 
  
 ### The Packing
