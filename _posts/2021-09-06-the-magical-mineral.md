@@ -21,7 +21,7 @@ But where did the English name for diamond come from? Well, ancient Greeks knew 
 
 The adjective ‘adamas’ implied the hardest substance, a reference to the hardness of the gemstone. Latin writers, at times, used the word as ‘adamant’ and ‘adimant’ among other variations. Over time, the words changed form to ‘diamant’ and finally came to be known as diamond.
 
-Large diamond gemstones have no use except to arouse wonder and awe and, most importantly, to affirm status. 
+Large diamond gemstones have no use except to arouse wonder and awe and, most importantly, to affirm status.  India was the sole source of diamonds until the mid eighteenth century, when they were discovered in other parts of the world, most notably South Africa.
 
 ### Diamonds are forever
 Before the twentieth century only the truly rich could afford them, due to the tight supplies of these diamonds. But with the  growing wealth of the European middle classes, a new market for diamond miners got emerged.  However, soon we had a problem of extra suppies. DeBeers, which in 1902 controlled 90% of the world’s diamond production, faced this puzzle of "how to sell to this much bigger market without devaluing the gems in the process". 
