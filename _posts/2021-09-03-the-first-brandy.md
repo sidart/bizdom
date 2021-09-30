@@ -8,7 +8,7 @@ subtitle: History of brandy, brandy 'aqua vitae' or the water of life, Arnaldus 
   Villanova
 description: The spirit distilled from the fermented juice of fruit, called brandy,
   is among the most important beverages in the world.
-category: curiosity
+category: inventions
 tags:
 - Trivia
 ---
