@@ -7,7 +7,7 @@ image: https://res.cloudinary.com/thebizdom-in/image/upload/v1627149872/autom_jv
 subtitle: Babbage inspired Marx’s theories on the future of labour.
 description: How the early days of computers planted the seed for Mary Shelley’s Frankenstein
   and also gave the break to Edgar Allan Poe for his invention of the detective story.
-category: technology
+category: inventions
 ---
 
 Automation is the technique in which a task is performed in a shorter period of time with reduced human effort. The mordern coinage of the term is attributed to D.S. Harder, an engineering manager at the Ford Motor (in 1940s). But given the term is mostly related to computer, so here is intresting version of it's origin. 
