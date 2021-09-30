@@ -23,12 +23,14 @@ By the 1600s cotton textiles from Asia started arriving in Europe. European trad
 
 ## Cotton in USA
 Given it was too labour intensive, EIC took a leaf from what Spain’s playbook for Tobacco in North America with Tobacco & decided to start Cotton in the USA.
-Then in 1793, Eli Whitney’s cotton gin (it was machine that separated cottonseed for the short-staple cotton fiber) made it possible to profitably grow cotton in the US. The technological improvements in British textile mills created a strong demand for this cotton.
-The virtuous circle was at work. Improvements in one industry-led to developments in another. Trains on their iron rails brought coal to the cities to power the cotton mills. & cotton, rail & iron were soon the three leading industries.
+### The Cotton gin
+After graduating from Yale University in 1792, American inventor Eli Whitney wanted to pursue law. However, he saw an opportunity to improve productivity in cotton plantations. There were no cost-effective means to separate seeds from cotton fibre and Whitney ended up inventing the ‘cotton gin’ to do the job—gin is short for engine. The machine’s invention ended up strengthening slavery in the southern states of America. Whitney was also a proponent of mass production of interchangeable parts for rifles. That gave the North the manufacturing prowess to win the Civil War (1861–1865).
+
+The technological improvements in British textile mills created a strong demand for this cotton. The virtuous circle was at work. Improvements in one industry-led to developments in another. Trains on their iron rails brought coal to the cities to power the cotton mills. & cotton, rail & iron were soon the three leading industries.
+
 An era of the Industrial Revolution got started, along with the Coal & Steam. The slave-grown cotton from the US was providing the raw material. The global centre of this trade was Liverpool. The finished cloth was then exported everywhere. Money was being minted. 
 
-### The cotton gin
-After graduating from Yale University in 1792, American inventor Eli Whitney wanted to pursue law. However, he saw an opportunity to improve productivity in cotton plantations. There were no cost-effective means to separate seeds from cotton fibre and Whitney ended up inventing the ‘cotton gin’ to do the job—gin is short for engine. The machine’s invention ended up strengthening slavery in the southern states of America. Whitney was also a proponent of mass production of interchangeable parts for rifles. That gave the North the manufacturing prowess to win the Civil War (1861–1865).
+
 ### Cotton = Capitalism
 We link Capitalism with wage workers, but that’s not how it got started. At the start, it was about slavery. While cotton fueled factories, its growth & production were inextricably linked to slavery. Slave trade = Slaves from Africa been exchanged for raw cotton in America.
 
