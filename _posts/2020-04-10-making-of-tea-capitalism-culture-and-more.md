@@ -54,6 +54,8 @@ Many of us enjoy Earl Grey tea, traditionally a blend of black tea flavoured wit
 ### Wars with China
 By now, EIC was struggling to keep their Chinese supplies, since the Chinese were only interested in the Silver, which was again in short supplies. Plus, In 1833, their charter was amended, removing the monopoly of the Chinese tea trade.
 
+> In the 18th century, China was pretty much the only producer of tea in the world. True to stereo-type, we’d do anything we could to get our hands on the stuff. Unfortunately for us, China didn’t really want anything we had to trade.
+
 Tea is an addiction and they needed another addiction to solve their problem. EIC was already growing Opium in India to be sold in Britain and they decided to export this to China. Chinese govt. Objected (as everyone was getting addicted to this). 
 But, after two Opium Wars and the Treaty of Nanking (1842) was signed between EIC and China (Treaty was signed on a boat that was made by the Business House of Wadia, while the House was Tata were deeply involved in selling the Opium along with EIC), and EIC got Hong Kong.
 
