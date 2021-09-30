@@ -80,4 +80,4 @@ Aftermath: the Supreme Court also ordered for a CBI probe into the massive funds
 
 "Life eventually boils down to a choice- you either stand by your principles and responsibility, or you don't."
 
-SR can still claim to be innocent, while his innocent customer got duped.
+Mr. Roy can still claim to be innocent, while his innocent customer got duped. Opportunities are a gift. They give us the chance to practice, learn and grow. But then the gift comes with an expiry date also.
