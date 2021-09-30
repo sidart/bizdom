@@ -23,7 +23,8 @@ Then Finally in 2018, after 11 failed attempts (in 12 years), our Mr. Born Moron
 
 And, in the aftermath of Covid, Sid started giving a lot of unwanted Gyan on Twitter. Surprisingly, he got a decent audience, which forced him to make that a [weekly affair](https://www.notion.so/Published-Twitter-Threads-c9384bf53c8447f7b6834a5e6b643209). And, then the idea of collecting the same and expanding them further in a long form of post was demanded. That’s when we decided to have a web space for ourself. 
 ### Themes
-Merchant, Market & Commodity.  Why certain communities were rich, What makes them rich, and why certain location attracts them the most. How certain innvoations changed our world.
+Merchant, Market & Commodity.  Why certain communities were rich, What makes them rich, and why certain location attracts them the most. How certain innvoations changed our world. 
+"Nothing Comes from Nothing." Everything in the world is in transition, changing continuously. Today's opening was created by yesterday's closing.'
 
 We will try to explain these through Economic, Political, Social and Geographical factor. At the same time try to be sometime be little current with things related to stock markets and economic activities.
 
