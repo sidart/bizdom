@@ -153,3 +153,5 @@ Today, a huge amount of plastic waste is generated each month as a byproduct of 
 Over the last 3 years, Zomato has lost >Rs4000 crores. But the excitement of having a rising star in your portfolio can make you ignore this. 
 
 It is said that the public market values companies on numbers rather than narratives. This will be a testing time for this saying, esp in this bull market, since despite of whatever I have put together, **this will be a watershed moment!**
+
+But then, to make rational decisions in an uncertain world, you have to be able to sort reliable information from misinformation, and the credible from the incredible.
