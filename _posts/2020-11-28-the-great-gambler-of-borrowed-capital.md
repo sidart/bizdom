@@ -73,11 +73,12 @@ When SEBI’s efforts of sending notices to lakhs of investors, a mere few came 
 
 Sahara never had any strong business model for most of their business. And, most of their business was a big failure. Their para-banking (as they used to call it) was just a Ponzi Scheme backed by a strong network of people. These agents in the hope of 20-25% commission kept the engine going on and on.
 
-When there was pressure by SEBI, most of the investors were asked to sign a few documents. Sahara was giving them (I was one of those who signed such document, without reading much in 2011) a new bond of their new retail venture (Sahara Q).
+> Opportunities are a gift. They give us the chance to practice, learn and grow. But then the gift comes with an expiry date also. 
 
+When there was pressure by SEBI, most of the investors were asked to sign a few documents. Sahara was giving them (I was one of those who signed such document, without reading much in 2011) a new bond of their new retail venture (Sahara Q). 
 ### Make Money Your God And It Will Plague You Like the Devil. 
 Aftermath: the Supreme Court also ordered for a CBI probe into the massive funds collected by Saradha Chit Fund and other such companies in West Bengal, Orissa and Assam. This later opened another pandora box.
 
 "Life eventually boils down to a choice- you either stand by your principles and responsibility, or you don't."
 
-Mr. Roy can still claim to be innocent, while his innocent customer got duped. Opportunities are a gift. They give us the chance to practice, learn and grow. But then the gift comes with an expiry date also.
+Mr. Roy can still claim to be innocent, while his innocent customer got duped. Hope often brings you surprises. While it may be good, or bring out the best in people, it can sometimes be dangerous.
