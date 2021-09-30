@@ -33,4 +33,6 @@ The private secretary to the chairman of the East India Company, were waiting to
 The wooden box and four keys were handed over to the Company’s chairman, John Shepherd. After two days, Kohinoor diamond was gifted to Queen Victoria on July 3rd 1850 CE, at the Buckingham Palace. 
 
 ![](https://public-media.si-cdn.com/filer/e2/fb/e2fbb200-a562-4cf8-bfe5-8a0dd5e57b0b/nadir_shah_on_the_peacock_throne_after_his_defeat_of_muhammad_shah_ca_1850_san_diego_moa.jpg)
-Nader Shah on the Peacock Throne, whose jewels included the Koh-i-Noor diamond.
+Nader Shah on the Peacock Throne, whose jewels included the Koh-i-Noor diamond. 
+
+> Nader Shah looted Mughal Delhi, taking away with him the Peacock Throne, into which was embedded the legendary Koh-i-Noor diamond. He returned to Persia, leaving Muhammad Shah a powerless king with an empty treasury and the Mughal Empire bankrupt and fractured beyond repair.
