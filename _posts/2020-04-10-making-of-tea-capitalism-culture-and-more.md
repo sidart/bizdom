@@ -56,8 +56,11 @@ By now, EIC was struggling to keep their Chinese supplies, since the Chinese wer
 
 > In the 18th century, China was pretty much the only producer of tea in the world. True to stereo-type, we’d do anything we could to get our hands on the stuff. Unfortunately for us, China didn’t really want anything we had to trade.
 
-Tea is an addiction and they needed another addiction to solve their problem. EIC was already growing Opium in India to be sold in Britain and they decided to export this to China. Chinese govt. Objected (as everyone was getting addicted to this). 
-But, after two Opium Wars and the Treaty of Nanking (1842) was signed between EIC and China (Treaty was signed on a boat that was made by the Business House of Wadia, while the House was Tata were deeply involved in selling the Opium along with EIC), and EIC got Hong Kong.
+Tea is an addiction and they needed another addiction to solve their problem. EIC was already growing Opium in India to be sold in Britain and they decided to export this to China. By 1833, they were smuggling 30,000 chests (weighing around 1,950 metric tons) of Opiums. Chinese govt. Objected (as everyone was getting addicted to this). 
+
+But, after two Opium Wars and the Treaty of Nanking (1842) was signed between EIC and China (Treaty was signed on a boat that was made by the Business House of Wadia, while the House was Tata were deeply involved in selling the Opium along with EIC), and Hong Kong, was also ceded to Britain.
+
+> In 1820, before the First Opium War, China’s economy was the largest in the world. After the end of the Second Opium War, East India Company left them with half the GDP and millions of drug addicts.
 
 Hong Kong growth is mix of Opium and Tea trade.  Hongs (big trading houses) were involved in opium trades and the driving force behind shaping the ‘barren rock’ into a successful trading port.
 Built-in 1846, today Hong Kong’s oldest colonial building, houses the Museum of Tea Ware.
