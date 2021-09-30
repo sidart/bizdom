@@ -12,7 +12,7 @@ subtitle: How two successes were undone by one mistake.
 description: Entrepreneurship is both admirable and dangerous. At times “high risk,
   high reward” bets bring the thrill. But then, not all stories prove to be happy
   ones.
-category: commodity
+category: commodities
 ---
 
 ## Tea
