@@ -14,4 +14,4 @@ tags:
 
 During the mid-19th century, two prominent physicians began to champion smoking as a treatment for asthma. Many doctors thought patients could breathe easy if they puffed on pipes filled with tobacco—the belief, which appears bizarre now, was that smoke could heal the lungs. 
 
-British physician Henry Hyde Salter, for instance, was one of its proponents. He prescribed tobacco and other sedatives for relief. He believed that asthma was caused by nervousness or excitement, which were said to lead to spasms of the bronchial tube muscles.
+British physician Henry Hyde Salter, for instance, was one of its proponents. He prescribed tobacco and other sedatives for relief. He believed that asthma was caused by nervousness or excitement, which were said to lead to spasms of the bronchial tube muscles. He advocated the use of tobacco, as it would induce a state of ‘vertigo, loss of power in the limbs, a sense of deadly faintness, cold sweat, inability to speak or think, nausea and vomiting.’
