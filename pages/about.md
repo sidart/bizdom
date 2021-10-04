@@ -1,7 +1,7 @@
 ---
 title: About
 layout: page
-description: Some description.
+description: The Bizdom Folks
 permalink: "/about/"
 ---
 
