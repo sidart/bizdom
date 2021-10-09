@@ -73,7 +73,7 @@ The Mughals followed a system of free minting under which anyone was free to bri
 
 Revenue collection of the Maratha State. The assignment of revenue rights to a rent collector (ijardar), who were accountable to a group of Sahukar/moneylenders (**Potedars, Poddars**). When the state needed money, it would issue a money warrant accompanied by letter of credit to them, were known as Varat.
 
-**Bakshi/Baxi** is believed to have originated from the Persian word "bakhshesh" (charitable giving), and meant to be a paymaster. During Mughal, Mir Bakshi was in charge of military pay and accounts office. 
+**Bakshi/Baxi** is believed to have originated from the Persian word "bakhshesh" (charitable giving), and meant to be a paymaster. During Mughal, Mir Bakshi was in charge of military pay and accounts office. Munshi was a clerk, Nagari (a person who beats a drum, a person employed for making announcements at the beat of the drum got this nickname).
 
 **Fadnavis**, came from two Persian words, Fad and navis, and literally translated from Persian to English as ‘Maker of the Lists’. The powers of Phadnavis in Maratha administration was that of a Finance Minister. Inamdar were given the land as Inam (prize). 
 
@@ -153,7 +153,9 @@ Muslim Khojas were another group of successful merchants. The name Khoja, or Khw
 
 **Afzal** (Arabic form: Afdal) ‘best’ or ‘learned’. Mukhtar was an 	occupational name based on Arabic mukhtār ‘chosen’, in some areas the title of a village chief. 
 
-Naqvi  was a Religious Head and Nazir were superintendent of a Religious Place. Qazi / Kazi were Judge, in accordance with the Islamic Religious Law. 
+Kirmani (from Kirman in Iran), Gilani (Gilan Province of Iran), and Durrani (someone who or whose ancestors must have served Durrani Pathans).
+
+Naqvi  was a Religious Head and Nazir were superintendent of a Religious Place, or a court clerk. Qazi / Kazi were Judge, in accordance with the Islamic Religious Law. 
 ## The walas
 The Parsi community did not adopt surnames until the age of the British rulers. During the British rule, to be able to identify and track people, the Britishers demanded a list of Indian family names, esp in the cities as they were doing the Census of 1911. So most Urban families decided to adopt their profession as their family name as all the men of a family would be in the same trade. The suffix wala is used to identify the profession of the person. 
 
