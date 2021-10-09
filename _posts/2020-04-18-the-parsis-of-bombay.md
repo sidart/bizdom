@@ -21,7 +21,7 @@ category: community
 Back in Europe, they needed a strong ally, so their princess was married to English’s prince & Bombay ended up with Royal Crown and hence they offered this to East India Co, who rejected saying the cost is too high. Royal Crown tried on their own and failed royally, and hence again offered EIC at a huge discount.
 
 ### The Early builder
-EIC took it, but they needed human capital. A militia of Bhandaris, that was until then had made their living brewing liquor, was raised to ensure security. Muslim weavers were approached, Hindu bankers and traders and  Parsis traders & Shipbuilders. 
+EIC took it, but they needed human capital. A militia of Bhandaris, that was until then had made their living brewing liquor, was raised to ensure security. Muslim weavers were approached, Hindu bankers and traders and  Parsis traders & Shipbuilders. The Parsis had migrated to Gujarat in the 7th century. With the rise of the British in Western India, the Parsis' association with them began to grow. The Parsis became the first Indian community to establish a close rapport with them. 
 
 Soon the Shipyard built by Mr. Wadia was the linchpin for EIC’s Opium Trade. While EIC was also doing the trade from Calcutta (mostly British agencies). But Parsis traders as middlelayer was a better way to push this.
 
@@ -29,18 +29,26 @@ Parsi merchants like Jeejeebhoys, Jivanjis, Banajis (Ghoga Street: Ghoga was the
 
 “Factory” system, with its continuing dependence on local traders and capital, persisted for roughly 2 centuries.  Traders such as the Banajis, the Amichunds, Tatas and the Jejeebhoys were able to build mansions within the walls of the Fort—Bombay’s original gated community.
 
-Jivanji among the first Parsis to go China and establish business contacts (1700s). Trade proved profitable and made them adopt a new family surname (Readymoney: as they were always ready with money!). 
+
+The Parsis became the agents and brokers of the British, learnt the British business methods like joint stock companies. They undertook trade with China and other countries, and became merchant princes and potential investors. Jivanji among the first Parsis to go China and establish business contacts (1700s). Trade proved profitable and made them adopt a new family surname (Readymoney: as they were always ready with money!). 
+
+When the Great Indian Peninsula Railway Company was launched, Framji Cowasji Banaji was the first and the only Indian to purchase its shares.
+
 
 ### Cotton
 From the 1850s, composition of export changed from Indigo and opium to [cotton](https://www.thebizdom.in/how-cotton-shaped-our-world/), jute and [tea](https://www.thebizdom.in/making-of-tea-capitalism-culture-and-more/). Lincoln’s abolition of slavery in America led to the American Civil War in the 1860s and abruptly cut off the supply of cotton from the Southern United States to the mills of Lancashire. The opening of the Suez Canal in 1869 had increased Cotton trade considerably from Bombay.
 
-Soon the profits accumulated were reinvested into manufacturing. Cawasji Davar will start the 1st mill in 1856. Bombay as the India’s cotton manufacturing hub was ready to takeoff. Dinshaw Petit was another early mill owner (grandfather of Rattanbai who was the wife of Jinnah).
+In 1851, Cowasjee Nanabhoy Davar mooted the idea of establishing a textile mill, and floated Bombay Spinning and Weaving Mills as a joint stock company in 1854. It started production on February 7, 1856 and was the first operational steam-powered cotton mill in Asia to do so. Bombay as the India’s cotton manufacturing hub was ready to takeoff. 
+
+Nusserwanjee Maneckjee Petit floated Oriental Spinning and Weaving Company in 1855, Dinshaw Petit was another early mill owner (grandfather of Rattanbai who was the wife of Jinnah). In 1857 Davar again floated the Bombay Throstle Mill Company which produced yarn in 1859. 
 
 ### The Land Owners
 They also invested in real estate: Dadabhai Wadia, owned huge land in the early 19th century. Cursetji Maneckji owned Anik, Dhakji Dadaji owned Versova, Framji Cowasji (Powai estate), Jamestji Bomanji (Vile Parle, Juhu); Cursetji Cowasji (Goregaum); Ratanji Edulji (Ghatkopar).
 
-### Other expansions
-They invested in British bank shares and sometimes became directors of the early British companies. The Central Bank was established in 1911 by a Parsi house, and merged with the Tata banking business in the 1920s. Becoming partner is Railways also. 
+### Banking and Insurance
+ They also invested in other British bank shares and sometimes became directors of the early British companies. In 1835. the first savings bank was opened in Bombay and Jamsetjee Jejeebhoy was one of its directors.  The Commerical Bank of India was founded in 1845 and the Mercantile Bank of India, London and China in 1853. Cowasjee N. Davar was a promoter of both the banks. In 1844 the Parsi merchants of Mumbai set up the Parsi Insurance Society, to insure their ships.
+ 
+The Central Bank was established in 1911 by a Parsi house, and merged with the Tata banking business in the 1920s. Becoming partner is Railways also. In 1919, the New India Assurance Company was started by Tata’s  in the wake of the growing [Swadeshi Movement](https://www.thebizdom.in/swadeshi-movement/).
 
 ## Public Life
 Dadabhai Naoroji and Mancherjee Bhownaggree (both Parsi) were the first 2 Indian to be in House of Common, later Dadabhai will earned a lasting place in modern Indian history. Bhikaji Cama will unfurled 1st Indian flag in Germany.
