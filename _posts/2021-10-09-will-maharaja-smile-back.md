@@ -12,7 +12,9 @@ tags:
 - Tatas
 ---
 
-Success is a word tagged with different meanings to many. It could mean success in life, professional career or personal life. It could also mean the attainment of personal fulfillment through gain and achievement. For the House of Tata’s running an Airline is one of those successes, it all started with JRD Tata’s baby Air India. 
+Success is a word tagged with different meanings to many. It could mean success in life, professional career or personal life. It could also mean the attainment of personal fulfillment through gain and achievement. 
+
+For the House of Tata’s running an Airline is one of those successes, it all started with JRD Tata’s baby Air India. 
 
 ## Origin
 Imperial Airways, used to operate an air service from London to Karachi, and was planning to extend their service eventually onto Australia in stages. Just around those times, J.R.D. Tata, who had received his pilot's licence a few months prior, was meeting Nevill Vintcent, a retired RAF pilot. Convinced of the great future of civil aviation, Vintcent left the RAF in 1926 and engaged in air survey work in India and Burma.
@@ -22,10 +24,12 @@ Vintcent found a willing partner for his Airlines idea, and JRD for his part wel
 They proposed to bring the mail to Bombay via Ahmedabad and then onward to Madras via Bellary and Bangalore. When Vintcent's proposal came to the Tatas they were still recovering from their earlier downswing, and then chairman of Tatas, Sir Dorab, took his time. When Mr J.R.D. Tata became the Group chairman, one of his first moves was the setting up of Tata Aviation Service in 1932. 
 
 On 15 October 1932, J.R.D. Tata, aged twenty-eight, took off from Drigh Road airport, Karachi at 6.35 a.m. southbound for Bombay via Ahmedabad carrying India's first airmails. Dressed in white trousers and a white short-sleeved shirt.
-The year after the war ended, 
 
-In 1933, Tata Airlines started full operations. It had one Puss Moth and one Leopard Moth aircraft, one palm-thatched shed to operate from and one whole time pilot assisted by J R D Tata and Neville Vintcent
-It was earlier a division of Tata Sons. JRD decided to issue shares distributing the ownership between the Tatas, the government, and the public at large. It was also rechristened as Air India in 1946.
+The year after the war ended, in 1933, Tata Airlines started full operations. 
+
+It had one Puss Moth and one Leopard Moth aircraft, one palm-thatched shed to operate from and one whole time pilot assisted by J R D Tata and Neville Vintcent. It was earlier a division of Tata Sons. JRD decided to issue shares distributing the ownership between the Tatas, the government, and the public at large. 
+
+It was also rechristened as Air India in 1946.
 
 ## The Maharaja
 Bobby Kooka was taken on in 1938 at a monthly salary of Rs. 100. By 1946 he was the commercial director at Air India, and well aware that Air India  needed to stand out against the global airlines giants.  
