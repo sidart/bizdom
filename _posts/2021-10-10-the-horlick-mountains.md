@@ -19,4 +19,6 @@ Not many companies or brands can claim to have a mountain named after them. But 
 
 The Horlick Mountain was discovered by an expedition team in the 1930s. 
 
-Another fun fact: Horlicks was introduced to India by the British soldiers during World War I—they took it as a diet supplement.
+Another fun fact: Horlicks was introduced to India by the British soldiers during World War I—they took it as a diet supplement. Soon, it was marketed as ‘the great family nourisher’. 
+
+In some international markets like Hong Kong, it is a popular beverage in restaurants and cafes. In a recent music video by Hong Kong-born rapper and K-pop singer, Jackson Wang, seated with his posse, orders two glasses of it in a restaurant.
