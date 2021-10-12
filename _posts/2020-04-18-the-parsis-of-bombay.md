@@ -23,7 +23,12 @@ Back in Europe, they needed a strong ally, so their princess was married to Engl
 ### The Early builder
 EIC took it, but they needed human capital. A militia of Bhandaris, that was until then had made their living brewing liquor, was raised to ensure security. Muslim weavers were approached, Hindu bankers and traders and  Parsis traders & Shipbuilders. The Parsis had migrated to Gujarat in the 7th century. With the rise of the British in Western India, the Parsis' association with them began to grow. The Parsis became the first Indian community to establish a close rapport with them. 
 
-Soon the Shipyard built by Mr. Wadia was the linchpin for EIC’s Opium Trade. While EIC was also doing the trade from Calcutta (mostly British agencies). But Parsis traders as middlelayer was a better way to push this.
+#### The Wadias
+Soon the Shipyard built by Mr. Wadia was the linchpin for EIC’s Opium Trade. Ships built at the Wadia Shipyard revolutionised the modern world, as they witnessed two major events in modern history. 
+
+The Treaty of Nanking, ceding Hong Kong to the British was signed on HMS Cornwallis, in 1842. The national anthem of the USA "Star Spangled Banner", was composed by Francis Scott Key onboard another Indian built ship (HMS Minden) when the Ship was on a visit to Baltimore. Both of these were built by Jamshedji Bomanji Wadia.
+#### The Traders
+While EIC was also doing the trade from Calcutta (mostly British agencies). But Parsis traders as middlelayer was a better way to push this.
 
 Parsi merchants like Jeejeebhoys, Jivanjis, Banajis (Ghoga Street: Ghoga was the nickname of Cowasji Banaji, as in a loud voice he used to say "Go, Go." for his ships), and Wadias ran ships to China, established their own companies & entered partnerships with British trading houses.
 
