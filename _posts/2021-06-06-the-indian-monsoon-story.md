@@ -31,6 +31,8 @@ East India monsoon, also called the South Asian monsoon, brings the annual rainf
 ![](https://pbs.twimg.com/media/E2PcWfQWEAA9IJy?format=png&name=small)
 About ~1/3 of the world's population was anyways dependent on these seasonal winds. It is explained by seasonal changes in land and sea temperatures. Typically the winds flow from sea to land in the summer (hence: wet) and from land out to sea in the winter.
 ![](https://pbs.twimg.com/media/E2PcCW9XsAwQR75?format=png&name=small)
+
+Legend has it that before leaving, Vasco Da Gama dares to ask the Zamorin of Calicut whether he may carry a pepper stalk back with him for replanting. While the Zamorin's courtiers are outraged, the Zamorin calmly responds, ‘you can take our pepper, but you will never be able to take our rains.' 
 ## Monsoon regions of India.
 ![](https://pbs.twimg.com/media/E2Pcz2EX0AQIpbP?format=png&name=small)
 The monsoons will travel towards the Malabar between May and October each year. Water currents from the south-west Arabian sea give rise to thunderstorms and showers that can last up to 10 days. Thus, the monsoon was the name given to the season of periodic winds experienced in the Indian seas. 
