@@ -54,7 +54,9 @@ But it's more than that, most of these spices also kill or inhibit food-spoilage
 
 Thus spices with the most potent antimicrobial properties are favoured in areas where foods spoil most quickly. Spices and their extracts possess preservative and natural antioxidant properties, spice extracts are popular and certain of them have antibacterial, antifungal and antiviral activities.
 ### Chilli 
-Spices are prone to spoilage by insect or microbial attack. Hence, spice oils containing all the active ingredients of spices are extracted or marketed. Chilli contains a high moisture content (65–85%) at the time of harvest, making it prone to microbial attack. So it is a general practice to dry chillies. In the food industries, it is being used in the form of oleoresin which permits better distribution of color and flavor in food. The chilli is native to Central and South America and the Caribbean islands. There are so many variations of chillies, and they come in so many shapes and colours. 
+Spices are prone to spoilage by insect or microbial attack. Hence, spice oils containing all the active ingredients of spices are extracted or marketed. Chilli contains a high moisture content (65–85%) at the time of harvest, making it prone to microbial attack. So it is a general practice to dry chillies. In the food industries, it is being used in the form of oleoresin which permits better distribution of color and flavor in food. 
+
+It is one of history's ironies that chilli eclipses pepper during the subsequent 400-year-old Portuguese affair with India that transformed the culinary landscape of India. The chilli is native to Central and South America and the Caribbean islands. There are so many variations of chillies, and they come in so many shapes and colours. 
 
 ### What before chilli, was used in India as preservatives?
 Capsaicin, the active ingredient in chili, has been implicated as a detrimental agent to the gastric problems. Along with that Chilli was also used as a preservative agent. But given that Portuguese introduced it in India. So, the question remains: what before the Chilli? 
