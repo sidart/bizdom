@@ -2,7 +2,7 @@
 title: Germany's Biggest Business Family War
 author: sidart
 category: brands
-date: '2009-01-14 00:00:00'
+date: '2010-01-14 00:00:00'
 layout: post
 image: https://res.cloudinary.com/thebizdom-in/image/upload/v1634247370/Red_Masculine_Themes_Twitter_Post_zunhfi.png
 subtitle: The rivalry that helped the two brothers to establish two major sports companies-
