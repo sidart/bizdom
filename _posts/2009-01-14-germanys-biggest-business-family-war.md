@@ -4,7 +4,7 @@ author: sidart
 category: brands
 date: '2010-01-14 00:00:00'
 layout: post
-image: https://res.cloudinary.com/thebizdom-in/image/upload/v1634247370/Red_Masculine_Themes_Twitter_Post_zunhfi.png
+image: https://res.cloudinary.com/thebizdom-in/image/upload/v1634249087/Business_war_Adidas_Puma_udjszn.png
 subtitle: The rivalry that helped the two brothers to establish two major sports companies-
   Adidas and Puma
 description: One of the most famous stories in the history of business is the feud
