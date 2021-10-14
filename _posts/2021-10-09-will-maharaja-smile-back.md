@@ -3,13 +3,15 @@ title: Will Maharaja smile back?
 author: sidart
 layout: post
 image: https://pbs.twimg.com/media/FBMjlI2UUAcRNS3?format=jpg&name=large
-category: desibrand
+category: tata
 subtitle: Air India story goes back to pre-independent India in the 1930s, all driven
   by a passionaied JRD Tata.
 description: In 1953, the government passed the Air Corporations Act, giving birth
   to two corporations. Now after 68 years Tata Group will get back their Air India.
 tags:
 - Tatas
+- DesiBrand
+- polity
 ---
 
 Success is a word tagged with different meanings to many. It could mean success in life, professional career or personal life. It could also mean the attainment of personal fulfillment through gain and achievement. 
