@@ -3,7 +3,7 @@ title: Tata War Babies
 author: sidart
 date: '2020-11-21 03:24:26'
 layout: post
-category: desibrand
+category: tata
 image: https://pbs.twimg.com/media/EnU9_LqWEAIlDdg?format=jpg&name=small
 subtitle: Businesses are the babies of the promoter, raised with their blood and sweat.
 description: Post WW1, Tata’s launched many companies, including a Bank. Given their
