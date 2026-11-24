@@ -29,7 +29,7 @@ footer {
     gap: rem(40px);
     padding: rem(38px) rem(25px);
 
-    @include media("<md") {
+    @include media("<sm") {
       flex-direction: column;
       align-items: flex-start;
       gap: rem(28px);
@@ -61,7 +61,7 @@ footer {
     align-items: flex-end;
     gap: rem(12px);
 
-    @include media("<md") {
+    @include media("<sm") {
       align-items: flex-start;
     }
   }
