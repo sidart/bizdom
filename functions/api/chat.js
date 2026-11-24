@@ -27,7 +27,9 @@ async function loadKnowledge() {
   if (!globalThis.__bdKnowledge) {
     const res = await fetch(KNOWLEDGE_URL, { cf: { cacheTtl: 3600 } });
     if (!res.ok) throw new Error("knowledge fetch failed: " + res.status);
-    globalThis.__bdKnowledge = await res.json();
+    const knowledge = await res.json();
+    globalThis.__bdIdf = buildIdf(knowledge);
+    globalThis.__bdKnowledge = knowledge;
   }
   return globalThis.__bdKnowledge;
 }
@@ -36,23 +38,43 @@ function tokenize(s) {
   return (s.toLowerCase().match(/[a-z0-9]{3,}/g) || []).filter(w => !STOP.has(w));
 }
 
-function retrieve(knowledge, question, k = 2) {
-  const qTokens = new Set(tokenize(question));
-  if (qTokens.size === 0) return [];
+// IDF over the whole archive, so rare words like "fevicol" outrank
+// common marketing words like "iconic". Built once per isolate.
+function buildIdf(knowledge) {
+  const df = new Map();
+  for (const p of knowledge) {
+    const words = new Set(tokenize(p.title + " " + p.tags.join(" ") + " " + p.text));
+    for (const w of words) df.set(w, (df.get(w) || 0) + 1);
+  }
+  const idf = new Map();
+  const n = knowledge.length || 1;
+  for (const [w, c] of df) idf.set(w, Math.log(n / c) + 1);
+  return idf;
+}
+
+function retrieve(knowledge, idf, question, k = 3) {
+  // match both plural and singular forms (reddys/reddy, founders/founder)
+  const qTokens = [...new Set(tokenize(question).flatMap(t =>
+    t.length > 3 && t.endsWith("s") ? [t, t.slice(0, -1)] : [t]
+  ))];
+  if (qTokens.length === 0) return [];
   return knowledge
     .map(p => {
-      const hay = (p.title + " " + p.tags.join(" ") + " " + p.text).toLowerCase();
-      let score = 0;
+      const textHay = p.text.toLowerCase();
+      const headHay = (p.title + " " + p.tags.join(" ")).toLowerCase();
+      let score = 0, best = 0;
       for (const t of qTokens) {
-        if (hay.includes(t)) score += t.length; // longer matches matter more
+        const w = idf.get(t) || 0;
+        if (!w) continue;
+        const hit = headHay.includes(t) ? w + 1 : textHay.includes(t) ? w : 0; // small title/tag bonus
+        if (hit) { score += hit; if (hit > best) best = hit; }
       }
-      // title/tag matches are stronger
-      const titleHay = (p.title + " " + p.tags.join(" ")).toLowerCase();
-      for (const t of qTokens) if (titleHay.includes(t)) score += 10;
-      return { ...p, score };
+      return { ...p, score, best };
     })
     .filter(p => p.score > 0)
-    .sort((a, b) => b.score - a.score)
+    // rank by the rarest matched token first, then by total score — so
+    // "fevicol" always beats generic words like "iconic" or "become"
+    .sort((a, b) => b.best - a.best || b.score - a.score)
     .slice(0, k);
 }
 
@@ -87,7 +109,7 @@ export async function onRequestPost(context) {
     );
   }
 
-  const matches = retrieve(knowledge, message);
+  const matches = retrieve(knowledge, globalThis.__bdIdf, message);
   const knowledgeBlock = matches.length
     ? matches.map(p => `### ${p.title} (${p.date}) — https://www.thebizdom.in${p.url}\n${p.text}`).join("\n\n")
     : "(no article matched this question)";
