@@ -1,6 +1,8 @@
 name: TheBizdom
 title: TheBizdom | BIZ of the wisDOM
-description: We are in the BIZness of spreading wisDOM.
+description: Stories from Indian business history — the brands, business houses,
+  markets, and people that shaped modern India. We are in the BIZness of spreading
+  wisDOM.
 tags:
   - Indian Business History
   - Modern India
@@ -8,6 +10,7 @@ tags:
   - Startups
   - Fintech
 show_hero: true
+paginate: 12
 menu:
   - title: Home
     url: /
@@ -17,4 +20,3 @@ menu:
     url: /contact
   - title: Newsletter
     url: /newsletter
-

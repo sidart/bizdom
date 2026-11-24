@@ -67,6 +67,25 @@ footer {
     }
   }
 
+  .projects {
+    margin-top: rem(15px);
+
+    span {
+      font-weight: 700;
+      color: #808080;
+      margin-right: rem(8px);
+    }
+
+    a {
+      margin-right: rem(15px);
+
+      &:hover {
+        color: $themeColor;
+        text-decoration: underline;
+      }
+    }
+  }
+
   ul {
     padding: 0;
     list-style-type: none;

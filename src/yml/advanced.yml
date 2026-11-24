@@ -1,6 +1,8 @@
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.thebizdom.in" # the base hostname & protocol for your site
-google_analytics: "UA-171676571-1"
+url: "https://www.thebizdom.in" # the base hostname and protocol for your site
+# GA4 measurement ID (G-XXXXXXXXXX). The old Universal Analytics (UA-) ID was
+# sunset by Google in 2023 and no longer collects data.
+google_analytics: ""
 language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
