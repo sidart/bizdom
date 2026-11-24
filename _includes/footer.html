@@ -1,14 +1,21 @@
 <footer>
-    <p class="projects">
-      <span>Also from Grey Swan Labs:</span>
-      <a href="https://datalab.affluenceq.com/" class="creator">Datalab</a>
-      <a href="https://www.getintel.in/" class="creator">GetIntel</a>
-      <a href="https://fw.greyswanlabs.com/" class="creator">Frameworks</a>
-    </p>
-
-    {% include links.html %}
-
-
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <strong>THEBIZDOM</strong>
+      <span>{{ site.description }}</span>
+    </div>
+    <div class="footer-meta">
+      <nav class="footer-network" aria-label="Grey Swan Labs projects">
+        <span>GREY SWAN LABS</span>
+        <div>
+          <a href="https://datalab.affluenceq.com/" target="_blank" rel="noopener">Datalab &#8599;</a>
+          <a href="https://www.getintel.in/" target="_blank" rel="noopener">GetIntel &#8599;</a>
+          <a href="https://fw.greyswanlabs.com/" target="_blank" rel="noopener">Frameworks &#8599;</a>
+        </div>
+      </nav>
+      <a class="footer-email" href="mailto:sid@enrichdata.in">sid@enrichdata.in</a>
+    </div>
+  </div>
 </footer>
 
 {% assign social_urls = '' %}
