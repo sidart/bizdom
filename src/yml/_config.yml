@@ -65,3 +65,4 @@ exclude: [
 
 # Theme
 version: v3.2.0
+future: true
