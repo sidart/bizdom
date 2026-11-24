@@ -67,7 +67,7 @@
       {% if page.subtitle %}"alternativeHeadline": {{ page.subtitle | jsonify }},{% endif %}
       "datePublished": "{{ page.date | date_to_xmlschema }}",
       "dateModified": "{{ page.date | date_to_xmlschema }}",
-      {% assign author_obj = site.authors | where: "username", page.author | first %}
+      {% assign author_obj = site.authors | where: "name", page.author | first %}
       "author": { "@type": "Person", "name": {% if author_obj and author_obj.display_name %}{{ author_obj.display_name | jsonify }}{% elsif page.author %}{{ page.author | jsonify }}{% else %}"Sid Misra"{% endif %} },
       "publisher": {
         "@type": "Organization",
