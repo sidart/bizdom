@@ -4,8 +4,8 @@ author: sidart
 category: brands
 date: '2020-08-18 09:00:00'
 layout: post
-image: /assets/img/uploads/essar-ruia.jpg
-optimized_image: /assets/img/uploads/essar-ruia.jpg
+image: /assets/img/uploads/essar-ledgers.jpg
+optimized_image: /assets/img/uploads/essar-ledgers.jpg
 subtitle: The journey of the Ruia family from the trading houses of Bombay to the ports of India
 description: "The Ruias started at a gaddhi in Zaveri Bazaar, built marine
   construction berths at Madras Port, and named their company after themselves:
