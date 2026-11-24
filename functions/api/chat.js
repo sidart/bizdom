@@ -1,3 +1,4 @@
+// Binding refresh deploy v2
 const SITE = "TheBizdom (thebizdom.in)";
 const KNOWLEDGE_URL = "https://www.thebizdom.in/assets/js/bizdom-knowledge.json";
 
