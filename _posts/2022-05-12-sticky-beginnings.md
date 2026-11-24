@@ -12,8 +12,7 @@ description: "In 1959, the Parekh brothers replaced hot animal glue with a white
   on, the brand had its own Bollywood song."
 tags:
 - IndianBusinessHistory
-- Brands
-- Advertising
+- DesiBrand
 ---
 
 The origins of Pidilite Industries can be traced to 1954, when Balvantray Kalyanji Parekh, along with his brother Sushil, started a business called Parekh Dyechem Industries. The brothers initially traded in dyes and subsequently ventured into manufacturing pigment emulsions used in textile printing.
