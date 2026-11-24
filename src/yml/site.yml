@@ -14,9 +14,11 @@ paginate: 12
 menu:
   - title: Home
     url: /
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
   - title: Newsletter
     url: /newsletter
+  - title: DataLab
+    url: https://datalab.affluenceq.com/
+  - title: GetIntel
+    url: https://www.getintel.in/
+  - title: Frameworks
+    url: https://fw.greyswanlabs.com/
