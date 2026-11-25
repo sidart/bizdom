@@ -1,7 +1,7 @@
 ---
 title: The three entrepreneurial lives of Anji Reddy
 author: sidart
-category: brands
+category: personality
 date: '2020-12-05 09:00:00'
 layout: post
 image: /assets/img/uploads/dr-reddys.jpg
